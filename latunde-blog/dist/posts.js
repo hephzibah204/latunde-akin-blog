@@ -1,0 +1,1862 @@
+window.POSTS_DATA = [
+  {
+    "id": "cbefd1e06c46",
+    "title": "HAVE COMPASSION ON THEM MISSIONS (HCTM) is a ministry saddled with the responsibility of winning souls and providing support for missionaries.",
+    "text": "HAVE COMPASSION ON THEM MISSIONS (HCTM) is a ministry saddled with the responsibility of winning souls and providing support for missionaries. \nThe mandate is to \nRestore the act of grassroot discipleship among believers\nRevive the missionary spirit in every believer in Christ.\nReach the unreached people,unreached places and suffering saints for Christ with both the gospel message and various support systems.\nSupport systems in term of\nPRAYER INTERCESSION FOR SOULS\nPROVISION OF FINANCES,FOOD AND SHELTER FOR MISSIONARIES. \nRight now we have a network of missionaries in all states doing the work of discipleship. \nRight now we have student missionaries undergoing training. \nRight now,there is a dare need of many more who will be willing to go for Christ and be lost from the worldly amusement inorder to save the lost.\nRight now we are in need of BELIEVERS IN CHRIST who are ready to support suffering missionaries. \nRight now God is in need of those who can join us for intercession. We have been on a marathon intercession since 868 days ago.\nYou can let me know if you're interested and you know you will be committed. \nAs a matter of fact,and to the glory of God,we labour more in the secret because we know our God detest undue publicity.\nWe currently have many missionaries who are in need of support. \nIf you're not a believer, your support is not needed please.\nIf you're a believer with a burden to wipe tears from eyes of missionaries on the field, please get in touch with me on whatsapp 08123428989. \nSoon we will begin to organise online revival training on the ACTS OF MISSIONS AND SOUL WINNING: RESPONSIBILITY OF EVERY BELIEVER.\nIf a believer decides to remain unfruitful in his or her pilgrims journey, then such believer is already lost with the lost world. \nSince you became saved through the shed blood of Jesus, you have not personally discipled another person. Or you have become history in the act. You need God's touch afresh. \nIf Jesus has lost you as a believer simply because you're not doing what He instructed. Then you are of all men most miserable. \nIt is this burden for other souls that should engulf your heart as a believer, not just the enjoyment you recieve from fellowship with God.\nAnd if you are privileged to support those with this burden. Even me I will jealous you, because I know the secret of supporting God's dream. People who support are likely to divert God's attention to themselves more than those who are suffering for the work. Reason before any man can beat me in giving,it must mean that fellow is in total surrenderness too. Quality of sacrifice is the key,not the quantity. \nIn your various vicinity, begin to show the light of Christ. Think replication of grace from you to others. Think personal evangelism. Think God's judgement upon you if you don't represent and reproduce Him well.\nHave compassion on them.\nHave compassion on the lost to rescue \nHave compassion on the least of His servants who are toiling day&night. \nMay the burden for salvation of souls consume your heart afresh. May your heart become awakened in Jesus name. \nYou won't go an empty handed to meet your Saviour so. \nYou and I will become so fruitful in Jesus name. Amen",
+    "date": "September 21",
+    "images": [
+      {
+        "src": "assets/cbefd1e06c46-0.jpg",
+        "alt": "May be an image of text that says 'I died for your sin, live for me. me. -Jesus.'"
+      }
+    ],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid034c83NNRqgmzYZvQkgttSmcjGi2e7pj3CiF2uL2iwT8ZKoa7uJALg6MgTZy2RueAWl",
+    "minutes": 3
+  },
+  {
+    "id": "e77e43f09fdf",
+    "title": "SON OF A GENERAL OVERSEER WHO IS IN THE TRAP OF THE DEVIL: HOW IT STARTED.",
+    "text": "SON OF A GENERAL OVERSEER WHO IS IN THE TRAP OF THE DEVIL: HOW IT STARTED.\n(By Latunde Akin)\nA older sister in the church headquarters called him to ofiice and started enticing hin with money,care and gifts. He was in his teenage years then and his father and mother didn't have time for  him due to their very busy schedule. \nThis church sister lured him into concentrated immorality without the knowledge of his parent. \nHe will sleep with this far older sister even in church premises. \nThe parents were busy preaching to others when they couldn't have time for their own children. \nEven the General Overseer has no such time for his wife that his wife secretly complained a lot and had to endure the pain. Inturn the wife too took solace in getting herself busy that she left her children in the hand of carers. She didn't even have time to personally cook for her husband . They had cooks .\nIn a very sensitive spiritual environment as church they overlooked the sophisticated networks of hypocrites and proffesional devils. The never believed in DELIVERANCE. They taught bible so much till bible began smoking \n  I NEED DELIVERANCE . \nWhat do I mean by bible smoking I NEED DELIVERANCE? \nWhen people teach bible from cover to cover and yet they couldn't cover it enough. The bible then began to feel it's in bondage in their hands. And then began to shout \n I NEED DELIVERANCE BIKO! \nWhen you begin to tell people there's nothing like deliverance after salvation experience,then the devils in the church will become so happy to perpetrate evils in the life of those who become cold after being saved. \nIf there is possibility of coldness and backsliding then there is also possibility that believers in Christ can be afflicted at that time of coldness,prayerlessness. So the need for deliverance prayers. Hot prayers. \nThey may never become possessed but they can be depressed, obsessed and oppressed in certain aspects of life when they are cold. \nThis son eventually grew to be sleeping with church sisters and the rest. He became a stylish thief and took money to buy things. \nWhen his parents eventually discovered their lapses,it was too late so they had to cover up their lapses so that the church won't scatter.  They bundled the son far away into oblivion and the matter grew worse for the son than the beginning. \nAll those who knew this couldn't talk or face them to tell them reality of calming down to draw the son closer in love. Those who tried to know what was going on then were transferred into far bushes to go and pastor there. Some were disciplined because they tried to question somethings regarding the matter as related to not covering up. They will just find an offence not related to nab them and judge them. And to be sincerely, it's not easy building a church and seeing it scattered. \nBut the main issue is that the devil has covered the General Overseer through his son. He can't get the General Overseer but he got his son through the parent's lack of knowledge in Spiritual Warfare and DELIVERANCE. If anyone tries to tell the man's wife then about witchcraft operations,she may even become your enemy. For you to know how deep their bible was crying for deliverance. They think they knew bible but bible is saying YOU CAN'T KNOW ME ENOUGH!\nTheir son became another thing else in that far away oblivion. Duped a lot of people in millions. Blackmailed a lot with vedio sex so they can keep shut etc.\nWhen the battle was thick for him,he tried to come back home to the Lord but the father's love became absent from his father. A prodigal son was left in the cold to keep suffering for his many sins. What a father's love? What a life? \nThe devil is feeling so happy \n now that his father doesn't have time for his son's homecoming.  The father is too busy preaching gospel all around the world. \nFor me, I strongly believe in INTERCESSION of the brethren. So that we can stop devils happiness over this matter. \nYou must not rejoice over this or try to blame anybody. What you and I must do now is to first learn from the situation and then cry for mercy on behalf of the parents and the son.\nThe prodigal son must be welcomed home and must not be left to suffer for his sins. Jesus didn't taech us that way ! \nI believe you should be genuinely ready now to intercede? You don't need any names to do that.  God knows them and he will answer your prayers in Jesus name. \nIn our little corner,we had engaged interceeding for them for more than 300days and we are still doing. \nWe are not perfect too but God sees our hearts and probably that's why He is protecting us too despite many negative thoughts of people thinking otherwise. \nNobody can judge anyone better,not even me. But God is our greatest judge. He judges the intent of people's heart better. \nSo let us first learn from others mistakes and pray for them genuinely always. \nGod bless you all for reading through. Amen",
+    "date": "7h",
+    "images": [
+      {
+        "src": "assets/e77e43f09fdf-0.jpg",
+        "alt": "May be an image of eyeglasses and hat"
+      }
+    ],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid02L9m9GpRKjZAWtnephtALZ4iw9gMK9neRhfPUeYWTsd1mpRbvdUEQaXx8eLe4v5yGl",
+    "minutes": 4
+  },
+  {
+    "id": "aec846259ead",
+    "title": "TOLUWANISINGS : LESSONS YOU AND I MUST LEARN ABOUT HIM.",
+    "text": "TOLUWANISINGS : LESSONS YOU AND I MUST LEARN ABOUT HIM.\nBy Latunde Akin \nI can't believe there are many Christian believers that still doesn't believe life is a battlefield and that after experiencing salvation in Christ,you still have a lot of battle to fight against your former foundation from your bloodline. Every believer should know they have work to do.\nI heard TOLUWANISINGS on interview with a nollywood actress stating categorically that he doesn't believe in fighting battles or singing about battle against evil than only to worship God.\nI actually understand him so well and I agreed with him about being focused of worshiping and singing about the finished work of Christ. \nWhat I personally discovered in the interview was just that he seemed to neglect the need to fight battles. Leaving battles aside for God to fight is good but we are the one God will still use to do it. God expected us to fight it squarely so he can help us with His power.\nSecondly a lot believed he was 41 years old,later to discover he was 34 year. I don't personally know how such wrong narrative emerged into the public but this is what I think happened. He probably lived mature than his age and people around him thought there are things he had known. Else they would have taught him how to handle things better. \nHis mother demised when he was six month. He lived and was catered for by his mother's sibling. He never enjoyed parental upbringing. So there wasn't so much connection between him and his biological father. \nMuch more his father is still a Muslim,likewise his direct family from his father's house. He built the first house,second house and God lifted him into limelight. Definitely and certainly,those unbelieving people from his house will want to start a spiritual battle against him. Apart from the one he will face for the fame or from outside. \n\"Bi ogun ile koba jani,tode ko le pani\". If battle from inside isn't fighting you,battle from outside can't succeed \"\nFor every believer,I always advise that we must always be battle ready. We must understand that success doesn't mean battle is over. Salvation in Christ doesn't mean battle is over. The finished work of Jesus doesn't mean we must be ignorant of the devices of the devil. \nToluwanisings didn't die at a ripe age we all expect and this brings about many concerns to a lot of people. We may say God knows the best but we still know it's not normal. \nHealth wise every person must always be sensitive to what their health is saying. Do get checked up often and monitor your blood pressure always.  We shouldn't totally spiritualise matters when it's purely medical ignorance because of work work and work. \nI can still tell you your need and assignment as a believer is to first face and fight the battery from your father's house on your knees every night before or after any success in your life. If you don't,they may come back to hunt at a time you least expected.  And they do this in collaboration with the public or people from the outside. So you won't suspect where is the source of the trouble is coming from. You will be pointing hand towards people you met at work,church,neighbours outside ,when the real source is from your ignored background or foundation. They only collaborated. \nIn a bit to help a lot of people maintain consistent prayer life. We have set up a 1 hour prayer time on telegram group (not intercessory group). Where we all pray together every night and fight our battles together. The time is 11pm to 12am every day. \nAND WE HAVE STARTED THIS SINCE 767 days ago. Which means we are 767 days into it already. We chose 11pm to 12am because there is power in night prayers. Any decisions any evil personalities are making against anyone,it's that time we dismantle them everyday. And as we break into 12 am which is when everyday begins,we began prophesying over the day. \nThere is power in consistency. You don't have to spend long hours praying. 1 hour every night is power. We pray on just one prayer theme for a week. Your battles can't survive it. Join us through the channel in pinned in the comment section.\nMay the Lord sustain Toluwanisings wife and children. May they live to fulfill God's plan. \nMay we all arise and fulfill God's assignment to pray in Jesus name. Amen",
+    "date": "October 25, 2026",
+    "images": [
+      {
+        "src": "assets/aec846259ead-0.jpg",
+        "alt": "May be an image of one or more people"
+      }
+    ],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid02smHmkB2SHt82KWaMQHpHmzyD4mMkuv1vPcCKRJUhMa224meCAR8sszUXqxp61L7jl",
+    "minutes": 4
+  },
+  {
+    "id": "7121f4fb28d3",
+    "title": "GBENGA Adeboye,the man of God who never become one.",
+    "text": "GBENGA Adeboye,the man of God who never become one.\nOnly people born before years 2000 can know him.\nHe was brought down by disobedience to divine instruction. \nHe was brought down by women! \nHis father who was a Deacon and his prophet told him never to marry the woman he married because the end is not going to be good for him.\nHe refused and went away to conduct the wedding without any of his parents and siblings. \nGod told him he is His servant that he should rededicate his life to the gospel. He kept postponing till the enemy cut his life short. \nA reckless spender and giver. He lived his life making others happy but nothing could make him happy on the long run without obedience to God. \nHe enjoyed drinking alcoholic beers,sleeping out with friends and doing juju.\n The first person witness account is on the interrnet so it's not a rumor please. You can search it.\nHe lived carelessly believing he has special powers from God and juju. He trusted people so much without controlling how he talked. And people around him can't trust him with any secret because he couldn't control his tongue anywhere. \nBeing a communicator,comedian and entertainer shouldn't mean we mustn't briddlle our tongue. Wherever necessary. Same tongue that is making money can as well mar things if we do not tame it.\nHe suffered intestinal perforations. After successful surgery and doctor's instruction not to give him any drink orally. His wife gave him tea and  it necessitated second surgery which caused his demise. \nDraw lessons from here\nGbenga disobeyed his parents instructions not to marry the second wife. He got married without them and the end wasn't good. \nWho do you know you're disobeying now? \nPlease think deeply and be calm. What they see you don't see. So it's better you are patient. \nWhat is God's instruction for your life now,but you are rejecting or sidelining it?\n You love the world and enjoyment more than your CREATOR? \nPlease change now and obey God's purpose for your life before it's too late.\nGbenga Adeboye even at that disobedient state always prophesy and see open visions. God didn't withdraw those gifts from him. If he tells you your future believe it,that's how it is. But he never obeyed God's calling to totally dedicate himself to God's work. \nThe time he realised the need to do that,he wept bitterly on sick bed and left the scene with unfinished task of total dedication to God.\nThis is never to say anything negative but to let people know their needs to remember their God while it is day. Because the night cometh when no man can work.\nMoney,fame,pleasure are good but God must always comes first. \nAre you living your life carelessly too? \nMay God have mercy on you today.  In Jesus name. Amen \nYour brother \nLatunde Akin",
+    "date": "October 24, 2026",
+    "images": [
+      {
+        "src": "assets/7121f4fb28d3-0.jpg",
+        "alt": "May be an image of one or more people and people smiling"
+      }
+    ],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid0J4sEYTBsd2fC7jtAwf5PwLAnPKQnBhsd3MFaUKxmCv9qUg3UwuA3MQ4WSKZWFo7Gl",
+    "minutes": 3
+  },
+  {
+    "id": "eab94ab4047d",
+    "title": "Dr Samson AYORINDE, General Overseer of WORLD  EVANGELISM CHURCH BIBLE CHURCH.",
+    "text": "Dr Samson AYORINDE, General Overseer of WORLD  EVANGELISM CHURCH BIBLE CHURCH. \nIn those days,I know a witch who watched him on television and immediately said something was wrong with the man of God. \nI looked at her too from head to toe and said to myself that even witches can spot something wrong when they're the problem of men of God themselves. \nThe city crusades of this man of God then was so much that it was enough to jealous him.\nI wouldn't say I too believed him then. I didn't believe him too because I am mostly dominated by the study of Bible doctrines and living it rather to show of miracles without solid Bible knowledge. \nProphet Samson AYORINDE was so charismatic with miracles and selling of miracle items like handkerchief and the rest. \nEven genuine believers too knew something was wrong then but we only criticised. We never genuinely intercede for him.\nThe man of God started to be known after his 40days fast when healings began to happen through him. He moved from Ilorin to Lagos. They were probably together he and baba OMOLEHIN.\nHe filled stadiums and open fields to the brim for Jesus. \nBut his church do borrowed loan from banks to foot bills just like many churches are doing now.\nAnd when they couldn't pay on time they put pressure on the members by using gimmicks and wayo to collect money. They can even fake miracles so that people can give money and so they can pay back loans they collected from banks.\nPastor Samson AYORINDE took 30 million loan but couldn't pay back on time and the interest accrued overtime. The bank took him to court over it and the church members scattered. Church members probably felt the pressure of paying back the loan too(my guess).\nHe later paid but the ministry never remain thesame thereafter. He is still preaching and doing ministry but not at former level of fame,prominence and city wide crusades again. \nIn our intercessory prayer group,we remembered him and prayed for him too for 3 days. We pray that God's mercy be increased upon him and that he will end well in Jesus name. \nMany of God's generals we don't hear much about again are not all evil. You may be suprised to know how much battles the enemy waged against God's plan for their lives and some fell along the way. \nProphet Samson AYORINDE is still active in the work of ministry and I believe he has a lot to teach younger generations on how not to move faster than God in anything you're doing. \nWe reached 900 days of intercession yesterday praying for others and not ourselves. About 40 of us gather every night to pray for wounded souls,lost souls,the sick,the needy,the soldiers of Christ and their ministries. And we remembered Prophet Samson AYORINDE too. You too can join us by requesting the link inbox. We meet everyday at 10pm. \nIf you can criticise people,please you will do well to intercede more than criticism. God is is need of men with genuine COMPASSION and not men who only specialise in CRITICISM. Yes we must say the truth but laced with grace.\nLet him that thinks he is standing beware so lest he falls. \nWe pray for the man of God to finish well in Jesus name. Amen \nYour brother\nLatunde Akin.",
+    "date": "October 23, 2026",
+    "images": [
+      {
+        "src": "assets/eab94ab4047d-0.jpg",
+        "alt": "May be an image of one or more people"
+      }
+    ],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid02p9H8cSfq35g8H9cCTx9spBMKSd985qPcMnqojved7tXtccfErY2dRkB4CxjrD1kxl",
+    "minutes": 3
+  },
+  {
+    "id": "ba4e0dc902aa",
+    "title": "Pastor Patrick Anwuzia , GENERAL OVERSEER OF ZOE MINISTRIES WORLWIDE.",
+    "text": "Pastor Patrick Anwuzia , GENERAL OVERSEER OF ZOE MINISTRIES WORLWIDE. \nA man of many miracles and deliverance. \nA man God used mightily to fill stadiums in the 90s and early 2000.\nA man with flowing agbadas and flowing anointing. \nA man that took over the television ministry and widely demonstrated acts of God .\nA man we the SU of those days tagged backsliided or extravagant. \nSuddenly he disappeared from the public ministry. \nIn our intercessory prayer meeting last week we remembered to intercede for him for three days. \nWe remembered him and were moved to plead to God on his behalf for great mercy to finish well. \nWe are not after the controversies surrounding his disappearance from public eye. Our concern is purely to lift him up in prayers. \nMany Genzs may not know him,but those who were born in the 90s or early 2000.\nThe church soon forget supposedly fallen soldiers or men who laboured in the past for God.\nWe thank God for the man of God,he is still in ministry in a very private way. \nI believe he has many lessons to teach younger generations on how not to fall victim of the onslaught of the devils. \nMay God help him end well in Jesus name. \nYou too can join our intercessory prayer group. HAVE COMPASSION INTERCESSORY TEAM. We pray every night at 10pm for souls. You can message me inbox. \nGod bless you. \nYour brother ,\nLatunde  Akin",
+    "date": "4d",
+    "images": [
+      {
+        "src": "assets/ba4e0dc902aa-0.jpg",
+        "alt": "No photo description available."
+      }
+    ],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid02PYT1hphRjEXZgB46Ng6P2XhcAkLUGweb3zhTPtFD9jxnKub8H3hX9nUMwe4YwZh5l",
+    "minutes": 2
+  },
+  {
+    "id": "596571f2eb36",
+    "title": "Happy birthday to my wife.",
+    "text": "Happy birthday to my wife.\nA soul carved by God for me\nA daughter of Christ and mother of generations.\nThe Lord bless her always and make His face continually shine on her .\nAmen",
+    "date": "October 11 at 7:54 AM",
+    "images": [
+      {
+        "src": "assets/596571f2eb36-0.jpg",
+        "alt": "No photo description available."
+      }
+    ],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid02nBoussVzTp9iHqPXZeB77aBMsJTE2fDjKPXP6HVko8QsnbkzCgdawniPuNT6DnA8l",
+    "minutes": 1
+  },
+  {
+    "id": "39394819f9ad",
+    "title": "STOP THAT DECEPTION TODAY!",
+    "text": "STOP THAT DECEPTION TODAY!\n(By Latunde Akin)\nA grand deception is going on amongst many churches now.\nThey like to preach what will increase their membership, but what will scatter those members to go and disciple others. They won't want to preach. \nSome like to preach the finished work of Jesus (salvation) and other added juicy benefits. \nBut to preach the unfinished work of Jesus, which is MISSIONS. They won't want to preach it so as to keep cycling their membership because of love for fellowship and benefits of fellowship. \nThey forget fellowship isn't the ultimate intention of God,but Missions. Reaching the unreached and discipling all tribes of people. \nDo you know most churches now prefer holding crusades in cities where people are already reached with the gospel. What is the motivating factor around this?\nMay I tell us that many great men have lost focus. Bible study is good, but what use is Bible study that keeps feeding people to stupor? Much knowledge, less practicalities. Many don't even have Bible study anymore. They would rather sing, motivate,dance, and enjoy speaking in tongue. \nThis deception must cease amongst us. if we must become fulfilled by taking the gospel personally to others,we must stop building empires.\nAnother deception is making merchandise using the church all in the name of establishing businesses. Using religion to make ourselves rich at the expense of doing the real work of missions. \nWhat is the real work of missions? Focusing on people's need for salvation and discipleship more than focusing on big projects building or big crusades that don't reach places that are yet unreached. \nBrethren, if you won't deceive yourself, you will discover that your brain has been wired to always attend services or programs every day but never to scatter to go places and preach the gospel. \nRomans 15:20  says, \"  My ambition has always been to preach the Good News where the name of Christ has never been heard, rather than where a church has already been started by someone else.\"\nFrom the above,can we see how far we have gone at deceiving ourselves? \nAnd even those who are trying to scatter themselves into those unreached places, we don't financially support them. We complain by saying that organising big programmes and projects are demanding much finances. So we neglected the real deal just because it's not FASHIONABLE!\nGod will judge a lot of us this neglect if we don't repent. \nBeliever in Christ, please I adjure thee to arise personally in support of missions and missionaries. If you can't go,let your virtues,and your blood go! Your money is your blood! It is your virtues and it speaks louder on the field of souls. That is if you can't go because of your career and work. You can determine to pray for the work as well at a schedule time of the day.\nIf you're not intentional about doing your part,you're simply wasting your life attending fellowship just to please yourself and not God.\nHAVE COMPASSION MISSIONS is dedicated to helping Believers in Christ recognise their urgent need to arise and become burdened with the burden of the Lord to reach out and disciple others like themselves. We have missionaries across the nation we encourage day by day as well.\n As you are led to support them on mission fields or even prepare to go yourself. Simply get in touch with us on WhatsApp 08123428989.\nIn whichever way,do not let the deception of churchianity gets into your head. The Lord is going to ask you personally about your impact in His kingdom after He had saved you from sin,Satan and sickness. \nIn a local government where I know. There are big churches in the town whereas,in the neighbouring settlements of about 169 villages,I was suprised to discover that,there is no gospel around there. The people are starked unbelievers. Yet none of big churches want to go there! \nWe should not be decieved. We we reap what we sowed. God is waiting for us to sow in tears of compassion for souls. By this,we are reaping in a great harvest for God. \nNot in deception of FELLOWSHIP in over-ripe places ,but in the penetration of FIELDS that are ripe with genuine gospel outreaches and support. \nGod bless everyone who sees sense in this. Amen",
+    "date": "October 9 at 7:44 PM",
+    "images": [
+      {
+        "src": "assets/39394819f9ad-0.jpg",
+        "alt": "May be an image of one or more people, beard, people smiling and eyeglasses"
+      }
+    ],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid0d7XXcSLE5bgKLC7mmtkrZbKHEzDtW3urdhgZTkybTnFUb5yURmdNZyT7Br9us7A3l",
+    "minutes": 4
+  },
+  {
+    "id": "74bd04f2d9cf",
+    "title": "CAIN WAS BORN AGAIN",
+    "text": "CAIN WAS BORN AGAIN\n(By Latunde Akin)\nI observe how people regard Cain with the disdain reserved for a consummate sinner.\nI see how others distance themselves from Cain merely because God disfavored his demeanor.\nI witness those in church employing their limited perception and understanding to judge those they deem inadequate.\nAbel, Cain's younger brother, born of Adam, was a shepherd, while Cain tilled the land.\nBoth were familiar with the Lord.\nBoth worshipped the Lord.\nBoth maintained a relationship with God.\nBoth understood the essence of offering their all to God.\nBoth experienced rebirth according to their enlightenment in transformation at that time. \nTHAT WAS A BORN AGAIN EXPERIENCE TOO according to that dispensation pattern. \nIndeed, there are many believers today who are like Cain. Many pastors are like Cain. Numerous church workers resemble Cain.\nMany had profound experiences with God, much like Cain. They possess the discernment to sense God's presence. They can ascertain whether their offerings are accepted by God or not too just like Cain. \nDo not tell me Cain was ignorant of God.\nDo not suggest he was indolent or idle.\nDo not infer that his vocation as a farmer was inferior to being a shepherd.\nThe mere act of offering his harvest as a sacrifice to God signifies a profound knowledge of Him.\nWhere did Cain falter?\nThe scriptures state, \"Cain brought some of the fruits of the soil as an offering to the Lord - Genesis 4:3,\" and \"Abel also brought an offering—fat portions from some of the firstborn of his flock... Genesis 4:4.\"\nFrom the scripture, it is evident that the distinction lies in the word \"fat,\" not \"some.\"\nGod is not concerned with the quantity of your service in His vineyard. God does not seek the quantity of your sacrifices or offerings.\nGod desires the quality of your worship or offerings, which is invariably linked to your obedience and the condition of your heart.\nCain's divine encounter was marred by selfishness, covetousness, and a diminished quality of offering. He likely reserved the best for himself, offering the second best to the Lord. Meanwhile, Abel presented his finest.\nA secret here \nWhat truly delights God about our offerings is the heart of obedience, not the gift itself. God perceives either worship or warship in our sacrifices for His glory. Offering a warship to the Lord means being prepared for conflict. Be mindful of the signals you send to heaven. Cain sent the wrong signal, and turmoil persisted in his life. Had he repented, I believe circumstances would have changed.\nI personally encountered this recently and repented immediately.\nI intended to give an offering and heard the Holy Spirit urging me to give the highest denomination. I disregarded this and gave the second best. Upon leaving the place of worship, all the money in my pocket vanished. I realized I had missed God's desire to offer the best currency. I repented immediately by answering another divine call to bless a missionary, to demonstrate my remorse and learning.\nOccasionally, when people give to bless the missionaries, God restrains me from uttering divine words in response to their kindness, beyond a simple thank you. Sometimes, the Spirit moves me to offer intercessory prayers that even stir my envy, wondering why God favors such individuals more than myself. That is the nature of God. He discerns our hearts during our offerings or services.\nI now comprehend why Cain erred. \nGod valued quality above quantity. \nCain could have repented but chose jealousy, leading to Abel's murder. Cain became a wanderer, marked for divine vengeance. People feared harming him due to this mark. He lived in spiritual stagnation, dying without repentance. He forfeited his place with God, and Abel's blood continues to speak.\nWhat many fail to realize is that God perceives blood in every form of sacrifice or offering—not mere physical actions or monetary contributions. When Abel offered his fat (not quantity) sacrifice, God sensed the aroma of Abel's labor. When Abel's blood was shed, God witnessed another righteous soul's blood crying for justice. Hence, the blood of Jesus was shed to provide justice for sin and judgment on Satan and his demons.\nThe currency in the spiritual realm is always blood. Therefore, exercise caution in presenting sacrifices to the Lord. Always offer your best to the Master. Be a living sacrifice, holy and acceptable to the God you worship. Do not squander your life before His altar like Cain, Ananias, and Sapphira.\nCain knew God but lost Him due to his inability to offer his best to his Master.\nAre you born again? Understand that being reborn is insufficient. You must continually nurture a heart aligned with His worship.\nMay you and I not become spiritual wanderers in life's journey. Amen.",
+    "date": "October 8 at 9:33 AM",
+    "images": [
+      {
+        "src": "assets/74bd04f2d9cf-0.jpg",
+        "alt": "May be an image of one or more people and people smiling"
+      }
+    ],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid0xXp1unZ4CPexmriUPNW8PtsP2hkh73bGujRU2V9jJfLcDKxNRwqFrkoKarwLsX1Al",
+    "minutes": 4
+  },
+  {
+    "id": "e611d85f2da0",
+    "title": "TREAT PEOPLE BETTER. STOP BEING AWFUL",
+    "text": "TREAT PEOPLE BETTER. STOP BEING AWFUL \nBy Latunde Akin \nI was that awful too but I learned my lessons and tchanged for the better. Now I write from a better position. \nWhen people LOOKED my face,they will say I was gentle. And I will also play along as if I was. But within me I knew I wasn't. I was a tactically terrible person within my space. Oh ,so terrible that I made people shed tears. Causing emotional damage everywhere but in a very pretentious manner. \nI am never a narcissistic person and the reason is because I am actually a genuine believer. I will go to weep before God as well for causing harm to people around me. Asking for a transformation. \nAt least people could still manage me because they know I haven't lost my heart of being contrite. I will want to believe they probably saw I was still a candidate in the school of brokenness. Just that I kept failing in the school.\nThe way God dealt with me was also terrible. Probably because of His mercy He had to deal with me in such way,so that I can stop having carry-over all the time.\nGod used witchcraft people to deal with me mercilessly \n. \"Shebi I no wan pass for brokenness class before ni,\". I ran my feet no touch ground. \n.\nYou can't continue to treat people wrongly and still say you want to be preaching gospel. If God allowed you for a while to be progressing because of his hand in your life and you don't stop treating people wrongly, One day,He will remove His hand so you can know your anointing can't deliver you more than your good character. \nI saw pepper \n, and my eye clear\n. I can't tell you all the stories here. I know you like some stories that should not be said outside \n. No be me go tell it like that.  Na my experience, go get ya own experience. \nJokes apart, if you are misbehaving or treating people wrongly, please stop it today so it won't stop your joy. \nAs a man in the house, treat your wife well.\nAs a man in the office, treat the ladies and associates well.\nAs a leader in church, stop hurting people.\nAs husband, avoid damaging people's emotion,and stop disturbing people's mental peace.\nYes,know how to balance rascality with genuine heart for men and women. \nYou see, if you refuse to be broken as part of God's standard for His own people, If God loves you,he will use even the enemy to break you. If you're still not sensitive to know it's God using the enemy, and you still go about praying that your enemies should kpai. Then be sure you are totally going down the drain as well. \nMost prayers we pray against enemies are not necessary if we can check inwards first for our wrong attitudes and ask God to transform us better. Enemies are not so powerful if we don't give them that power from our wrong attitude. Enemies feed on our wrong attitude to thrive. Get this fact and get sense today. \nI see men who look nice outside but inside their house they are not nice at all. Why? Are you possessed ni?\nIt is better a man provides good leadership in his house first before projecting himself in the public as a leader. You be yeye leader if those in your house can't enjoy you.\nWhat women need is good leadership and not just giving them things at the expense of their peace of mind. \nNo matter how great a woman is,if you can provide good leadership for her,her stubbornness will keep melting at her seeing you. People may think you are too nice,but it's only her that will know it's not just about being nice (because no be niceness woman go chop),it's about being a good leader who carries her along by being supportive ,responsible, and protective. \nAn insecure man is a w.i.t.c.h. Men  should stop feeling insecure beside any women, else they will see you as a security threat who can't protect them from danger. Men were built by God to protect women naturally and if your case is different, you will likely turn such woman into a monster. She will like to protect herself by all means when a man isn't there to provide it.\nMan,you better calm down today and forever. Be a man,and stop that wrong behavior. \nYes you might be a believer, and you fall into this category of stunted children of God with many carry- overs in your life. All you need to do today is to simply humble yourself before the Lord and His people so that you won't be humbled by forces of God and Satan. \nDo not say,you have your rights to claim when people around you are getting hurt. Remember that tree of good and evil looks right too,but cannot be compared with tree of life. Stop eating fruits from tree of rights and wrongs. Begin to eat from the tree of life. Humble yourself and repent genuinely. Give God reason to be happy about you always. \nBe courageous as a man,be bold as a man. Stop playing victims game.  Stop defending yourself when you are wrong. What a woman needs is sincerity, not perfection. \nLeadership isn't by mouth, but by having a mind like Christ. Humility and wisdom, courage and compassion. Radicality with sense. Amen \nGod bless you.",
+    "date": "October 6 at 1:57 PM",
+    "images": [
+      {
+        "src": "assets/e611d85f2da0-0.jpg",
+        "alt": "May be an image of one or more people and people smiling"
+      }
+    ],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid03d1MfarwAquVaXXRCCtxWBNcBJHTszvdADGY7igorcHor32AH6Bwkw2AU7h3bU9vl",
+    "minutes": 5
+  },
+  {
+    "id": "754826daad6e",
+    "title": "A PRAYERLESS CHRISTIAN.",
+    "text": "A PRAYERLESS CHRISTIAN.\n(By Latunde Akin)\nA prayerless christian is a crooked christian.\nA spiritual criminal,a backslider,and already made to be engulfed and swallowed by hell.\nPrayer is a direct holy rebellion against devil.And in that respect if the devil tag you a rebel.Won't that be good?\nOur theology minus 'KNEEOLOGY' is no threat to the enemy of our soul.\nThat you cannot pray more than you talk is a sign that you're a corrupted saint.Already in Satan's cage.Ready to be slaughtered like chicken.\nBy your prayerlessness,you're more useful for Satan in God's camp than Satan's own agents in his camp.\nDo you get addicted to watching cable TV,films,internet until those gadgets begin to watch you in return?\nWhy not return to your knees(your first love)today?\nDo you know a crooked christian shall not make heaven?\nChristian seek ye not repose....in the midst of foes you are.Watch and Pray.\nMany lives God wanted to transform by your prayers are still getting wasted day by day.\nEven your present lack is because of this same prayerlessness.\nWhy not ask God to release upon you afresh your passion to pray?\nOr is it work schedule hindering you?\nBut you can sleep without hinderance?\nGod must rescue spiritual lukewarm people today if they will repent.\nRight now,recieve your lost spiritual strenght back in Jesus name.\nRedundancy begone!Amen.",
+    "date": "September 27 at 11:24 AM",
+    "images": [
+      {
+        "src": "assets/754826daad6e-0.jpg",
+        "alt": "May be an image of one or more people"
+      }
+    ],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid02HPmZTujVg443kjmu1BdjYtUwddZ6MjMePgTA4NxDvt54gLSzWoZ4NPCi8SxNWmoml",
+    "minutes": 2
+  },
+  {
+    "id": "fe24d595f589",
+    "title": "WHEN GOD MET A LOT OF US AT OUR YONGER AGE",
+    "text": "WHEN GOD MET A LOT OF US AT OUR YONGER AGE\n(By  Latunde Akin)\nWhen God met a lot of us,we were much younger and our responsibilities were being taken up by either parents or sponsors. \nWe met God in an encounter at the cross where our sins were forgiven and the fire of salvation was kindled. We became adopted by God and our journey started.\nThen we had no problem with money or pursuit of money. We embraced the Lord from younger age and much more those who discipled us did so well. They taught us how to do Quiet Time,and our growth was directional. People called us S.U just to show we are different from them. \nYes some believers had it rough from the beginning, they weren't exposed to torough discipleship. Some believers didn't have anyone consistently discipling them, so they had inconsistent doctrinal upbringing.\nDiscipleship became declining in various churches or gatherings and brethren who were once discipled well stopped discipling others. Many of us who were once on fire for God started another silent movement by  establishing our various colonies where we like to maintain. Colony of spaces where we can find position to rule and get money. \nBrethren God favored in places and companies of influence began to see those opportunities as a means for capitalistic tendencies. Yes,their responsibility has become raised due to need to sustain their immediate family and thus became encumbered with what to eat and drink. \nChurches which were small became so big that they don't have time again for grassroot work of discipleship. \nProjects and expansion techniques have taken over their mindset and the pressure alone is very distracting. \nProgrammes that attract crowd became their target and they covered it up with the excuse of doing mass evangelism. \nProcess of administration in the church revealed CAPITALISM. A system copied from the government which amasses fund towards the centre. The center now become the focus all because of money. \nBelievers lost their sense of decorum as money pumps in to the center, or as they get more comfortable in their various places of work.  They lost their first love. Their first fire became smoke again. Our love for God became sliced into pieces. We still love God,but that love is now being channelled towards becoming more religious than the God of the religion. We love holy parties now than serious decipleship gatherings. \nThe church system is being built now in such a way that those who are really doing the work are the one massively suffering. Missionaries are suffering, oh they are suffering. And it is not that there is no money, but believers are spending money on bigger programs and building projects. \nThere is a cancerous situation now in the life of many believers that many are not even aware about. It has eaten so deep that they are even ready to support bigger activities at the centre at the neglect of grassroot discipleship of souls. \nIf you watch well, people already know they are neglected in various churches. They will just attend service and go home. Nobody is actually interested in their discipleship or care about them. \nA lot of pastors are pastoring nothing. They only write reports, collate papers and only run administration. A lot of them have neglected genuine SHEPHERDING. Discipleship is fast eroding. \nLust for money,position and fame is covered up by religious activities and services termed FELLOWSHIP. Hmm...fellowship indeed. Fellowship that neglected their brethren on the mission field. Fellowship that has lost her focus of discipling all nations. All that the fellowship is after are CONVERTS. They believe increase in population is DISCIPLESHIP already. They recruit Converts who are not properly discipled into positions or working team. This contributed to a lot of stunted growth. \nRoot of all these is actually traced to the negative effect of money. It creeps in subtly  if a believer becomes distracted by its lack or by its accumulation. Lust of the flesh and pride of life. Prosperity gospellers and pentecostal miracle proponents more than the major purpose of Christ caused much more havoc than the good in it. They make believers lost focus of each an everyone discipling others.\nA believer is damaged already when he could no more longer disciple another person and instead he is just encumbered with corporate programmes and activities or businesses or work. \nA believer is damaged already when he has lost his original love for God and is now chasing shadows.\nA believer is damaged already when his compassion to support Missions,Discipleship and Missionaries is lost. If your church is distracted, you mustn't be personally distracted. \nA believer who has no time to intercede for others on his knees is already damaged. Probably your pursuit for money has damaged you.\nAt this point, we shouldn't hide from the fact that our lives need repair. \nHow will I shy away from that fact? Then it means someone is about to be swallowed up by hell unknowingly if the deception persist. \nLord, I come to Thee. Please look down from heaven and have mercy on us. Repair our damaged lifestyle and diverted mentality. We surrender to you alone and we refuse the onslaught of lust of our flesh.  Rekindle your fire of love in us,and give us strength to overcome the distraction that lack or lust for money brings. We are returning dear Lord to our first love in Jesus name. Amen",
+    "date": "September 26",
+    "images": [
+      {
+        "src": "assets/fe24d595f589-0.jpg",
+        "alt": "May be an image of one or more people, people smiling and suit"
+      }
+    ],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid02KpkyEKTSMmgz1SJ6WvFab9FBfeLAdzLv4NwcXrfjhewjNMrFYRa5B1MBeAftTtuBl",
+    "minutes": 5
+  },
+  {
+    "id": "a4fce3efd602",
+    "title": "IIF PASTOR KUMUYI COULD VISIT GRAND IMAM OF PAKISTAN.",
+    "text": "IIF PASTOR KUMUYI COULD VISIT GRAND IMAM OF PAKISTAN. \nTHEN IT MEAN HE SHOULD TRY AND VISIT GURU MARAHAJI OF NIGERIA TOO.\nGet me right, there is absolutely no sin in visiting people of other religion. \nThat doesn't lead to or mean compromise. \nMany people complaining about Pa Kumuyi visiting other people of interfaith religion don't actually understand it doesn't mean one is compromising or trying to join them promote ecumenism. \nWhat I see there is kingdom influence for God as long as it promotes the gospel and open doors for genuine missions.\nJesus ate with Pharisees and Saducees. That didn't mean Jesus compromised. Infact people labelled Jesus wrongly that time too. But if tell you,Jesus was able to rescue some of those people. Example was Nicodemus and even Pontius. \nYou see,gospel is not about just preaching and preaching. Preaching is just 10%,living it out is 90%. Most times we see preaching as the major means of rescuing others. NO, many times we just need to show others genuine love and leave the rest to God.\nI remembered it was food,beans and bread that a brother actually used to win my heart to attending Deeper Life Campus Fellowship. I was born again before the time but I was so hungry and he fed me without knowing i was hungry. \nWhat pastor Kumuyi did,many people who are missionaries or spiritually inclined will understand.  Sole of Pastor's feet alone touching that ground is very spiritually bombarding and possessing. You all will soon discovered the ground God used Pastor Kumuyi to break later or in heaven.  \nYes those who criticise his act may simply be physically right, they may not be spiritually right. But I can tell you,the man of God has done nothing wrong.  \nYou should know me now,I tell things straight. Yes Pastor Kumuyi has history of many bad silrnt attitudes that many don't know publicly. Which I happened to narrate few months ago . Not for bantering but for history and understanding that holiness isn't what we behave but what God conferred on us. No matter how we try to behave well, we can't be bodily perfect. So there is no need to mix holiness with behaviour. \nOn this visit, Pastor Kumuyi is not wrong. He is simply fulfilling his earthly and heavenly mandate. \nI won't be surprised to see him paying a good visit to GURU MARAHAJI too along Ibadan-Lagos express bush. If the Lord allow it,I know certain grounds will be broken too spiritually. \nThe problem of Christianity is that we see ourselves in the confine of that religion. So we are not really prepared to show genuine love to others outside it. And the power of God is no more moving through us across the land again. \nWhy should Christian discriminate if truly they have genuine intentions to be useful for God in places that are yet to be taken for Christ?\nI am a missionary, an intercessor. We have been interceding since 877 days for cities,souls and nations. God is interested in using us on grounds Satan has taken. But many of us are afraid to go there. We fear what people will say. So pathetic. \nCompromise is simply a personal choice and not a corporate choice. None can compromise by showing others genuine love. And as long as you're not a lone ranger like Samson.\nMay God preserve Pastor Kumuyi till the end. Amen \nYour brother ,\nLatunde Akin",
+    "date": "September 25",
+    "images": [
+      {
+        "src": "assets/a4fce3efd602-0.jpg",
+        "alt": "May be an image of one or more people, dais and text"
+      }
+    ],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid0zkyjvAXptUtanM8WU8jAG3RKFvWipTj7JpBo6d2edGc5BdvYJpDqkGixftHznj4l",
+    "minutes": 3
+  },
+  {
+    "id": "b0fe2c0b56b9",
+    "title": "HOW TO SPOT HYPOCRISY ANYWHERE",
+    "text": "HOW TO SPOT HYPOCRISY ANYWHERE \n(By Latunde Akin)\nThe most sophisticated instrument of darkness isn't sin of adultery, stealing, worldliness or any physical wrong you can detect. \nIt is HYPOCRISY. \nAnything you can easily detect is not as dangerous as anything you cannot detect easily. \nSo you should by now understand why discouragement, lukewarmness, distraction, procrastination, doubt and fear are not easily tagged as sin. Simply because they hide under the skin. And they are more dangerous, devastating and evil than those outward sins many people think God has more problems with. \nReason deception is worst is because those who carries it and those who are manipulated by it may never ever know,except God helps them. Aside those who are purely possessed to intentionally decieve. \nHypocrisy can be detected by those who are discerning. But no amount of brain work has such capacity to detect it. Suspicion is brainwork, not spirit work. If you keep suspecting, your soul will eventually be lean and weary. You can't sustain your limited perception by just being suspicious, else the devil himself will finish you flat.\n1. First understand that every good attitude towards you doesn't mean the person is good. Until you actually know what is powering the goodness. Flesh,God,or Satan. \nGod can use anyone for you,but you should be careful Satan can use anyone for you too. So try and spot people who overdo goodness. Anything excessive is not balanced. It may be a cover up.\n2. Eye service: once you spot people behaving differently at the back, but show up before people as good. That's a clue of pure deception \n3. You will see people praising someone instead of telling the person what's wrong. Hypocrisy \n4. When you see someone trying to cover up his sin or sin of others. That's Hypocrisy.\n5. Backbiters,backstabbers, and rumor mongers. These are category of people who talk too much. \n6. Possessed people are great pretenders. You can't detect them unless by their mistakes and through God opening your inner eye. These people are always looking perfect outwardly. They look so holy but just to decieve. They can be more physically dedicated than the genuine ones just to cover up. But they make mistakes too,and only the discerning will not just commonise such mistakes.  There is always a great tendency for people who don't see beyond their nose to trivialise such mistakes. \nAnd you know one funny thing?\nThis last category must be handled with greater wisdom. There is a weapon you don't only use to fight them. You don't use only weapon of power. You will use weapon of wisdom, strategy and the word. Weapon of love can work for the first four category but your love can't deliver a possessed man. You will need warfare,and the best wars are won not by power,but by both wisdom (strategy)and power. \nIt's very easy to seperate from wrong people but not from wrong spirit. Infact, spirit of hypocrisy doesn't repent. \nSo it takes only God to deliver such people through any means He wants to use.\nIf you look closely, you will discover diplomacy is not near hypocrisy. Being diplomatic is simply a strategy to relate with people without hurting them. Hypocrites end result is to hurt without being detected. Anything you can study in school is not hypocrisy. Diplomacy is a study which can be used in both a good way or bad way. It shouldn't be mixed up with hypocrisy which is a spirit.\nThe church denominations are mostly filled with Hypocrites. Many business offices too are filled with them. We shouldn't only think of churches, we shouldn't be decieved to think Hypocrites are only interested in churches. That's a big lie.\nOur duty is to simply align properly with God in serious fellowship, consecration and holiness. So that we can escape the trap Hypocrites set all around and much more,so that God can use us to rescue or reduce them. \nGod bless you for comprehending. \nMay we not fall into self deception. May we not cover our sins. In Jesus name. Amen",
+    "date": "September 25",
+    "images": [
+      {
+        "src": "assets/b0fe2c0b56b9-0.jpg",
+        "alt": "May be an image of one or more people and eyeglasses"
+      }
+    ],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid0XxctJyGAyQnPnjriLvQydWDcq32rLjigvJbn9Pc9YEKXNKyBHCMHT43ZQg3c3b3pl",
+    "minutes": 4
+  },
+  {
+    "id": "0290923b0d97",
+    "title": "HOW TO SPOT A DIABOLICAL PASTOR.",
+    "text": "HOW TO SPOT A DIABOLICAL PASTOR.\n(By Latunde Akin)\nIt is alarming the rate at which even many pastors patronize secretly demon worshipers for power,fame and wealth.\nYes,I am a missionary too,but recently I have become so careful of myself as well. How I relate and live my life.\nYou can imagine a supposed pastor getting caught with juju? Not even pastor from churches where they do mystical preparations in disguise that it is herbal mixture.or prayer mixture.\nYou see,I am even talking of pastors from Pentecostal holiness,who appear so holy outwardly, and speak in tongues violently. You will be surprised many have gone astray secretly but are only using sound doctrine to cover up.\nRecently I discovered people in holiness penticostal churches,I mean workers and ministers who patronizes traditional priests and still come to sing and preach on pulpit. What about many who we expected are believers in Christ who still patronizes celestial or white garment mystical practices. Pathetic!\nHow do we get here for Christ sake? Is there no balm in Gilead again?\nYes,we will all face trials. Even those traditional or diabolical people they run to also face their own trials. But,if we had experienced the truth and know that God is real,why can't we genuinely wait on Him? Oh,we are in hurry to have good things of life? So we have to deny the efficacy of God's power by circumventing process for quick solutions.\n1. When you begin to get tired within you about a particular person who calls himself pastor. It is a sign for two things. Either God is telling you to be careful or Satan is throwing the arrow of tiredness so you won't get blessed again. At this point,pause and logically analyze the person's attitude, you will know something to do quickly through the analysis.\n2. The word of God,is the basis for everything a genuine man of God does. If he tells you to read the scriptures yourself on something, and not that he wants to do it for you. Be good. Nobody should read anything at your back. Jesus died and Temple curtain was split opened. We all have access to Him and anyone trying to cover this must be suspected.\n3. You noticed that the pastor is clearly and secretly committing sins. That is an indication that he is servicing a demonic altar. Get me right,a genuine man can fall,but he won't continue to fall every time. I have had situations where I fell,oh a blatant falling sef, and humbly I rose from it and went back to Calvary. Not doing God's work at the expense of my soul. \n4. When you begin to notice a pastor is begining to own you. Loyalty aside,you can be loyal to someone who doesn't have entitlement mentality. But if he's beginning to have entitlement mentality,I advise you to watchout for diabolical traits.\n5. Brainwashing could be diabolical and it might not. When you are being taught the scriptures verbatim with enforcement like a robot. It means the HOLY Spirit is not around. When they are beginning to psychologically enforce knowledge,demons are around the corner. \n6. Manipulations to donate money is a diabolical sign in such environment. When prosperity teachings dominate more than the teachings on Christian experiences. It is a sign you are in a diabolical system.\n7. This is for those who have spiritual eyes. Because many things you won't even see outwardly wrong. But God will open your eyes to see it so that you can be extra careful not to talk anyhow or live carelessly. Not to ever castigate them,but to intercede profusely so God may purge the system.\nBe a genuine believer please. You may not be perfect. Yes I am not perfect as well,but I strive to become like my Lord as I look at Him day after day. I have had situations where I happened to be tempted as well,but Christ comes to help my decision. Oh it has even happened that I found myself in a situation I never bargained and my sincererity saw me through. Oh how sweet is it, when our heart isn't harden against brokenness. When we can cry unto God for a total restoration and turn around for good. When we can approach Calvary afresh and obtain mercy at the throne of grace.\nIf you have been hooked, today the Lord is setting you free in Jesus name. Amen.\nGod bless us.",
+    "date": "September 24",
+    "images": [
+      {
+        "src": "assets/0290923b0d97-0.jpg",
+        "alt": "May be an image of one or more people and people smiling"
+      }
+    ],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid0ZoyNAxXXii6TmgQGZ2E7viyHgHhfWnpumhMrPCSjZ9Zvep9CbrNFNAcRiDbnQkhjl",
+    "minutes": 4
+  },
+  {
+    "id": "6a60de61d712",
+    "title": "YOU CAN BE A BELIEVER IN CHRIST AND NOT EVER GROW NEAR THE SPIRITUALITY OF THE SAME CHRIST YOU BELIEVED. (Sequel to my post on angels of min…",
+    "text": "YOU CAN BE A BELIEVER IN CHRIST AND NOT EVER GROW NEAR THE SPIRITUALITY OF THE SAME CHRIST YOU BELIEVED. (Sequel to my post on angels of ministries and their ranks)\nI see a lot of people who are hell bent on quoting scriptures from the letters just to support a claim.\nEven a claim that has nothing to do with the truth.\nAnd I also see a few who says the truth but they don't look for scriptures to defend what they say. Only the discerning will understand them because there are certain information the bible doesn't even say verbatim too. But if you look closely, such truth are never against the scriptures.\nI was telling someone that the word ministry is not limited to the gospel or church. I told him that every job is a ministry.  And for believers in Christ our ministry is in what we do for living. You don't have think you can't influence for God on that job you do for living \nA doctor, a farmer,a trader,who is a believer in Christ has a ministry to fulfill for God which may not be inside the walls of religion. Yet in their various places of work, they influence for God and rescue souls into the kingdom.  And you want to say that is not ministry?\nAbraham and Lot were farmers,yet they influenced for God in their generatio.n. That is ministry \nSaul and David were warriors, yet they influenced for God in their generation.  That is ministry.\nPaul and Demas were lawyers and yet served God until Demas left Paul. The bible didn't say Demas left God. ,only that he loved this present world... They did ministry. \nOnesimus and Philemon were master and slave who served God's purpose. That is ministry \nJudas Iscariot and Jesus had pure gospel ministry too. Until Judas left and kpai himself. \nSTUDY HOW THESE MEN LEFT EACH OTHER AND OBSERVE WHAT TRANSPIRED BETWEEN THEIR MINISTERING ANGELS. Between them as co-laborers and as masters to associates. \nEvery ministry influencing for God has ministering angels assigned to it by the Holy Spirit. \nEvery ministry influencing for Satan has demonic angels assigned to it by Lucifer\nYou don't have to deny the existence of angels whether from God or from fallen Satan. And they are always behind every physical positive or negative influences we see in the physical world. \nThere is no ministry for God by anyone without her ministering angels. \nEach church or gospel ministry has their ministering angels under the authority of the Holy Spirit and we don't control them. God does. \nThose who control angels are probably controlling the fallen ones who are on deception spree to decieve. A lot of people doing ministry have allowed this infiltration due to lack of knowledge or quick selfish gratification. \nYes they are messangers but they are not supposed to be influenced by us but by God on our behalf. Alas,Satan has lowered down the standard of God because he is fallen already and his fallen associates are not under God's jurisdiction again. Reason we must be careful never to open up to any angel who's not under control of God. We must test every spirit. \nSo,you see all gospel assignment has angels who are ministering spirits sent by the Holy Ghost for that assignment. A lot doesn't know that Holy Spirit are always sending angels to minister to us when we pray. They are His errand boys and every ministry has them. \nLet me even come down to the level of work apprenticeship. Do you know everyone has personal angels assigned from God ? And they have ranks? \nReason an apprentice may not succeed without obtaining the an evidence in form of certification or blessing of his master is because there is orderliness control room where the spirit of men obtain pass. If you leave without following that process,you may be heading for a fall in that hardwork. Nobody will employ someone without certificate. \nIf it is God leading you out of a ministry where you served. Same God will give you wisdom on how to go about leaving that ministry or church.\n If you follow God verbatim without asking for the wisdom to go about it. You will be surprised same God will blame you for obeying Him blindly without asking questions. \nThis is because wisdom is better than obedience. Just as obedience is better than sacrifice. \nI rest my case for a while here.\nYour brother \nLatunde Akin",
+    "date": "September 23",
+    "images": [
+      {
+        "src": "assets/6a60de61d712-0.jpg",
+        "alt": "No photo description available."
+      }
+    ],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid02TkXtqYtcoDswcZuBRMFFE41S1JWBvuT2WtrziWFnvmAqnkGhuCbmaGaHLXpFjtRnl",
+    "minutes": 4
+  },
+  {
+    "id": "f330f69bbccb",
+    "title": "ANGER TEST: MY EXPERIENCE",
+    "text": "ANGER TEST: MY EXPERIENCE\n( By Latunde Akin)\nIf you still get angry over every slightest provocation or offence. You don't know what a great loss that has befallen you.\nIf you are always angry at someone, even when all evidence shows that you are right to get angry. You don't know a great trap you have fallen into.\nIf you are a type that can't be easily pacified or calmed when you are angry. You don't know how much of great instrument you are to the devil.\nAnger is not actually the sin. God gets angry too. The sin of anger is when it's not achieving the will of God's kingdom. When your anger smells SELF. When you exhibit self in disguise of fighting for God. When your anger lacks the honor of God. And unless you're highly sensitive in the spirit, you can't ever discern the thin line between the one that's of God's will. \nFor example, Jesus rebuked the devil speaking through Peter's mouth. Paul rebuked Peter's double measure attitude. Paul was angry at that sorcerer who proclaimed truth about Paul's anointing. Believers get angry at sin.etc. And didn't do any of these to satisfy SELF.\nFew days ago,I was making a request from my wife. She was doing yanga,(she wasn't taking me seriously). Then I began to let her know that her insensitivity, unresponsive attitude was not good. And probably as a result of evil arrow that wants to hinder good things and ensure we fight. I actually hit her with that insight,so she became unhappy. \nYou see,the target was actually me. The whole ploy of the devil was to make me angry so that what God wanted to do in Spirit can be suspended. At that period,I had been praying to God for certain deliverance but,the spiritual enemy had seen my anger will never allow God to do it. \nMoment I recognized the imminent behavior of my wife at that time,I had to open up to her that she should be careful not to allow the devil to use her make me angry. Then she in turn became angry and started to excuse our bedroom to another room. In disguise that she wanted to go and pray. She actually prayed,but refused to come up to the room where I was.\nQuietly after some time I stood to go and lift her , blessed her with sweet words and hold her  to come to the room to sleep.\nThat singular act endeared God to embrace me overnight. \nAnd one funny thing was that,I wasn't even aware that night was the night God had prepared to answer my prayers. I passed the test of anger.\nThen,the miraculous happened that same night. I had an encounter with God. And encounter that can't be said here. I became an instrument of blessing. If I say \"God bless you\" to anyone jokingly, the person is blessed. I was also delivered from certain hindrances that night. Just simply because I handled the situation of what has come to test my character well. \nOh that men in Christ will begin to handle angry situations well to the glory of God. And allow such situation to give honor to God rather than flesh or self. This will always make God to trust us more with certain specific authorities and also deliver us from our many troubles.\nYou and I must understand that anger is a sign that good thing is around our corner. When God is about to answer all our prayers, devil will always want to send his monitoring spirits around us to instigate even closest people to make us get angry for self defense without processing whether it's to God's honor or not. Thus prolonging and postponing our divine encounter or blessings.\nMay you receive understand now. \nMay you amend your ways \nMay the answers to all your prayers manifest.\nMay you restitute with those you are getting angry at, manage those who are causing you to get angry, and make peace with those who are angry at you. All to the glory of God. \nMay you pass anger test.Amen",
+    "date": "September 22",
+    "images": [],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid02Wy4gfhygT5KYa4vPSKc1JbAZaLdWXvAATMi6DD4MKftJd8QNEr2hERzS5QRUswBBl",
+    "minutes": 4
+  },
+  {
+    "id": "bf6b845167be",
+    "title": "HEAR THE PRAYER OF A  MISSIONARY",
+    "text": "HEAR THE PRAYER OF A  MISSIONARY \nLord, please raise men to bring comfort to your servants on the mission field. Men like Joses (Barnabas),a Levite from Cyprus - Acts 4 :36 \nLord,where are the sons of consolation? Please revive them and help them to overcome sleeping sicknesses.\nLord you see those men who think missionaries are jobless, Lord please relieve them of their present job and give them another job in a terrain like ours so they may taste of the cup and understand it's not about being jobless.\nLord, you see those who despise in their innermost heart, please let them keep despising so that tables can turn. That they may see their reality of folly. If they refuse to repent on time.\nLord,those who usually preach that \"the God that sends them will provide for them\" just to defend irresponsibility in the kingdom. Please strip them off their pulpit and position and send them to the bushes of souls as well. Including their family members.\nLord, please quietly whisper into the heart of your people that they may arise and support the great commission instead of supporting lesser fruitful religious routine activities that don't influence the great commission.\nLord, please open the eye of every genuine believer in their offices, edifices, workplaces, worship places, businesses to know that the greatest impact they can make is to rescue others and establish the kingdom of God wherever they are. \nLord, please open the eye of your people to understand that their secret of success is to support the great commission and the missionaries who are uncomfortably doing the uncomfortable work in uncomfortable places.\nLord, help your church to be more organized so they won't keep spending/diverting missionaries fund at organizing other juicy programs that can fetch them money, fetch them fame/publicity.\nLord, you know your missionaries are administratively helpless, and they can't talk, so it won't be like they are agitated. Please wake every church organization to begin prioritizing on improving the welfare of their staff. \nLord, please do not allow anyone and their generation who remember to personally support Your great commission go down. They won't go down. They won't go down. Lord, they won't go down but higher up forever. This is your covenant.\nLord, presently, your churches are more focused on their headquarters. Lord, can you please scatter them? Just like you did to them at Jerusalem? They may scatter out and enter places where the people are yet unreached. \nLord,it is good to build towers for your glory. But Lord, the concentration of towers in reached places isn't really made helpful for unreached places. The towers now operate like capitalists. They are becoming richer while their branches are becoming poorer in context (not in content).Lord, please help your church to overcome capitalistic tendencies.\nLord, please raise genuine intercessors who will not give their eye to sleep for a portion of the night time everyday just to see Thy Kingdom come upon the lives of others. This is actually every believers duty,oh that Your people can arise!\nIn Jesus Christ name. Amen.\nJeremiah 9:1 Oh that my head were waters, and mine eyes a fountain of tears, that I might weep day and night for the slain of the daughter of my people!\nYour brother \nLatunde Akin.",
+    "date": "September 22",
+    "images": [],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid02XfMzvVUX29iedqDazK1kGgnBq6EoGKJdSVHACEr5hQryDG5C1hGoScq8gcQcC5oNl",
+    "minutes": 3
+  },
+  {
+    "id": "27d127989d2d",
+    "title": "The man who wrote How to Save Your Marriage shot his wife and posted the photograph online.",
+    "text": "The man who wrote How to Save Your Marriage shot his wife and posted the photograph online.\nDale Carnegie taught the world how to win friends, then died alone.\nBenjamin Spock reshaped modern parenting. His own sons tried to place him in a nursing home.\nMaria Montessori built an entire philosophy around nurturing children and gave her own son to be raised by others.\nA Korean author who sold millions of copies of How to Be Happy lived for years with depression and later took her own life.\nan-Jacques Rousseau wrote tenderly about virtue and education, then sent all 5 of his children to an orphanage.\nLeo Tolstoy preached simplicity and moral clarity while his home fractured under bitterness and conflict.\nNapoleon Hill promised success through positive thinking and died disgraced and financially ruined.\nAyn Rand condemned public aid as moral failure, then depended on it in old age.\nThis is not coincidence.\nPeople who sell answers are often still bleeding from the questions.\nAnd it does not stop with self-help.\nReligion has its own record.\nJim Bakker preached family values and prosperity, then went to prison for fraud.\nJimmy Swaggart thundered against sexual sin and later confessed to living it.\nTed Haggard led a massive church while living a double life.\nRavi Zacharias spoke beautifully about truth. After his death, credible investigations revealed a private life that betrayed those words.\nIf i want to add Nigerian names ..the list would be very long\nDifferent stages. Same fracture.\nPublic certainty.\nPrivate collapse.\nThis is what happens when authority is mistaken for holiness, when image replaces accountability, when teaching becomes performance.\nSo listen carefully.\nDo not treat authority as infallible.\nTitles do not cure brokenness.\nPlatforms do not confer integrity.\nTruth can pass through flawed people.\nBut flawed people should never be enthroned.\nUse books, sermons, and teachers as tools.\nNot as substitutes for discernment.\nNot as permission to stop thinking.\nAnd then there is Jesus Christ.\nI have read more than 3000 books…\nPersonally, He is the only teacher I have read whose life does not contradict His words.\nHe did not explain sacrifice. He bore it.\nHe did not talk about humility. He knelt, washed feet, and carried the cross.\nScripture states it without decoration:\nActs of the Apostles 1:1\nJesus began first to do, and then to teach.\nThat order matters.\nClarity can be borrowed.\nCharacter cannot.\nAnd no book, no sermon, no admired voice can do the slow, private work of becoming whole for you.\n- Dr Wadzani Dauda",
+    "date": "September 22",
+    "images": [
+      {
+        "src": "assets/27d127989d2d-0.jpg",
+        "alt": "May be an image of one or more people and people smiling"
+      }
+    ],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid0BhX1u2g5suLpUELyKm547qmtnLB7PzLxaBG3dyTujzZBGPQbLcuo9ATLMr2nwcqDl",
+    "minutes": 2
+  },
+  {
+    "id": "9edb8992137f",
+    "title": "A COUPLE HAD SERIOUS DISAGREEMENT AND I HAPPENED TO BE THE COUNSELLOR.",
+    "text": "A COUPLE HAD SERIOUS DISAGREEMENT AND I HAPPENED TO BE THE COUNSELLOR. \nAfter trying to offer my candid intervention in terms of counselling. I took it up in prayer of intercession. \nAfter about 3 weeks on my knees. Then two evil personalities appeared to me and told me to stop praying for the couple. \nOne funny thing is that the couple didn't know i was praying. They never thought I can go beyond just counselling. They were not aware I took up their case before the Lord to really understand what was happening against the family. \nYes we have an intercessory team of about 40 people that prays everyday since 868 days. But I didn't pass the matter to them until I personally finished my intercession and hit a rock after 21 days.\nWhat motivated me is how very nice that young family has been to me. Much more the compassion for their souls. To me,I strongly believe in making sacrifices for other's without them knowing. \nSo on this particular day,the strange spirit paid me a visit on my knees when interceeding and told me to stop praying for the couple. I tried to probe why? Then I discovered that family was being manipulated  and already  marked to scatter. I had certain further discussion and commanded the evil spirit to go away. \nThey left my space but something happened after. My left arm became motionless. It became another battle and on the spot,the Lord sent His angels to heal me.\nImmediately I stood from my knees and put a call through to the family in disagreement. I told the wife about serious spiritual cause of their fight. And how God wanted me to let them know what's happening spiritually. \nShe was surprised to know I digged deeper than just counselling them. She thought their disagreement was just physical and emotional. They were already blaming each other and they both were actually right. \nLittle did they knew it's a deep spiritual manipulation and attack against their marriage. \nIt was then I had to push the matter to the intercessory group. \nSometimes you don't fight other people's battles alone. Else you're not wise. You must engage your team. Or you must ensure your spouse pray on the matter with you. Two or three people praying together has enormous strength released to them than just one person. Reason you need to join us every night too so we can pray together at 11pm to 12am . Never stand alone.\nDo you know, you can have genuine reason to blame others and you won't know the matter is beyond blaming. \nA lot of marriages have scattered or about to scatter simply because no one is genuinely standing in the gap for them. They only offer counselling and counselling doesn't solve certain spiritual manipulation.  What works is serious intercession and not just therapeutic words.\nNow you know, that you shouldn't just handle matters in your life,marriage, work on the surface level. You must pray! and pray! Or have genuine men around you who can dig deep into unravelling manipulation and settle issues beyond the surface level.  Such men are actually rare but God has them.\nIs your life,work,home under attack? \nStop blaming. \nStop claiming your rights. \nStart praying and God is well able to settle the matter. \nThere is always a spiritual angle to everything happening to everyone. Stop using physical knowledge. Pray and you will discover that spiritual knowledge will be exposed to you and through it there will be solution.\nThanks for reading and understanding. \nYour brother \nLatunde Akin",
+    "date": "September 21",
+    "images": [
+      {
+        "src": "assets/9edb8992137f-0.jpg",
+        "alt": "May be an image of one or more people and people smiling"
+      }
+    ],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid0hGzQzY3vhx4kzGnbJrjifF3gYqPuJZfPGxjqK1aKtQAVcHaJaPogLsckRVRczZ6ol",
+    "minutes": 3
+  },
+  {
+    "id": "afd23058d5e1",
+    "title": "\"IFURA LOOGUN AGBA\"",
+    "text": "\"IFURA LOOGUN AGBA\" \nWatchfulness is the senior brother of Prayer. \nBy Latunde Akin \nIf you are not a person who is both spiritually and physically observant. You will enter into a trap of people who are simply out there to steal,kill and destroy and you won't still know.\nThis is because such people smile always and are most of the time friendly. They build your trust in them with the mind to later strike at a time you won't be able to escape or least expected.\nIf you don't build your capacity in God now,it will definitely show after such people strike. You don't have to offend such people before they strike.\nInfact you can be very good to them,and it doesn't mean that they won't still want to fulfill their evil target. \nYou can't change them by your good doing. Just that you must still keep doing good because that's part of what God will use to defend you when your obedience is complete.\nReason I said doing good isn't enough is because\n The presence of IGNORANCE in any person doing good has that capacity to neutralize the good he is doing. Destruction is what always follows lack of knowledge which is ignorance.\nYour keen observation about whatever is going on around you is called WATCHFULNESS. This is a duty from God to everyone just like PRAYER.\nThere was someone I was praying and interceeding for. Oh you will think she's genuinely seeking God's intervention. I went to her with other ministers and on getting there,she gave us bottled water to drink. I told them to keep the water in the car and never to drink anything. Others didn't know what happened till today,I didn't tell them unless they are reading from here.\nAfter we finished the Intercession and dispatched everyone. All the bottles were punctured on their cap cover. You understand now, another substance was inside the water and it would have been a bad situation if not for God's help to practically observe.\nAnother incidence is with a close family member who brought raw foods and coconuts for us as part of visiting gift. As I thanked him and after the whole visit. I told my wife to bring everything they brought so we can pray on them. As I was praying with eyes opened,I observed the coconut well and discovered all of them were pierced at the one of the 3 dots on top of them and were perfectly corked with wood so the water inside them can't spill out. I showed my wife and she was literally shaking.We have to discard them all.\nWhat am I saying? This is the very reason why a lot of people are sick and they don't know the source. I mean terrible sickness that their treatment takes only God or huge spending on medical solutions. Something that should have been avoided by keen observation or watchfulness. \nYoruba people used to say \" ifura loogun agba\".\n\"Watchfulness is the medicine of mature people \".\nYou don't live your life suspecting people. You don't live in suspicion. This is going to weary you out. \nWatchfulness is your ability to be alive in God and practically detect danger or traps before time and avoid them still smiling without destroying good relationships. Suspicion will make you destroy good relationships. That is the difference.\nMay your spiritual man become so developed to be watchful. May mercy locate all of us always.\nPrayer is for curing. Watchfulness is for preventing.\n So watch and pray. Your guardian angel you must hear. In the midst of woes you are. Watch and Pray!\nYour brother \nLatunde Akin",
+    "date": "September 21",
+    "images": [
+      {
+        "src": "assets/afd23058d5e1-0.jpg",
+        "alt": "May be an image of one or more people and people smiling"
+      }
+    ],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid02WWk9Qs5ziKwqsUqWjb4cAxPkRUJFWPEHKQkG8YLewDNsLYy5fYVB781hqAT2dw4Ul",
+    "minutes": 3
+  },
+  {
+    "id": "46f7f38ed8d1",
+    "title": "YOU WILL SEE A MAN OF GOD DOING FINE AND GREAT UNDER A FOUNDER OF A DENOMINATION.",
+    "text": "YOU WILL SEE A MAN OF GOD DOING FINE AND GREAT UNDER A FOUNDER OF A DENOMINATION. \nMOMENT HE LEAVES TO START A FRESH WORK,IT WILL LOOK LIKE HE WAS DOING WELL AND LATER STOP DOING WELL\n You won't hear about his exploit again. He will enter silent mode of operation and people will be wondering whether he is the same man of God they once knew.\nWhy? \nWhat a lot of us fail to realize is that,the angel of the church where many once worked with was the one backing them. And when they left the angel stopped working with them. \nIf they must secure the continuity of the use of that angel,the founder is the one to activate it.Or that there is something you keep doing to ensure you remain under cover. \nYou may see a founder praying and sending forth their pastors to start fresh work independently while in their heart they are not actually releasing anybody. The prayer and send forth is just to fulfill all righteousness.\nIn that case, that doesn't make the person leaving a wrong person. He only needs to understand how not to start the work immediately by seeking direction from the Lord and receive the backing of a greater angel from God. His own personal angel doesn't have that strength yet,so the need for him never to be carried away by the anointing\n.\nIf he has offended church administration in the past,he must settle it. If he has disobeyed in the past he must calm down first and make his way right.\nReason Pastor Kumuyi made a great leap and success while disobeying the church leaders in Apostolic Faith Church then was because he had secured a greater support from the Lord. God had released the stronger angel to him,so the angel of his former church can't stand to withstand agathe assignment given to him from God. All their persecutions or silent prayer against his disobedience to them can't work. Afterall,he was obeying God but that wasn't what saved him to succeed.\nA lot of people have obeyed God genuinely like that in the past by disobeying their former denomination rules. Yet they entered oblivion because they failed to secure a greater covenant with God for the assignment ahead of them.\nThere are ranks in God too, and people must be very strategic and wiser because those ranks can withdraw themselves from you and leave you empty while you think it is your anointing working. Especially if you don't strive to closely examine your own rank and stand with God before leaving.\nYet in all,it is your level of humility that offers you such ability to discern the kind of spiritual technology going on around your life and service to God.\nIf you're are an ordinary member of a church. Simply understand that leaving a church should be done peacefully and never without any bitterness in your heart. Whether they offended you or you offended them, bitterness must be avoided at all cost because it is that energy emmited by bitterness that will be used against you in the spiritual space. Forgive and let them also forgive you. If you sek forgiveness and they refuse. Don't worry, simply move on without bitterness. The king of this world must not find any negative energy to use against you.\nLeave still if you don't find your spiritual life comfortable but you must have known where you are going before leaving by staying put before God in deep fellowship.\nWe will all succeed in God in Jesus name. Amen \nA word is enough for the wise.\nYour brother,\nLatunde Akin",
+    "date": "September 20",
+    "images": [
+      {
+        "src": "assets/46f7f38ed8d1-0.jpg",
+        "alt": "May be an image of one or more people, eyeglasses and text that says 'YAR'"
+      }
+    ],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid036tNiWZmp6n9g8TkKakGWiy8UbzksAsnfh5SSTaX58VXoXCzLBvekqBwA1jVDaCxhl",
+    "minutes": 3
+  },
+  {
+    "id": "0069abd623fa",
+    "title": "You may be missing it when you look down on certain people.",
+    "text": "You may be missing it when you look down on certain people. \nCertain people in respect of what they command behind your back without you suspecting they are the one behind it.\nPeople that hardly sleep at night, when others are sleeping. Try and not treat such people cheaply. \nThey may not look like it now,but their time of preparation every night can't go without a good result or a manifestation of breaking forth into greatness. \nFirst try to  encourage a hardworking person no matter how unyielding what they do is now.\nSecondly, try to fear a man who prays a lot because power can change hands in his life at any moment. \nWhen you see people who look unserious, don't always conclude they're not serious. You don't know they may be using unseriouness to cover up seriousness..\nPeople you deliberately ignore today because they are not good for you may become someone you will need tomorrow. \nBe very sensitive in your spirit to recognise intrinsic factors or qualities in people rather than people's current bad situation. \nI have seen cases where a man who dictate others  success before God on his knees were despised by the same people he is bending his knees for. And simply because those people didn't know he isn't sleeping because of them, they ignore him as if he is a parasite. Then table gradually turns and God announces Himself in his life. \nWhat people do in the secret to succeed is what matters most and not what people see outwardly.\nYou need to be very smart at having smooth human relationship with people that works whilst others are sleeping. Such people may even be vulnerable to you in terms of need, but they are definitely up to something worthwhile if you discovered they don't sleep while others sleep. \nInvest in such people without complaining because you will definitely be happy you did later on. \nMen who despise others,learn not to do that again.  If you don't have anything to add to others in terms of encouragement, please don't subtract from their confidence by ignoring them.  \nTreat people well now so you won't later enter into a well you dug by yourself.\nThank you for reading. I hope you can read a little bit deeper than those words. \nWe will always be happy seeing lives we have touched positively and not negatively. \nGod bless us.\nYour brother \nLatunde Akin",
+    "date": "September 18",
+    "images": [
+      {
+        "src": "assets/0069abd623fa-0.jpg",
+        "alt": "May be an image of one or more people, people smiling and eyeglasses"
+      }
+    ],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid0Vo8t2sS2SEF6Y5KEC7ehMdm2QvtnNzAxzrdFrnyJy61PzqPKeZkTAFnmJ5yZCJQ9l",
+    "minutes": 2
+  },
+  {
+    "id": "2059fdaa984b",
+    "title": "You like the picture?",
+    "text": "You like the picture?\nEven me I like it. \nAnd there is a story I will like to tell you about. \nIt's a story about how one day I was simply joking with her by just tapping her and her knock landed hard on the centre of my head. \nIt pained me and I couldn't contain it,so I tried to give it back without success. \nI had to park the car because I was driving when it happened. Yet I wasn't successful at giving it back. \nI became a rascal man that day and you won't imagine that  situation actually revealed I wasn't a gentleman at all. \nWhat started as a play turned me to a spray \n.\nCome and see drama that day. Nobody could calm me ,not even the Holy Spirit. I lost the Holy Spirit that day and regained Him thereafter. \nThat was many many years ago anyways. \nHear me well, and I want people to understand something. \nMarriage is actually not what you see in pictures. \nMarriage is not what people see being displayed outside.\nMarriage is two people working on themselves together and allowing both comfort and conflict to mold them to become better. \nIf you only grow in comfort all the time,you're not growing. \nThat's why I will never advise couples not to have disagreement, they should be free to express their grievances and never hide nonsense. Else pretending to manage nonsense can lead to more destruction that may become permanent. \nI personally don't believe preachers who says its all comfort all throughout their marriage journey. They are liars or just wanted to show people they are perfect. \nI can authoritatively tell people now that I have learned through experience how to manage my wife better and endure the hormonal/menstrual things that used to make women behave somehow. Women go through a lot inside but a lot of men don't know. \nA woman may be reacting very negatively to you,and you won't know she doesn't really mean it. If you don't give her the time to express herself,you may never enjoy her. Allow her to get angry, or talk well around you. Be calm and crack jokes to make her laugh out her stress.\nDo not try to prove yourself right always, but be very strong as a man. A strong man is what a woman needs so they can feel protected,not just a soft soul. \nYes,you may once be rascal like mine,but please don't allow that rascality continue. Keep it for fighting evil strangers. Keep it for spirituality and not for physical abuse. Keep it for the day of battle and not for proofing your rights. \nI\nMuch more, in the kingdom of darkness, they do shoot arrows of anger into marriages and couples will never suspect. \nBe very sensitive to know when not to dance to the tune of arrows of disagreement, anger and misbehaviour. \nDo not let anyone decieve you,no marriage is perfect physically. But we have the peace of God when we manage it well.  The good management is what some calls perfect. \nYou can now understand why marriages are facing problems? \n Bad management. \nToday, please reconcile with your partner at all cost,and never try to keep offences for long time. \nMay God keep our home. Amen \nYour brother \nLatunde Akin",
+    "date": "September 17",
+    "images": [
+      {
+        "src": "assets/2059fdaa984b-0.jpg",
+        "alt": "May be an image of one or more people and wedding"
+      }
+    ],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid083m2e4F5mcpaaxz2woKLXiQqqLeu3MCL9ynaH11W24Qo3RVwFhWRAQJFhGzrdfXul",
+    "minutes": 3
+  },
+  {
+    "id": "090210580bc9",
+    "title": "862 days of INTERCESSION .",
+    "text": "862 days of INTERCESSION .\n726 days of SUPPLICATION .\nWe don't have any stopping date and we are not after materialistic prayers.\nIn the intercessory group, we deal with rescuing others.\nIn the suplicatory group, we deal with ourselves before the Lord. \nPrayer is not  supposed to be transactional but relational. You don't just pray because you're in need, but because you desire to interact with God.\nThe intercessory prayers hold every evening at 10pm.\nThe suplicatory prayers hold every night at 11pm.\nThere is something very powerful about releasing oneself to pray for others. God will inturn raise others to intercede for you too or He sent His Spirit to do that for you. \nThere is something powerful about being consistent with prayers at a particular appointed time. It shows you can be dependable for an assignment. So God in turn confers upon you more strength to fulfill your destiny. \nDo you want to be encouraged to always pray consistently? Kindly join us through the link below. \nYou can also send to inbox  requesting to join the intercessory group. \nGod bless\nYour brother \nLatunde Akin",
+    "date": "September 15",
+    "images": [
+      {
+        "src": "assets/090210580bc9-0.jpg",
+        "alt": "May be an image of one or more people, people smiling and text"
+      }
+    ],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid02nci7A5ac8RsoB9yduxnEWxDATpVXGFvdizad6yZQkeV2ZUxfjMrgT6rKHz5vNHh3l",
+    "minutes": 1
+  },
+  {
+    "id": "e10c10ffb59c",
+    "title": "DANGOTE REFINERY IPO: BEFORE YOU BUY, UNDERSTAND WHAT ₦525 REALLY MEANS",
+    "text": "DANGOTE REFINERY IPO: BEFORE YOU BUY, UNDERSTAND WHAT ₦525 REALLY MEANS\nOver the past few days, quite a number of clients, friends and associates have asked me what I think about the Dangote Refinery IPO and whether I believe they should invest.\nRather than simply say “buy” or “don't buy”, I decided to look closely at the numbers and share the most important facts I believe anyone considering the IPO should understand.\nBecause there is an important distinction we sometimes miss:\nDangote Refinery may become one of Africa's greatest businesses and its shares could still be expensive.\nBoth statements can be true.\nThat is why I would neither tell anyone to buy this IPO nor tell anyone to avoid it.\nI would rather put the important numbers on the table.\nWHAT EXACTLY IS BEING SOLD?\nAs I write this on 10 September 2026, the IPO has not opened yet. It is scheduled to open on 14 September and close on 13 October 2026.\nThe offer price is ₦525 per share.\nThe minimum application is 10 shares, meaning you can participate with ₦5,250.\nDangote Petroleum Refinery is issuing 4.1 billion NEW shares.\nAt ₦525 each, the company intends to raise: ₦2.1525 trillion\nUsing today's market exchange rate of roughly ₦1,323 to $1, that is approximately: $1.63 billion.\nNotice the word NEW.\nThis is principally an offer for subscription. Existing shareholders are not simply selling 4.1 billion of their shares and taking the ₦2.15 trillion home.\nThe money raised goes into the company, primarily to support its expansion plans.\nNow here is the part many people may not realise\nBefore the IPO, Dangote Refinery has approximately 120.13 billion shares.\nAfter issuing the 4.1 billion new shares, that becomes approximately 124.23 billion shares.\nTherefore, this base IPO represents only about: 3.3% of the enlarged company.\nYes.\nFor all the noise around one of Africa's biggest IPOs, the base offer represents approximately 3.3% of Dangote Refinery after the new shares are issued.\nAnd there is another interesting detail...\nAn investment vehicle has already committed up to $400 million, representing roughly a quarter of the 4.1 billion share offer. Once that is spread across the full enlarged company, though, it comes to less than 1% of Dangote Refinery overall.\nSo the portion genuinely available to the wider market could be even smaller than the headline offer suggests.\nIf demand exceeds supply, the company is permitted, subject to SEC approval, to absorb up to 30% more shares than the original offer.\nSo how much does Aliko Dangote actually own?\nThis also needs clarification.\nThe approximately 66% you may see beside Dangote Oil Refining Company Limited is not Aliko Dangote's total economic interest.\nHis disclosed beneficial interest is spread across several entities.\nBefore the IPO, his disclosed beneficial interest is approximately 87.27%.\nAfter the base IPO dilution, it remains approximately 84%.\nSo buying shares gives the public economic participation in the refinery\nIt does not substantially change control.\nAliko Dangote will remain overwhelmingly in control of the company.\nFor context, NNPC currently owns about 6.8%. So if you have seen a figure around 7%, that is much closer to NNPC's holding than Dangote's beneficial interest.\nNow let us talk about the ₦525 price\nAfter the base IPO, approximately 124.23 billion shares at ₦525 imply a market capitalisation of roughly: ₦65.2 trillion\nAt today's exchange rate, approximately: $49 billion.\nDangote's continuing beneficial interest alone would therefore have an implied value of roughly ₦55 trillion, or approximately $41.6 billion, based purely on the IPO valuation.\nThat is not cash in his pocket. It is the implied market value of that shareholding.\nNow comes the real investment question.\nIS A ROUGHLY $49 BILLION VALUARION EXPENSIVE?\nOn a simple international refinery comparison, it certainly looks rich.\nS Oil in South Korea has refining capacity of about 669,000 barrels per day and a current market capitalisation around $13 billion to $15 billion.\nHF Sinclair in the United States has about 678,000 barrels per day of refining capacity and is worth about $19 billion.\nTüpraş in Turkey operates about 30 million tonnes of annual refining capacity across four refineries and has a market capitalisation around $16.5 billion.\nDangote has completed performance testing at its original 650,000 barrel daily design capacity and has since processed as much as 700,000 barrels per day, yet the IPO implies an equity value of roughly $49 billion.\nOn that simple comparison, Dangote looks expensive.\nBut this is exactly where simplistic analysis should stop.\nCapacity is NOT valuation.\nTwo refineries processing similar quantities of crude can have completely different profitability, complexity, product mix, debt, growth prospects and cash generation.\nDangote also has petrochemicals, access to a huge domestic market, substantial export potential, a relatively sophisticated refinery configuration and plans to expand to approximately 1.4 million barrels per day by 2029.\nAnd the recent financial performance is significant.\nThe refinery reported approximately $1.82 billion profit in the first half of 2026, compared with a $476 million loss for 2025.\nIt also generated about $2.6 billion EBITDA during those six months.\nThat is serious earnings power.\nBut it raises another question.\nHow much of that profitability is sustainable when global refining margins normalise?\nThis is why I would be careful about simply declaring the IPO overvalued.\nCardinalStone Research has estimated a 12 month value of about ₦77.7 trillion, with a target price of ₦688.09 per share.\nChapel Hill Denham has estimated fair equity value at about ₦82.6 trillion, significantly above the IPO's roughly ₦65.2 trillion implied valuation.\nIn other words, some professional analysts looking beyond refinery capacity believe ₦525 could actually offer upside.\nThey may be right\nThey may be wr0ng\nThat is what markets are for.\nSo what should a serious investor actually study?\n• Whether the extraordinary 2026 profits are sustainable\n• Free cash flow, not simply revenue or accounting profit\n• The approximately $5.67 billion indebtedness reported as at June 2026\n• Crude oil supply security and cost\n• Refining margins and how sensitive profits are to them\n• The execution and financing of the planned $14.3 billion expansion\n• Foreign exchange exposure\n• Regulatory and government policy risk\n• Related party transactions and corporate governance\n• Dividend prospects\n• Minority shareholder protection\n• And ultimately, the return that ₦525 can reasonably produce over your investment horizon.\nWhat should matter much less?\nThat it is Dangote\nThat your friends are buying\nThat people expect the shares to jump immediately after listing\nThat it is Africa's largest refinery\nOr that you are frightened of missing out.\nNONE of those tells you whether ₦525 represents good value.\nDangote Refinery is an extraordinary Nigerian and African industrial achievement.\nThat deserves recognition.\nBut investment requires a different question.\nA great business is not automatically a great investment\nA great business bought at the wrong price can become a p00r investment\nA r!sky business bought at the right price can sometimes become an excellent one.\nSo before you ask:\n\"Do I believe in Dangote?\"\nAsk the more useful question:\n\"Do the sustainable earnings, cash flows, r!sks and future growth of this business justify paying ₦525 per share and valuing it at about ₦65 trillion?\"\nThat is the question a serious investor should be trying to answer.\nInvestment begins where admiration ends and the numbers begin.\nWhich number in this post changed how you were thinking about the IPO? Tell me in the comments.\n- Abiodun Adetula",
+    "date": "September 11",
+    "images": [
+      {
+        "src": "assets/e10c10ffb59c-0.jpg",
+        "alt": "May be an image of one or more people, people smiling and eyewear"
+      }
+    ],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid029q57JZKiaETeKETLc184WgKJ2iiz3FwcJ38hwpAeWu33YVPh9hcYxV3Rx2obra71l",
+    "minutes": 6
+  },
+  {
+    "id": "d737ab20c331",
+    "title": "ARCHBISHOP FRANCIS OLATUNDE OKE : THE MAN OF GOD WITH HEAVY ANOINTING AND GRACE AT 70.",
+    "text": "ARCHBISHOP FRANCIS OLATUNDE OKE : THE MAN OF GOD WITH HEAVY ANOINTING AND GRACE AT 70. \n(By Latunde Akin)\nI am privileged to be part of his first set of missionary trainee,so I have the rare previledge of close tapping of annoiting and observing his truest nature and the godly realm where he operates from. \nPa Wale Oke is a fasting machine. This year alone ,he would have fasted for 150 days if I am not understating it.\nHow God brought me close to him was through a dream. In that dream, I found myself in his house telling him I am ready to learn from him. In the revelation, he looked at me and discovered I was close to a powerful man of God like him. He asked who is that, and I told him. Then he said OK and pointed me to his library to go and study. \nImmediately I woke,I realised I must get closer. So I started attending Advanced Ministers Seminar AMS. From there I opted to join his full-time mission training school. \nPa Wale Oke is a mystery no man can fully understand. This is because of the kind of angel guarding him.\nThe first research I had to make when I entered the mission school was to first understand his angels and not him. I will be behaving in a way so my teachers and others won't know I am a serious man,so they wouldn't choose me for any executive position. I knew exactly why I was in the mission school. And it actually worked for me.\nDo you know, if Pa Wale Oke secretly entered the training school to rest or to teach,his angel comes to me first to inform me. And it happened everytime. I tried to find a day he comes around that his angel won't appear to me. I found none. I kept this secret at the time and you know one funny thing? Since I already enjoy such deep visitation everytime he comes around or not,I became not worried again about not physically being seen around him. \nI was understudying him and everything about him apart from the mission training. \nThe first thing I discovered is that Pa Wale Oke isn't materialistic at all. He is a man who doesn't fancy material possession. He turned his only house into a mission training ground that can accommodate more than 100 students at a time. He doesn't use security team until he became PFN president. \nHe is a genuine son of God. \nHe is not perfect physically,infact if you look at him from afar and see his smile, you will think he's only so cool and fatherly.  Yes,he is very cool to be with and at the same time very fatherly BUT he is a military man o\n. Don't be carried away by his jovial simple nature,if he changes it for you,you will smell pepper \n. I think this is why some people run away. He no dey take nonsense unless he chooses never to talk.\nYet you will see his heart ,so contrite,broken, humble. A heart that trembles at God's word and corrections. Forget about those titles, Pa Wale Oke isn't a fan of those titles, he is a pure disciple of Jesus Christ ,an evangelist, a prophet and a man who has suffered so much for the course of Christ. \nI was in a deep financial mess during my mission training and his angel appeared to me again and told me he will help me. Normally the Angel had noticed me since I entered the training. I can carry belongings that meant so much to me and donate them, I secretly I made sacrifices without anyone knowing I did. God did actually helped me. He changed my Nissan primera then to a Lexus jeep. He built a duplex for me right as a trainee under Pa Wale Oke. He bought many landed properties for me. Which means I was actually rescued by that angel as promised. It was so glaringly surprising that some people hardly believe God can bless people while on full time training. A training that seperated us from wife and children for close to two years.\nIf you don't understand the Angel of the church you attend and what he demands as your consecration,please kindly find out in prayers. So you won't have to struggle following great men without understanding the kind of Power that powers them. Loyalty is good,but it mustn't be done blindly. Else it won't bear fruit. \nHappy birthday to Baba Wale Oke. \nMay the rest of his life be spent in quantum fruitfulness more than before. \nMay all his great desires for God to expand His kingdom through his life become more established. \nMay Pa Wale Oke end well and finish strongly in Jesus name. Amen",
+    "date": "September 8",
+    "images": [
+      {
+        "src": "assets/d737ab20c331-0.jpg",
+        "alt": "Post image"
+      },
+      {
+        "src": "assets/d737ab20c331-1.jpg",
+        "alt": "Post image"
+      }
+    ],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid02iAeRbB9APquHRnc5MtR6kzfVjZVVgY44EmdSAUkPXwnQQUx3yxGrFaJw385PYa4Fl",
+    "minutes": 4
+  },
+  {
+    "id": "13c28877e7a4",
+    "title": "STORY OF A MISSIONARY",
+    "text": "STORY OF A MISSIONARY \nHe drank cassava garri for a whole month and slept on woonden bench for three months. \nA missionary who was deployed to Anambra state at a time recounted his ordeal. \nHe was sent to Awka suburb from Southwest to spread the gospel and disciple. But on getting there the church headquarters stopped support. He became stranded and has to begin to find his own means of survival. \nHe didn't know anyone, and his contact person couldn't accommodate him. The arrangement was that they will send accommodation fund to him as soon as he gets to the mission field.\nWithout knowing the sender church will dissapoint,he went and was met with lack of support. \nHe narrated how he suffered by drinking garri  everyday for  1 month.\nHe was denied support for 3 months and he suffered terribly because the sender church weren't available anymore. \nWhen asked why they neglected him or decieved him into going without proper arrangement. He responded they changed the plan or weren't just able to meet up again.\nYet he won about 5 souls and discipled them.\nYes the situation wasn't palatable and even dissapointing to him,but he sacrificed it for the sake of positive impact. \nHe didn't complain, he didn't murmur,he didn't blame anybody. He endured such hardness as a good soldier of Christ and made sure he laboured to get 5 new souls for Christ. \nThe worth of a man isn't known by his reaction against hurt,but by his ability to channel the hurt in a positive way for positive impact. \nYou can't compare such a man by quantity of church members but by quality of service rendered for the Lord's sake out of discomfort.  And that is why his 5 souls for the Lord might be far greater than a thousand souls who are simply benchwarmers. \nIf you know what it takes to go hungry for months just because those who God sent to send you disappointed. You will always appreciate genuine missionaries who suffered to spread the gospel message. \nIf I may ask you too,what are you suffering on in your life so that others may be impacted positively?\nBegin to think about what you too can sacrifice as a believer in Christ so others could be reached and rescued for God. Don't just live,live impactful life.\nBegin to consecrate your time,your skills and yourself on the altar of service. \nWould there be any stars in your crown?\nThink about this and change today. \nYour brother,\nLatunde Akin",
+    "date": "September 7",
+    "images": [
+      {
+        "src": "assets/13c28877e7a4-0.jpg",
+        "alt": "May be an image of one or more people and people smiling"
+      }
+    ],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid0uS3vNxcvG7TLEvi8mTEXJfdVXt4scbMYHFyJzwc2JoZJ6N6ieWHRzTXcLKQ4PJR5l",
+    "minutes": 2
+  },
+  {
+    "id": "7e404a0e2165",
+    "title": "Yesterday I met a woman who is 4 years pregnant.",
+    "text": "Yesterday I met a woman who is 4 years pregnant. \nShe has been carrying the pregnancy around with heavy burden. \nI looked and looked at the stomach I began to weep internally. \nKnowing what it takes to carry a baby for 9 months and now she's doing that since 48 months. \nI tried to search and search for the cause,I discovered its purely a spiritual attack. \nToday is 852nd day we have been interceding for people, I haven't come across something like this. \nYes,God is well able to deliver her,but to be sincere, I am a bit shocked to see this with my eye.\nDevil doesn't have mercy  on anyone. And that is why you too must be extraordinarily prepared to pray against any wrong situation around you.\nJoin us to pray every night at 11pm to 12am. You don't have to wait till you have emergency situation . Please try and form a habit of prayer consistency whether convenient or not. Treat God as a friend you relate with everyday in prayers and not when you need His immediate attention. \nPraying at 11pm to 12am is very strategic and spiritual because, \nIt is a time when men sleep and when satanic men prepare to attend night meetings. \nIt's a time of sacrifice where God can see your consistency and help you. \nIt is a time you would have finished your meeting with God before they started their own meeting. \nIt is a time God always regard because it's not a convenient time to pray for people who has been tired from day work. \nWe have spent 716 days  praying together at 11pm. (Intercessory is 852days) You too can join us using the link in the comment section. \nWe make sure we pray very well on just a prayer theme for 1 or 2 weeks, sometimes 3 weeks. \nAs you join us in the prayer train, may you experience a good paradigm shift. \nPlease also pray for the woman with 4 years pregnancy. That she would deliver safely and quickly in Jesus name. Amen.",
+    "date": "September 5",
+    "images": [
+      {
+        "src": "assets/7e404a0e2165-0.jpg",
+        "alt": "May be an image of one or more people, people smiling, eyeglasses and hospital"
+      }
+    ],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid02FLWdSbZbtpnekqBr4FjG3DBgCfmMM6pgnkEDD2QFhfFWxWMmcpL2Gjfjnc2PK7zSl",
+    "minutes": 2
+  },
+  {
+    "id": "179b5fbb7683",
+    "title": "PITY OR COMPASSION: WHICH IS BETTER?",
+    "text": "PITY OR COMPASSION: WHICH IS BETTER? \n(By Latunde Akin)\nMy wife was pregnant of our twin girls and my parent felt they should assist with finances since I ost my good job on my wedding day.\nOut of pity they travelled to visit so they can motivate me to buy children things before birth of the children. So they extended their good hands to give me this bundle of money. \nTo a normal wired person, the next thing is to collect it.\nI didn't actually collect it. I told them straightaway that I can't collect it. That they should keep their money. \nI asked them if it's their own parents that bought children things for them during their time? They answered no. Then why wouldn't they allow me to buy my children things by myself without any assistance? They looked at me with amazement and left.\nYou see,I have come to understand a particular principle of help. That's why you don't see me accepting any kind of help. \nI rejected my parent's gift of money not because I didn't need it. Not because I wanted to disrespect them.  But because I understood that they were doing it out of pity. \nPrinciple of help states that any help done to you out of pity would make your soul lean and not fat. \nAny help done to you because of pity will not become a blessing to you and the giver. \nAny help done to you because of pity has high probability of sending you back into a comfort zone where your own creative ability is limited or put in a relaxed mode.\nHelp is good but you must recognise when not to accept to be helped by pity. Pity mustn't be your helper. It may look good and soothing but you may be tempted to relax from creating something good out of bad experiences. \nYour help must only come from God. And it won't come because God is pitying you. Pitying is different from compassion. Compassion has positive energy powering it. Pity has a very negative force or energy powering it. And  you don't need such negative energy to prosper.\nThere was a time a friend gave 100k,(18 years ago  or thereabouts)to do business. He gave it so i can return it back. I didn't ask for it,but he felt I was suffering too much and he needed to simply help out. He knows I am business savvy but he wouldn't understand why I decided to do nothing than to tell everyone I was praying. That prayer was my job then.  He pitied me and this was how I knew it\n.\nAfter collecting the money, he then said it was his mother that pressurised him to help me. His mother told him that he shouldn't keep watching me like that as his friend.  At that moment, I discovered the background as to why he decided to give the money without me asking for it. I simply discovered he did it out of pity and not really out of compassion. \nYes,to a normal person, that's a good thing to do. Which I dearly appreciated. But I took the matter to the Lord in prayers and began to cry before God. I said Lord, if this is not a help from you I don't want.  Give me my own job.\nIn the same month, I got a job with official car. So I returned his money to him in the same month. I didn't use it again as God provided job for me already. Much more it was lended to be returned. My friend however did something wonderful, he gave me 20k out of it free of charge to enjoy with. \nDon't get me wrong, my parents and my friend did what they felt was right, but it wasn't right at that time before God. Because it was laced with pity.\nYou don't pity a man who is right with God and isn't lazy. \nYou don't pity people, you should rather HAVE COMPASSION ON THEM. \nWhen you have genuine compassion on people, the power powering it will always be from God and not from the flesh. \nYou can even pity a carnal man without God. But a poor Lazarus has a better future than you pitying him. You should be very careful when you are dealing with a spiritual man. He doesn't need pity. He needs genuine compassion and it's eventually for your own good. Because you will definitely meet that poor Lazarus on the other side where what you have done to him will eventually speak for you. \nIt is not everyone that Jesus healed during his days on earth but only those God directed him to. Yes God loves everyone but emotions don't rule him. He is not a flesh, and if He helps you or moves anyone to help you, you will recognise its not going to be out of pity.\nGod's compassion on us sometimes come in form of rigorous training through bad experiences. It's not only in good deeds to us he manifest compassion, but even the bad situation can be the compassion if we are sensitive enough. Reason we must not allow anyone to pity us out of such tough training that look like bad experience. \nMay parents had good motive ,my friend had good motive. Just that such good motives were not good enough for at that time. And it's only a man who is man enough or highly discerning that can stand against what pity was about to do in his life.\nThis differs from pride please. You must understand how not to be proud before God and men. I became actually proud at a point, believing so much in hardwork until God broke me to pieces and shattered my ego. Then God Himself couldn't send help to me,the help will hate itself.\n But not anymore, I have been taught by God after picking my shattered ego together. I now understand hardwork is only the foundation for divine help. No man can succeed only by hardwork but with help of God called grace.\nAt a point God opened my inner eye to understand that for everyone He sent to help me,it's because He wants to help them too. And this is because I have made myself an altar for Him. An altar where sacrifices are made unto Him everyday in intercession for the church,and souls. You can be an alter too for God. You shouldn't just be a living sacrifice, turn yourself to an altar where living sacrifices are made unto God. Be the blessing.\nGod is emotional, He feels, He loves,He is compassionate. But He is not controlled by emotions. He doesn't pity. He is a just God. He knows the exact time to train people and when not to train them. If He sends you to help people, it is mostly for your own good and not because of pity but out of compassion. \nMen who are chickens are people who who recieve pity and look out for people to pity them.\nIt is better to cry out loud to God for His compassion, so He can send genuine help. A genuine helper won't pity you because they are under God's control. \nA Christian who is in God is thus full of compassion. Rescue the perishing. Do good always. And doesn't circumvent God's process of training people all in the name of compassion which is simply pity.\nIs pity not good at all? Yes it's good for the chickens. But for the mature,chastisement with  creativity could be compassion. \nThis doesn't mean you should see people drowning and not rescue them if you can. \nTo have pity is also a good quality at the level of humanity. \nDo not allow the humanity inside you to die before you leave the scene. \nMay we discern properly. \n.",
+    "date": "August 30",
+    "images": [
+      {
+        "src": "assets/179b5fbb7683-0.jpg",
+        "alt": "May be an image of one or more people, eyewear and hat"
+      }
+    ],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid0wSuVypBmceSubERFbxMJ2oZZgtYan2B1BqRBzx2PqbniT9L2jt2HkzLuWkuNX33fl",
+    "minutes": 6
+  },
+  {
+    "id": "3cc44e103415",
+    "title": "CHURCH AND HYPOCRISY",
+    "text": "CHURCH AND HYPOCRISY \n(By Latunde Akin)\nOne thing I detest in church is hypocrisy.\nA leader will see what's wrong and still close his mouth all because if he talks, money won't flow again. \nYou will see a wrong system of administration operating in a church and people will all keep following like goats. All because of fear of man and the benefits they are getting from such wrong system. \nI happen to be a trained missionary and as I entered a particular ministry. The Lord opened my inner eye to see all the people surrounding the church leader. I saw head of goats, ram,snake and chicken on those people and I began to shake.  These are pastors, ministers and workers, not just stark unbelievers.\nThe Lord began to tell me those people I see are hypocrites. They are double faced. They are not what people think they are. Yet they are the most serious set of church people. \nThe Lord simply told me, I should not follow any of those people. I should only look unto Jesus, the author and the finisher of my faith. \nThen in my mind  I began to question a lot of things. Why the Lord sent me there? What to do? And how to navigate things. Clearly I was told I couldn't do anything and I was just sent there to learn how not to create a system filled with hypocrisy around myself. \nThese days, it is very hard to meet people in church who are not predenders. If any don't want to pretend, the system their leader created will force them to pretend. \nAs a leader, you don't create fear of you to your followers or create a system which breeds fear in people. Yes,Jesus was a simple man of God and at the same time approachable. He related smoothly with his disciples to an extent an external person won't know their difference. He maintained an open style which even wicked people can't hide under except Judas,a son of perdition.\nI have personally believed church is a place where pretence shouldn't be encouraged all in the name of practicing religion. Not that agents of darkness won't be found, but that the fire should be so enough to expose them rather to encouraging them to thrive through our corrupted style of administration. \nTo hell with your money, if it would make me to manage you as a pretender. It is far better to tell you the truth gracefully and let the fire of God deal with you than to keep quiet when I see something wrong. \nTo hell with every pretender in church if they refuse to repent now or show their true colours. \nI don't know why many just like to pretend to be who they are not.\nWell,I think that's a characteristic of the devil too. He appears as an angel of light to decieve many inorder to be able to wreck havoc so deeply without people knowing. \nYou will see that most church leaders in this country don't have any capacity again to correct government and political leaders. They have been silenced with billions. Mega projects are the focus ,not the people God sent them to anymore. \nMissionaries under them are suffering while they are concerned with big donations from government leaders who in turn steal those monies. And the power in their words are of no more effect. Thus most members under them are becoming pretenders.\nYes there are still remnants who are never hypocrites. But they are hard to find or not obvious. \nTo me,I think God is rather waiting for those remnants to rise to the tasks ahead of them. And until a generation passes, may be their time will come to establish what no corrupt person can silence with money. \nMuch more God is expecting the church to also get involved in practical nation building and not just church services. \nReligion is not actually a scam. It's the people that is scam. \nI stand to be corrected. \nMay all hypocrites repent.  Amen",
+    "date": "August 28",
+    "images": [
+      {
+        "src": "assets/3cc44e103415-0.jpg",
+        "alt": "May be an image of one or more people, beard and people smiling"
+      }
+    ],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid0Ri3MxsuJwsen2pRXxUvyWn2G4A76Nv3qsJtyjUPWEw9a8tvCDXwrnYSkmrpPSaTBl",
+    "minutes": 4
+  },
+  {
+    "id": "90aa664dbc5f",
+    "title": "HOW I GOT MARRIED.",
+    "text": "HOW I GOT MARRIED.\n(By Latunde Akin)\nAnyone that will marry you won't stress you.\nForget about ladies or men who try to stress you thinking by stressing you,you will value them more. That's a wrong principle, a wrong mentality. \nI remembered trying to stress myself over certain ladies and they eventually rejected. The one that didn't reject ,we still didn't marry because stress or no stress isn't the only determinant of success in marriage proposal. \nI have simply come to realise at a point that the peace God gives when you meet people is what matters most. Not the peace you or they think they can give.\nMy younger sister got wedded and I happened to attend her wedding as big brother. I saw this lady behind her as best lady,so my eye started to roll. I called my younger sister and asked about her. Before that time I had proposed to another sister who rejected the proposal. But I insisted to remain focused and resolute till I see the sister I proposed to, to marry before jumping on another. That was the kind of mindset I had then. No wasn't No to me. I will rather kpai there until I see no reason to kpai there again. That ibo sister showed me pepper \n \nI waited and waited for the sister to marry, she didn't. I actually believed I would be the one to marry her despite her reject. But it got to a point I broke down in tears before the Lord. I wept in prayers for a whole day locking myself up in the room.  Studying the book of Ruth and weeping in prayer. Then the light shined upon my heart. I repented of trying to use my own wisdom and skills. Then my mind remembered the best lady to my younger sister which I had already admired casually. \nAt that point, I decided to test myself by confirming if my mind was thinking right. I determined never to approach her or show her any of my interest. I went straight to tell the marriage committee of the church. Pastor Odemona asked her church and address from me. I didn't know it,so he collected her phone contact and called her right in my presence. She wasn't a member of the church I attended then,but only attended campus fellowship where my younger sister met her. \nEverything went so smoothly with the church committee and the sister didn't know it's me until the day I proposed. \nSomething else happened,I secretly traced and discussed with her mentor,pastor which I saw on her CV. I didn't just believe my mind was communicating God's will. I needed to make personal research too to confirm it. If it doesn't tally,I wouldn't have just believed blindly. Faith isn't against common sense. Her pastor showed me exactly that I am safe. He handled her straight into 29 days fasting for God to show her the man to marry. He didn't tell her it's me. \nOn the day my church gave me go ahead to propose to her was the day she was concluding her 29 days white fast. She saw me clearly and went to her pastor to tell him. The pastor then told her I am the one that privately came to him. That he wants her to see the man by herself and not him revealing the man. \nA day after,I appeared to propose and it was all smooth. She didn't even allow me to say much. No stress,not hustle, no friction. She was already prepared for it by her pastor who puts her through serious spiritual drilling. \nThen we began courtship. Then another thing strucked. I lost the job I was doing then. Spiritual attack started and I decided to face it on squarely. I left for the prayer bushes. I became wretched jobwise but remained stubborn praying for the next two years till God answered my prayers. \nYou could imagine I didn't have time for the woman, no serious organised courtship because all my time was spent in the bushes of prayer. Nothing romantic when a man is facing spiritual battle. Throughout she stood with me without shaking. She was convinced I am her husband. She didn't bother about material things a man should have that i didn't have. She was aware I wasn't a lazy man, I was doing well at the time I proposed, but battle dragged me back to lose nearly everything. And since I was rugged enough to face it squarely in prayers, she knew something good will come out of it.\nAfter 2 years headon praying, I was called by a company and given a job with an official car. \nQuickly we got married. \n.\nThe story of the wedding is for another day. Because, I wore my 2 year old black jacket and shoe. I didn't buy any new jacket. And at that time I was in Apostolic Faith Church already. \nListen, you should never bother about what people say about you than what God is saying. \nYou should never compare your journey with another’s journey because you are not fighting thesame battle. \nYou should always understand how never to get involved in anything shady against your church marriage rules because on the long run, the devil will use it to stand against you spiritually. Always be sincere and your sincerity will always fight for you. \nMistakes are part of life, so do not condemn yourself when that relationship didn't work. Be humble about it and genuinely repent before the Lord for making such mistakes so He can help you put your pieces together. Yes God will if you are humble enough. \nGod isn't interested in people without focus,but people who won't double date. Double dating is a clear signal that you're unreliable for a divine help.\nBe patient with people, show impact. It's not a good thing that you're only interested in people because you want to marry them. You can always sow seed of impact with no strings attached. Which God will see and use to make a way for you in His own way. (Aside manipulation).\nMay we learn. \nMay the peace of God reigns in our marriages. \nGod bless.",
+    "date": "August 27",
+    "images": [
+      {
+        "src": "assets/90aa664dbc5f-0.jpg",
+        "alt": "May be an image of one or more people"
+      }
+    ],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid02zvcgYvHLt7AZB2cb8jyoFBtVs5mKyNHY5f56ZayuUSb4aEseghX89PzHkwsv99kjl",
+    "minutes": 5
+  },
+  {
+    "id": "01f42757c0c6",
+    "title": "GOD IS TELLING YOU TO WEEP FOR THEIR SOUL.",
+    "text": "GOD IS TELLING YOU TO WEEP FOR THEIR SOUL.\nHARVEST IS PLENTY, LABORERS ARE FEW.\n(By Latunde Akin) \nThere are crocodile tears,. \nThere are compassionate tears. \nThere is a kind of sorrowful weeping. \nThere is a kind for joy. \nThere is a kind of weeping that moves the entire heaven.\nThere is a type that can't even move a mosquito. In fact if your tears are too salty sef, mosquitoes will come around to taste it.\nWeeping is an instrument of emotional expression and communication which speaks volumes than words. \nThe deepest kind of prayer is a type that is done with GROANINGS WHICH CANNOT BE UTTERED. This is far and more deeper than even speaking in tongues. At least you are speaking something when you speak in tongues. But groaning is another level entirely deeper than that. That's the kind I meant as weeping. \nI pray that the Lord helps His children to grow up to this level. Amen. \nScriptural texts \n John 11:33-36, 2 Chronicles 34 :27. \nJesus wept in John 11:35. Lazarus was dead and they told Jesus. He wept and rose Lazarus from the grave. His weeping sent a clear cut message to heaven. \nCan God respect and respond to our tears like that? \nAbraham sent Hagar and the lad away with only one bottle of water and a bread. Both of them were crying looking for water but the Bible says God heard the cry of the lad and not that of his mother. \nCan your cry be heard at all by the Lord over a situation that warrant rescue of yourself or someone?\nLet us tell ourselves this truth please. Are we not becoming so harden in the heart as a result of disobedience to the Lord about the Great commission?\nA reward for every disobedience is surely a reprobate heart. And a reprobate heart God can never regard, respect or respond to no matter how the weeping endures.\nWeeping may endure for a night.... is never applicable to reprobate hearts. If you like, keep weeping in disobedience, no Lazarus will wake from the grave around you. You are only making devils to rejoice more by your tears into their calabash for donations\nBut there is a groaning that the devil fears. A groaning in the Spirit over souls of men. \nA genuine compassion for the lost\nA humble heart that weeps before the Lord day and night for the salvation of souls.\nA broken spirit and a contrite heart.... God can't despise. \nBelievers in Christ, where art thou?\nIs your heart of compassion now dead?\nAre you going to remain like that?\nYou have been disobeying the Lord all these while and your reward has been a dead hardened reprobate heart.\nIf we stop that disobedience today, I am sure our God is faithful to restore us back to where we started at Calvary. He will restore our genuine lost tears back.\nOUR DISOBEDIENCES. \n1. We can't go ye again to preach the gospel.\n2. No more striving for mastery in spiritual exercises and in God. \n3. We take pleasure in socializing more than the work of rescuing souls. \n4. We can no more groan in the Spirit. We have lost our encounters. \n5. We love to be busy in the church at the expense of lost souls. We care more about the 99 left than the 1 lost.\n6. We left the field of souls for the wolves. \n7. The harvest is plenty, but the few laborers are sleeping on duty. \n8. We have become like the religious Jew and the good Samaritan in us is dead.\n9. Instead to humble ourselves and weep before the Lord, we are in turn making the Lord to weep from heaven over our unprofitable lives.\n10. We keep crucifying the Lord Jesus over and over again by not living a lifestyle of love that can win others. We take delight in Pulpit or speaking without showing the lifestyle.\nMany may think God does not weep too. How can the God who created us in His image put emotions in us to feel and He will not be touched by the infirmities  of those He created? Nay.\nHe is always touched too. He feels too. He experiences sorrow too over the people He created.\nHebrews 4:15 \nFor we have not an high priest which cannot be touched with the feeling of our infirmities; but was in all points tempted like as we are, yet without sin.\nWe need to arise and pray for the peace of Jerusalem. \nWe need to weep for the soul of men by interceding for them in our closets. \nGod is looking for intercessors. Will ye be one?\nGod is looking for men who would have compassion to rescue others from the valley of sin.Will ye be counted worthy?\nGod is looking for laborers who would not be sleeping a spiritual sleep of death.Will your dry bones receive life?\nGod is looking for you. Yes you that you are reading this. Will God find you or you remain unfound?\nOh that my head were waters, and mine eyes a fountain of tears, that I might weep day and night for the slain of the daughter of my people! (Jeremiah 9:1) \nOh that God will find me and you faithful to arise and begin to ask for mercy upon our souls that are like dry bones. To receive life afresh and go out immediately in search of the missing sheep.\nAs for me, my mind is made up, gazed up, my eyes fixed upon the cross, to obey and to carry. That my siblings, neighbors and friends who are getting lost may be saved. No turning back, no turning back. I have decided. \nHow about you?\nLet us pray.....\nJesus, restore our dry bones, that we may live again to fulfill the great commission. Restore our lost and dried tears, the kind that is regarded in heaven and not in hell. In Jesus name we pray. Amen.",
+    "date": "August 25",
+    "images": [
+      {
+        "src": "assets/01f42757c0c6-0.jpg",
+        "alt": "May be an image of one or more people and suit"
+      }
+    ],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid0mGqtgoMTdqYMyFygCpymY3WNPzKJbLYkqvEQrtp1MWkacj6yBjXdYqe2c5eA3Hm4l",
+    "minutes": 5
+  },
+  {
+    "id": "a8e026bc91a2",
+    "title": "15 years ago, when I saw Intercessory Ministries in Nigeria turning to Prophetic Houses, and I saw those that use to gather periodically to …",
+    "text": "15 years ago, when I saw Intercessory Ministries in Nigeria turning to Prophetic Houses, and I saw those that use to gather periodically to cry to God for revival in the land now gathering to promise people cars, visas, wedding rings, I knew that it was just a matter of time, an evil rain will begin to beat the Nigerian church ...\nNo generation rises in God beyond the capacity of their intercession... But when I attend conferences and go to bookshop, the subject of intercession are no more available, I knew, that without realizing it, we have removed our defense systems...\nMany big and popular preachers among us publicly ridilcled and mocked intercessors because they didn't have fame and didn't have name...\nOut of shame, many of those intercessors began to change their brands and their methods of operation, so that, they too will be respected in the land...\nBut that is why we are where we are today...\nWe must begin to apologize to all the intercessors we mocked because they didn't have private jets, crowd and massive online followers...\nI will say it again, that it will not be long, the Nigerian church will know who there true prophets are ...\nFor now, we are still following those we love and not those we NEED ... And that is quick way to know a people that have no sense of future...\nThe consequences are too many ... And unfortunately, this might just be the beginning until we begin again to return to the fortress of intercession...\nOnly one James was killed and the entire early church halted and amended all their agendas and adopted one war cry:\n\"Lord, behold their threatenings...\"\nEsther would gather guys who are present in Shushan and build a wall of intercession with them that became the undoing of Hamman ..... \nNigerian church is gradually getting to a time when it will become, not just not advisable to gather Christians in a place, but it will become impossible to gather in a place, for fear of bloody attacks ...\nWith this as our reality today, it is only the vain spirit of Cain that will motivate a people doomed to be exterminated to still be taking risks gathering in a place only to start asking for miracle cars and miracle jobs, the same things the Gentiles are crying for...\nI may not be talking to you... But incase it looks like something is shifting in your heart right now as you are reading this...Then, its time for war ...\nGather your people or join a people ...\nRaise an altar of intercession in your locality... And let the war cry remain: \"Oh that thou wouldest rent the heavens, oh that thou wouldest come down...\" \nLet posters and handbills of intercessory prayers start rolling out, gathering believers everywhere...\nHow many more of our James need to be beheaded, burnt alive inside their churches or houses, our pregnant women ripped open with spear and their children roasted to death even with their toys in their hands?\nOh Nigerian church, I ask: how many more James need to lose their heads?\n It is time to go back to the art of intercession, that rock from whence you were hewned...\nIt is time to start teaching your people how to wake up in the midnight... \nNot just to pray to kill their enemies but mobilizing angels to pass through the land, to frustrate the token of liars and to make every diviner against God's people mad ...\nI don't know for how long but He told us to\n\"Give Him no rest until He makes the church in Nigeria a praise on the earth...\"\nLet us pray!\nBy Iyke Oriaku",
+    "date": "August 18",
+    "images": [
+      {
+        "src": "assets/a8e026bc91a2-0.jpg",
+        "alt": "May be an image of one or more people and people smiling"
+      }
+    ],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid02vqXBvAPjEMu84pouQEhHxL1bQ5s8p3ybefSToUB6Kur6zpp3onT7M7HXJLEuEsorl",
+    "minutes": 3
+  },
+  {
+    "id": "26f37d804b2a",
+    "title": "The car summersaulted three times and the Lord delivered me out unscratched.",
+    "text": "The car summersaulted three times and the Lord delivered me out unscratched. \nThis was the second time I glaringly experienced raw angelic intervention. And this is how it happened.  \nThen I was using a Toyota corolla and I was driving to Ile-Ife. I had prayed with my wife and bid her off because it was always a about week trip.\nIt happened i had to first visit University Teaching Hospital in Ibadan for a business meeting. As I was driving out,I met an old woman by the exit gate. I looked at her standing helplessly and tired of waiting. I had to slow down my driving and stopped the car by her side. \nI asked where she was going to? She said along Ibadan- Ife road. I didn't know her from any where but I told her to enter the car. \nUpon entering, she told me she retired as a teacher from the destination I was travelling to. But she is not going there . She alighted along the express. \nBut before she alighted, she thanked me so much for taking notice to help her. That she was exhausted and lacked transport fare. She said stood at the spot I met to pick her for about 2 hours.  And many people have driven cars out without stopping to help her.\nShe then prayed for me and specifically told me never to overspeed with the car but drive carefully.  That nothing will happen. \nShe alighted and I continued driving just as she instructed.  Without any hole on the road,or any bump,without over-speeding. The car simply lifted itself on the express road and summersaulted three times. \nAt that split of seconds, I felt it was a film. It was close to Asejire dam. And people around the vicinity thought the driver would have gone to heaven.\nAnother surprise was that at the time of the incidence, no car,bus or lorry was coming,the road became vacant \n. Else it would have been a bit clashing with other cars.My car tumbled upside down with the tyres up and roof down. \nBy the time i came out from the window side,the car screens had been broken and damaged .The people who came to rescue were still looking for the driver. They couldn't believe it's me. I came out unscratched and the people started to shout and asked how possible. They recounted on the same spot nobody has escaped being crushed before. They started asking if I had any juju or what? Until they see my bible, they started shouting praise God.\nThey helped turned the car back to its feet. Fixed the tyres back and started the car again. The car started immediately. They drove the car back to Ibadan before us while I was inside another car following them.\nWhen i entered the house without the car,my wife asked why wasn't I travelling again and where was the car? I simply told her it developed faults. It was on the second day I told her what actually happened. My twins were not up to a year then, so they wouldn't have physically know their father if not for that divine rescue. \nTill now,I keep praising God for the divine rescue. And I pray that God will help me fulfil His purpose in Jesus name. \nLessons \n1. I believe that old woman I helped at the exit gate is an angel in human form. Angels don't appear in a form you will suspect. Angels do posses people too,it's not only demons that possess people. You must understand how to keep doing good,because you don't know you may be helping your helper.\n2. No evil can overcome any man who is under God's coverage. \n3. A simple prayer from people who are possessed by angels from God, Spirit of God and anointing. Especially after you have done good to them goes a long way into activating safety, healing, success and glory around your life. You may not see it,but it's happening. \n4. A lot of people are perishing because they couldn't recognise angels around them. \n5. Those God sent to help you are people you may be thinking are in need of your help. If you're not careful you will think they are burdens to you without suspecting your help is far smaller to what they will do for you later.\nAs a missionary, God once told me to keep hiding from people so they won't suspect a word from my mouth is a game changer. That I should rather behave as if nothing is happening. Even when He sent people around to support the work. Then I understood, there are actually people God places among people without people suspecting them.\nToday makes it 833 days,and 698 days we have been praying and interceeding for brethren, missionaries, people and nations every night in two different groups.(all voluntarily and never for any reward)And God is also looking for you to join us as we don't have any date to stop. It's not for the faint hearted. God is interested in possessing you at such level too. May you yield. Inbox to join.\nMay you and I keep experiencing angelic help from God in Jesus name. \nThat was how God prevailed over evil plan against me. May God keep prevailing over my life,my wife and children in Jesus name. Amen. \nYou too will always have testimonies of God's help in Jesus name. \nYour brother \nLatunde Akin",
+    "date": "August 17",
+    "images": [
+      {
+        "src": "assets/26f37d804b2a-0.jpg",
+        "alt": "May be an image of one or more people and people smiling"
+      }
+    ],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid0GTPAry8nwM27yi6uXkzBvbuY66y8KbNAbcVhz7Dj6STMoKsa134MeN3kZ7bd31crl",
+    "minutes": 5
+  },
+  {
+    "id": "7f5d96da5b24",
+    "title": "Days gone past when I was younger and will bed-wet and began to cover it up.",
+    "text": "Days gone past when I was younger and will bed-wet and began to cover it up. \nThis one was a coded bedwetting o,not a consistent one. \nI remembered I was very smart at hiding bedwetting until one day I was caught. That was my first year in higher institution. Oh ,I felt so shameful and bad. Thank God for brethren \n.\n.A turning point came when I had to understand it is not any spiritual attack. It is called nocturnal enuresis (involuntary urination during sleep). It's caused by hormonal imbalances, deep sleep or medical conditions. \nMy case wasn't a primary enuresis where it happened everyday,but may be 3 or 4 times a year. But it naturally stopped when I became more conscious of how not to sleep too much again. It faded biologically. \nSo when I noticed that in one of my children, I simply understand how to always control her sleeping style by waking to attend to it. I didn't allow that to make her feel so bad to lose her self esteem. I lost mine ,so I wouldn't allow that again in my house. By the time it stopped, the confidence in my children didn't go down.  \nAnd I discovered that most times, we feel so down most of the time because of the kind of people that surrounded us.  If people close to us didn't build our confidence rather than mentally  disciplining us for an involuntary offense. We may grow to become either aggressive or so moody.\nWhen I looked about at some of people, I will smile and simply trace their behaviour back to their background. How people made them feel while they were younger forms the way they behave now unless Christ has totally broken them. \nNow when I remembered people who once made me feel bad because of the limited mindset. I will laugh and tell myself that it's a different ball game now. Battles of life has made everyone of us to calm. And nothing should be able to move anyone of us now unless such hasn't been touched by life's battle.  Now we have been built to some extent to face life squarely and to understand the race isn't to the swift. Never to be worried by anything again but face things squarely and win with God.\nTo people who still make people feel inferior.\nTo people who still make people feel bad.\nTo people who still look at others in a way that makes them feel less of themselves. \nTo people who still believe others can't make it.\nTo people who still think they are better than another person and can't show empathy. \nI tell you clearly that you're not wise.\nYou are still operating under a very awkward mindset. \nTables do turn and when it turn, you won't know whether it is that former poor Lazarus you will see on the other side of the table. \nOur times differ,so do good always unto all men and wait diligently for your time.\nFor those with entitlement mentality and go around feeling sad that people don't treat you well. You too are under serious mindset bondage. It is better you brace up and develop yourself so you too can be able to use the table when it turns. \nMay we be wiser. Amen \nStay blessed and learn how to treat people better than you met them. \nYour brother \nLatunde Akin",
+    "date": "August 15",
+    "images": [
+      {
+        "src": "assets/7f5d96da5b24-0.jpg",
+        "alt": "May be an image of one or more people and eyeglasses"
+      }
+    ],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid0S3orFZWWynm2931dqHPfBuJKyQBot53UuAz8kwdH6apnYK78m8pHtT7NZKJajbMXl",
+    "minutes": 3
+  },
+  {
+    "id": "d0993360f867",
+    "title": "If anyone asked me if I liked to be like my parents I would answer NO.",
+    "text": "If anyone asked me if I liked to be like my parents I would answer NO.\nI can't even pray to come to this world again through them as a personal desire. I am a sincere person.  I don't pity what shouldn't be pitied. \nBut God has reason he allowed us to come through our parents no matter how good or bad they are.\nMy mother suffered miscarriages for 6 years,had still births and 9 issues wasted before I was successfully given birth to as the first child. \nI grew up being taken cared of,infact my parents had to do other jobs apart from teaching so they could care for me and my younger ones. They tried their best as parent and I give that to them. \nBut they were men limited by what they were exposed to. \nI remembered trying to secretly mend ways with people they have hurt without them being aware of it. A wise son doesn't follow his parents foolishly. \nI remembered trying not to mismanage people like they did. It tried to show up but God is helping me never to repeat their mistakes. \nI remembered never to train my children like they did. We were never exposed to the spirituality of life by them ,so we goofed at many points. \nThere are certain spiritual information about life they didn't know how to communicate to us and train us with. Probably they were not aware of it too or probably by the time they became aware of it,we had left home to fight the battles of life by ourselves. \nThey can't be blamed. They probably didn't know.\nEven after I gave my life to Christ, that place of knowledge gap was still there. I ran into some things later that revealed the deficit of knowledge. And at that time, I realised I wouldn't have run into it provided I have learned about it from my parents. \nDo I still blame them? NO \nThey did their best according to their limited background. But I would have preferred that the most important aspect of life be taught by parents to children.  Which is SPIRITUAL INTELLIGENCE. \nThis has nothing to do with religion. This has nothing to do with whether you're born again or not. \nIt simply has something to do with passing knowledge about how life is foundationally spiritual and how to live in it with care. \nYes,a lot of us stumbled through battles of life and learned it through hard experiences. Of which if we had been informed properly by our parents, we wouldn't have passed through that time wasting route. We wouldn't have goofed at one point or the other in ignorance. \nDo I love my parents, oh yes. But you shouldn't expect me to love their weaknesses and lack of knowledge on how to develop people. \nDeveloping people is not feeding them or paying their school fees. \nDeveloping people isn't pampering them or just protecting them. \nDeveloping people is giving them native/spiritual intelligence about life and how to navigate it. \nYou can't actually give what you don't have. And to this,nobody should be blamed. \nMany people are in church, and it's only church that's in them,not Christ.  So they think they have knowledge but they don't know it's only letters that killeth they knew. \nMany people are only religious and they think religion is knowledge. Not knowing religion is just a practice and not knowledge. \nWhen you have knowledge, knowledge will truly set you free from falling into traps of religion. You will understand the spirituality of everything around you and become more serious and sensitive not to follow norms.\nYou will learn when to misbehave and when not to.\nYou will understand that people's smile at you doesn't always mean they accept you. You will not fall into certain sins or certain controllable mistakes. You will truly be free when you know truth about things. You will also understand that hardwork is the stressful aspect you must do to enter into the smartwork arena of life. \nNow,the reason Jesus Christ came is to actually expose us to another level of freedom that spiritual intelligence in God offers.But a lot of believers are limiting themselves to just religion and religion. They will continue to suffer and perish little by little because they lack knowledge. \n\"My people perish because of lack of knowledge \"\n  isn't talking about letters,logos but the rhema of life. Spiritual understanding of what God is actually communicating per time. When you know this,your life won't run into any ditch again! You won't perish despite the fact that you are one of God's people. \nTo everyone who has run into a ditch and you looked back and nobody, not even your parents has the spiritual understanding to help you out with. I will encourage you to soak yourself in deep prayers so that such spiritual understanding could be opened up to you through the letters of God's word when you read it. \nExcept this,you will only keep practicing a religion that can't set you free. Reason many read the bible even as a believer and won't still understand anything is because they are only religious about it. They don't go deeper,try harder, seek harder until  repercussions of their shallow lifestyle of ignorance caught up with them. \nIf there is anyone here that still hate his/her parents or anybody. \nThen it means you haven't understand hating will keep you dragging in life. A negative energy can't neutralise another negative energy.  You can only neutralise emotional hurt in your life by your positive energy which you must always emmit to others. \nDo good to bad people. This is how to win in life.\nSo please repent today by forgiving yourself and everyone that has hurt you in the past.\nHope you got my drift?\nGod bless us.\nYour brother \nLatunde Akin \nI",
+    "date": "August 15",
+    "images": [
+      {
+        "src": "assets/d0993360f867-0.jpg",
+        "alt": "May be an image of one or more people, people smiling and eyeglasses"
+      }
+    ],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid0fKCC7McmLwvVAJhEHXC5cdJ6Yn9whawttFJcbyxWUU1maqKsQVeju2nQ7TgFGEEMl",
+    "minutes": 5
+  },
+  {
+    "id": "9fe1a892fad5",
+    "title": "You must know how to spot bad energy around your life. You can't just keep allowing negativity all in the name of friendship or tolerance.",
+    "text": "You must know how to spot bad energy around your life. You can't just keep allowing negativity all in the name of friendship or tolerance. \nDid you know even you yourself can be a source of bad energy against yourself?\nYou will notice this when you relate with people and you don't care about leaving them better than you met them. \nYou will notice this when your anger level is becoming abnormal. You get angry easily over little things. \nYou will notice this when you always feel bad about others progress. \nYou will notice bad energy in your life when there are certain sins you commit consistently. \nEven in your dream life,you will notice its always nightmares or bad dreams. Presence of negative energies. \nYou entertain dirty rooms, dirty kitchen, dirty food stores etc. Those dirtiness attracts negative energies you know? \nYou have people close you as friends or family, but they never make you feel good. Instead it's betrayals upon betrayals.  No ounce of loyalty exists among those you call close associates. It's either you're the problem or they are the bad energies positioned to hinder you.\nYou showed yourself friendly but you get betrayed in return. \nFor every negative energy you allowed, simply understand that that is what demons feed upon. They need those negative energies to survive, so they are always attracted to it. They are always around every negative energies. \nReason you must learn how to neutralise every negative energy around you with either your good attitude (fruits of the Spirit) or total separation from such carriers of negative energies. \nIDo you know there are people you will even help or give something to and their hidden negative energies will affect you?  Not because they don't need your help, yes they need it but what's is in their lives is all negatively conditioned. Likewise there are people that will also help you with a negative energy. \nThe beauty of life is just to understand how to be positive always in every situation. How to use distance against negative person.  And how to know the best way to neutralise negative energies.\nA man who is not genuinely regenerated in Christ will be missing on this. There are many people who are just religious but lack power to behave well. Such can't know how to really fight in a spiritual warfare except making mouth. Because in a spiritual warfare, we must understand that fruit of the Spirit are the real weapons of warfare and not any gift or skills.  \nLearn.\nYour brother \nLatunde Akin",
+    "date": "August 12",
+    "images": [
+      {
+        "src": "assets/9fe1a892fad5-0.jpg",
+        "alt": "May be an image of one or more people and beard"
+      }
+    ],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid028nndzgi87fyXL5iQ8JfAbNK6tYEGDS1Yv53q9UN3HXkMxCpSSs3NQmFjwPuu31P2l",
+    "minutes": 2
+  },
+  {
+    "id": "6e39b5951e10",
+    "title": "Some people will never experience breakthrough until they stopped collecting things from people they were supposed to give.",
+    "text": "Some people will never experience breakthrough until they stopped collecting things from people they were supposed to give.\nFor example, your parents who spent so much on you to train you ,and at a stage you're supposed to be giving them, you then take pleasure in collecting from them.\nAt a point in my life,when I noticed my parents wanted to be giving and giving all because of parental pity.  I stopped them before they stop me with needless care. Na serious fight o,I hate nonsense!\nWhat those kind of care does is that it limits your thinking faculty to be innovative and creative.  It makes you rest in your comfort zone expecting them to pity you. You may think you're enjoying, but I tell you ,you're only enjoying nonsense!\nA grown up man who still depend on those that supposed to depend on him is a simply limiting his own destiny without knowing. \nNo matter how hard situation is or jobless you're. Never ever allow anyone to keep pitying you. Get out of that nonsense comfort zone and look for something little to do. Great things start in a little way. Stop thinking about starting big by waiting to be fed by those you should be feeding. \nOne day,my parents brought raw food for me because they felt i needed it. My job lost me at the time,but I wasn't ever ready give up on hustling. Immediately I told them never to try that again till eternity. If they really wanted to help,it's not food I want,they should have shared part of their retirement gratuity so I could return it after doing business with it. I insisted at that stage I should be the one sending foods. It was a thug of war,but I was brave enough to stop any pity that can peg me in any comfort zone. \nLikewise, there are people in your life that you should begin to be responsible to and not them taking your responsibility anymore. This is because there is a way universe was arranged that once someone isn't happy taking that responsibility again because they feel you should be responsible too. And they were forced by any bad situation to take up such responsibility. Their spirit won't be happy doing it,but you may see them smiling. Their inner sadness you're not seeing is a bad energy for your progress. Forget the smile you see outwardly. \nThe only way to evade such bad inner energy is to strictly become the giver and not the reciever. So no matter how bad your situation is,still try and be giving to people who can pray for you and release certain utterances of blessing into your life. They may not even need those things because they are comfortable, but because of their blessing. \nGet this secret and be truly free from limitations. \nIt's an act of irresponsibility to always expect to recieve material benefits from people you should give . That is, people who should give you more than material blessing.  People who should spiritually bless you beyond money.\nThough sometimes they can materially bless us,but we shouldn't always expect it. What our parents, pastors, authority figures in our lives has is far more than any material gift. Unless we're spiritually blind. \nGot it?  \nGod bless.\nYour brother,\nLatunde Akin",
+    "date": "August 11",
+    "images": [
+      {
+        "src": "assets/6e39b5951e10-0.jpg",
+        "alt": "May be an image of one or more people and eyeglasses"
+      }
+    ],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid0H3g8Vqm8HYv6rRm3LQJ4qPmaKuCVLWZLN1ppzVQUWqaZpVC9BroUUJqPAEFcNjs5l",
+    "minutes": 3
+  },
+  {
+    "id": "4c1456b682be",
+    "title": "The first three cars I used were official.",
+    "text": "The first three cars I used were official. \nMazda 626, Nissan primera,Toyota corolla. All were manual drive.\nSo when God bought my first car for me,Ford Scorpio,it was still manual. \nThen one day I was driving to Ikire town from Ibadan. On getting to Ikire,I saw one of my long time pastor pushing his car to start. At that time ,I had seen him last 15 years back. I could remember he once accommodated me and took care of me.\nThe meeting was miraculously unexpected because I was never aware he had been transferred to that town.  I only went to the town to do my pharmaceutical business.\nI alighted from my car to go greet him where he was pushing his car. He was surprised to see me. We discussed and went on our ways.\nAfter few days, I told my wife about that Pastor's situation and we prayed for him.\nNext I told my wife that,I wished to give my first car to that pastor. After personal consideration, I placed the car for sale and took all the money to the pastor to buy another car of his choice. I didn't tell him that was what I dis until 10 years afte when we met again. He wasn't aware I sold my car and removed nothing from the money to give him.\nI didn't want to give him the car directly so he won't know anything or think I did it out of pity. Giving him the cash won't make him suspect its a sacrifice. \nBy the way ,my goal was to make only God see me and not even him or anybody. \nI didn't hear anything from God to do that.  It was purely from my desire to sacrifice that for someone who once took care of me as I trusted in God for the best.\nLittle did I knew after 10 years I would be able to share testimonies of God's goodness to him. At the time I was sharing the testimonies with him 4 years ago. He came to greet me inside a jeep. And I told him that was the 4th replacement after the sacrifice. He was suprised to know it was my first car I sold to give him the money so he could get a better car. He prayed with me and we praised God together. \nLearn this lessons.\nIt's not everything God must tell you to do before you do it. Sometimes sacrifices are born out of our inner compassion for others as long as it is not a danger to us.\nGiving of any kind is strictly spiritual. It is like releasing your virtues into another soil so God can make it multiply in blessing to you. Not a physical blessing, but a spiritual authority to prosper spiritually. Especially when you do to a highly potent spiritual soul. Their spirit prays a lot for you without them knowing it.\nAlways be a grateful soul. Never forget people in the past that has done you good. Always appreciate them no matter how.\nIf you really want to move forward in life,you must be a person that thinks impact and impact.  Begging people for things shouldn't be your goal. Putting pressure on people to give you  shouldn't be your skill . You will lose a lot on the long run. It is better to begin to make reasonable impact on those close to you no matter how little. I have list of people that I intercede for without them knowing it since the past 850 days. There are other missionaries God is taking care of through our ministry. You just must be very impactful. \nGive yourself to God and humanity, and there is a way the universe will respond back to you positively.  \nSelfishness is when you beg people instead of developing values. \nSelfishness is when you think about yourself alone without having consideration for others that matter. \nGod's desire is to make everyone a channel of blessing and not just a receiver but a giver.\nIn what little way is your life making good impact on others?\nRemember, without sacrifice there can't be a success.  And successful people knew this.\nMuch more,you don't see every reasonable person sacrificing around unreasonable altars. It is a waste of time and resources. \nMay you learn from these. Amen \nYour brother \nLatunde Akin",
+    "date": "August 11",
+    "images": [
+      {
+        "src": "assets/4c1456b682be-0.jpg",
+        "alt": "May be an image of one or more people"
+      }
+    ],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid02vpRpeuCt7B1B7P1JqXyXdDVvTpw3iqXmnard2JEzBQaYZh9M4nPuN1wtAHcdxbSxl",
+    "minutes": 4
+  },
+  {
+    "id": "7b60394968e3",
+    "title": "THEY DECIDED NOT TO JOIN OTHERS TO CHEAT IN WAEC AND PASSED GALANTLY.",
+    "text": "THEY DECIDED NOT TO JOIN OTHERS TO CHEAT IN WAEC AND PASSED GALANTLY. \nMy twins had their exams last year and we decided to test all what we have been training then with. \nI told them when I was in S.S 3 writing my WAEC, my father came to the exam hall to give me expo. I told how I used my eye to flog my father out of the exam hall. He left feeling so shameful. \nAt that time I was just 9 months old in faith of Jesus who saved me completely. First thing I noticed was that all my senses and brain became so transformed. I could understand all I read better than when I wasn't born again. So it was a different ball game for me never to compromise my stand.\nI remembered when I got home that day,he said \"\"omoburuku,o dojutimi\" olori kongba. Meaning \n bad child, you disgraced me today.  I laughed and told him never to do that for me again. Three months after, he surrendered to Jesus too.  So my persecution didn't last longer as a person from the other religion. \nWhen my twin children was 7 years old. I remembered I personally ministered salvation gospel to them and led them to pray through to salvation. It was easy for them to see their parents living according to God's will and much more we discipled them to grow at their level. \nThey came home one day and told us that their school authority allowed malpractices. They allowed students use Android phone during exam and other things. They asked them to pay certain amount everyday for supervisors. \nWhen we asked their opinion, they said they had told the school authority that they are not interested in anything shady and won't pay anything. \nMy joy became full. I rejoiced that my twin girls were able to stand their feet on matters of integrity.  They represented Christ and rRighteousness well.\nYes,they are growing and not perfect. Yes,there may be areas they aren't yet strong enough in. But in this aspect of refusing to do exam malpractice. I give it to them.  The made me proud. \nThe school authority thought their result will have issues. They told them the school won't be blamed for any bad result from them.  My children laughed it off.\nWhen the result was released, they both passed all the subjects GALANTLY.  I hardly see any Cs,they got A and Bs . \nI once told other parents about wasting money to send children to big big schools when they knew it's beyond capacity. I advised rather they get competent private lesson teachers to teach those students at home. That was what I did and my children even performed far better than those who spend 500k per term for school fees. My children school fee isn't more than 70k but there are private teachers I pay every month to train them more.Which means in a term, I don't spend more than 150k on each person. See the wisdom?\nOga,calm down and borrow yourself brain. It's not how much you spend on children's school that matters.  It's how they are closely well trained in those subjects. If you can get same quality of training for them with moderate fee,why wasting resources you can use to do other things?\nI remembered throughout my secondary school, I studied using local lantern we called  \"shade\". No electricity in my town. Thieves stolen the cables in  my town and close to 20 years we didn't have power. Yet we passed the exams, though with much stress. So I don't see any reason why spending so much money now determine success.  No,it is your wisdom ,discipline,prudence and how you train them that's key to success. \nI a missionary, so I can't afford to waste resources.  The gospel mission works are always in need of resources. We are called to rescue others,and never to live for ourselves. \nIf you know any scholarship opportunity for schools abroad for schoolcertificateholders, please get in touch inbox. Right now,the children are preparing for A levels.  \nIn a world where people compromise their good and godly standards all because of success. Please I advise you not to do. Because on the long run a compromise against integrity will create a void in your life. Unless you returned to God for mercy and turn to a new leaf and a new lifestyle. \n In God. \nGod bless you and Happy Sunday.\nYour brother \nLatunde Akin",
+    "date": "August 9",
+    "images": [
+      {
+        "src": "assets/7b60394968e3-0.jpg",
+        "alt": "May be an image of one or more people, beard, people smiling and eyeglasses"
+      }
+    ],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid0NLEC2jJWDnS7VEWjTYKZf1CCVZhv9rUXg34kgf9hpFD8AWtTsBUSDixjrqRpxNQhl",
+    "minutes": 4
+  },
+  {
+    "id": "cf0e406abc42",
+    "title": "The time I stopped eating at parties of any kind was when my plate of food miraculously popped out at the bottom while remaining plate was in my hand.",
+    "text": "The time I stopped eating at parties of any kind was when my plate of food miraculously popped out at the bottom while remaining plate was in my hand.\nAt first I thought the plate was broken, but I realised there was nothing like that. It simply popped out and the rice poured away.\nYou will be surprised I myself was suprised just as people around me were.\nImmediately I knew it was an angelic divine intervention because I have nothing to do with juju. My father is 84 years now and I have never seen anything fetish around him. Even when he was never a Christian. \nGod sent an angel to literally deliver me from eating that food. And for you to know the food was actually polluted, the organisers packed the food on the floor and gave it to another person. \nThe other person ate it and I kept wondering why couldn't they throw it away. \nI could have fought against them giving another person such food but I felt I shouldn't cause more scene than what has happened. Because everyone had already started looking at me differently. \nWell, I later understood that it is God that can keep anyone. But in whatever way we should be responsibly careful,God will ne do it for us. So as from that day I became careful of what and I where I eat publicly. \nThen I haven't become a man of God, just a son. It wasn't until I trained as a Theologian that I discovered its ministerially ethical not to eat anyhow publicly. \nUpon that, I still prefer to eat my guguru and epa on the road \n. So don't be suprised if you see me eating by the roadside. I like to be decently simple and free in lifestyle. Just that one must be highly sensitive and caution his appetite for food privately or publicly. \nIf you have not experienced something bad eating outside you won't probably understand this post. Just like people who have not experienced broken relationship before, they won't understand the emotional pain.\nEven in dreams some people have eaten foods and they wake to discover that they have actually eaten poison. How much more when people just eat anyhow anywhere? \nMost people that the enemies could not get spiritually through dreams, they won't try to get them physically through any physical means.  Especially through a spiritual network of monitoring spirits. \nReason you can't afford to live carelessly. And if you live carelessly, even God won't be blamed for your disobedience against His instructions to be watchful. \nSuspecting people isn't what we're talking about please. WATCHFULNESS is what the deal. And this has to do with practically exercising the eye of divine understanding with constant refrain from desire to please self and people but God.\nYes Jesus ate with the publican and people in their houses and in public. But he was never careless eating from unknown sources. \nIf you're are fond of eating anywhere, anyhow. Please desist from it today. \nIf you don't cook your food ,then you must be very sure the source where you get your food from is hygienically and spiritually good. \nMuch more,pray always before you eat anything,it works. Unless God has exposed something wrong to you or you have seen something wrong and you stubbornly insist on disobeying the need to excuse yourself from such food. That's when God won't listen to your nonsense prayer again. \nFriends, I believe God is ever protecting us,and we don't have to be struggling to live as if we can protect ourselves without God. Our responsibility is just our responsibility, which we must try to live by.\nDo not be careless eating or drinking anywhere or anyhow.  Watch what you eat or drink. Make sure its not junks,but good nutrition. \nMay God continue to protect us. Amen \nYour brother ,\nLatunde Akin",
+    "date": "August 5",
+    "images": [
+      {
+        "src": "assets/cf0e406abc42-0.jpg",
+        "alt": "May be an image of one or more people, people smiling and eyewear"
+      }
+    ],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid02uVmFMs2CENhUVWXai7Dz32QYXpwW9WwsHwyb11dpY14z1gNrBMem4XV1j88YokWil",
+    "minutes": 3
+  },
+  {
+    "id": "bb3be9aef09d",
+    "title": "I boarded a bus from Oshodi to Mushin one day.",
+    "text": "I boarded a bus from Oshodi to Mushin one day. \nA fine lady sat beside me and I actually admired her. She looked so modest like a sister. \nMe that was looking for fine sister to marry, I felt the need to follow her secretly to know where she was going to. \nI didn't know her from anywhere,and she didn't know me from anywhere! We met in that bus and the trip was so short for a good conversation. \nUnknowingly to her,I alighted where she alighted. I hadn't reached my own destination but I had to alight because of her. \nSecretly I followed her behind till she entered her house.  Then one day I went visiting. \nIt was her mother I met and I had to explain  that we met in the bus with her daughter blabla . \nShe looked at me with surprise and called her daughter out. When she saw me ,she was suprised how I got to know her how. I responded I alighted after she alighted on that day. So I saw her when she entered her house. \nI introduced myself to her. I mean as a born again person, serious and from so so and so church. You know how some brother used to become so bold and straightforward. I actually did same.\n.\nOn getting to know her believe system, we were wide apart.  My body calmed. I got stocked from stalking.  At least I tried \n. If you never \"toasted\" a lady before, come and stone me\n. At least you should give me kudos for pursuing a soul to a reasonable conclusion \n.\nYou know one funny thing? If you pursue church sisters with that approach, the church authority may want to send you to hell \n,instead to understand that wooing a lady is not sinful as long as you have not committed any sin.\nBy the way,I discovered it was just the lady's physical modesty that attracted me,thus my navigation to know her more. I was actually searching for a wife then, so I felt I shouldn't let that damsel go like that.  Unfortunately I missed out because I can't marry a Jehovah Witness. \nIf I may ask. How many times have you compromised your value system for another thing that doesn't go with your values?  \nIt means you sold your birthright the moment you compromised. \nIt shows you are actually filled with lust that moment you entered into wrong relationship or committed that sin. \nIt shows you are a chicken and not a real man,when you just must enter into immorality at the beckon of temptation. \nYes,you can explore, try new skills, but sin not.\nAnd if you have sinned, simply understand there's is always a road back to the Saviour, Jesus Christ who is ready to restore you.\nAre you right now in any wrong relationship?\nPlease consider quitting now. A word is enough for the wise.\nHappy new month. \nYour brother \nLatunde Akin \nThere was no",
+    "date": "August 2",
+    "images": [
+      {
+        "src": "assets/bb3be9aef09d-0.jpg",
+        "alt": "May be an image of text that says 'R HUDO AUDO'"
+      }
+    ],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid0PVihAk687QjLAneBnvqPVYJo7bfScut7U8HRKPcwJUK6jHvusK6FeVuPDhs37Uftl",
+    "minutes": 3
+  },
+  {
+    "id": "260fb129725e",
+    "title": "DR SAMUEL EBIE : HE LEFT US TO BE WITH THE LORD WITHOUT NOTICE.",
+    "text": "DR SAMUEL EBIE : HE LEFT US TO BE WITH THE LORD WITHOUT NOTICE.\nHe is one of the pioneer of the Intercessory Prayer Meeting we started on February 2024. Where we intercede for people, brethren ,the church, the sick,the needy,the sinners, the government and the missionaries. \nWe were preparing to thank God for spending 800 days of intercession together with about other 40 brethren and I just recieved a message from him about the sudden sickness. \nWe prayed and prayed but God has the best decision. \nThis is a man who will call me aside from our normal everyday session of intercession and tell me to let us continue the prayer for the people all of us has prayed for in the group. \nHe is ever compassionate and deeply dependable. \nHe will demand for details of missionaries who are labouring on the field of souls and send support to them often. \nDr Samuel Ebie is such a man of peace. He has an eye for making peace and ensuring things are done in order.\nHe hasn't missed any day of intercession without notifying me. He is always showing one mind,and maintaining the spirit of unity in the fellowship. \nWhy do good people always leave on time? \nI heard the surgery was successful and we were  thanking God. Next was to hear the surgery wasn't again.  That the blood couldn't flow to the brain again \n.\nIn our intercessory prayer team, we lost a warrior but heaven gained a soul.  I believe he is with the Lord Jesus, so is our condolence.\nTo his wife ,Deborah,,Elizabeth, Grace, and Joshua.  I pray that the Lord will take care of you always.  You won't have any reason to looklack or suffer in Jesus name. \nThere are men who interceeds for others in the secret and Dr Samuel Ebie is one. He was a university associate professor in UK before his demise. He is a founder of a ministry work too.\nHe has done his best to serve the Lord, and he is remembered by what he has done.\nWhat will you and I become remembered for?\nDr Sam,till we meet again in the resurrection morning. \nYour brother \nLatunde Akin",
+    "date": "August 2",
+    "images": [
+      {
+        "src": "assets/260fb129725e-0.jpg",
+        "alt": "Post image"
+      },
+      {
+        "src": "assets/260fb129725e-1.jpg",
+        "alt": "Post image"
+      }
+    ],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid02H98kjWxbS5ZKm9ZwG36oos5g8ggzQTrgYT6RJ4AULj7E2qzsy1m6hw3YkAm9CVT4l",
+    "minutes": 2
+  },
+  {
+    "id": "dfa2bc8a67f5",
+    "title": "You should not be moved by another person's success. Their time isn't your time.",
+    "text": "You should not be moved by another person's success. Their time isn't your time.\nYes,rejoice very well with them but don't feel any less of yourself. \nOne thing that makes you to be successful too is when you are genuinely happy about another person's success. \nIf you're always feeling sad that you have not achieved what others achieved, it simply means you have been already wired for failure. \nIf you like,have all the money or successes, it can't intimidate genuine men who understand timing and knows how to restore wasted opportunities.\nThose who know their God shall be strong and do exploits. \nYou should simply rather understand how to relate well with successful people in your area of target. \nYou should understand how not to become a parasite. You must give value ,show value,and have something to solve around people. \nYou should not create any atmosphere that places burden on others but lifts burden from others. \nThe best way is to understand your place in destiny and stay there to DEVELOP yourself. \nYour time too will come. Unless you have derailed from God's plan. \nAnd anyone who derailed from God's plan for his/her life is already lost in destiny. Such are the kind of people who gets angry unnecessarily when they see others who are walking in their right path. \nMay we not be lost in life.\nMay we have the strength to begin afresh and succeed.  \nMay our self confidence becomes restored to rise and rise again. \nMay our wasted years become restored. \nMay every dry bones rise again. \nIn Jesus name. Amen \nYour brother \nLatunde Akin",
+    "date": "July 31",
+    "images": [
+      {
+        "src": "assets/dfa2bc8a67f5-0.jpg",
+        "alt": "May be an image of one or more people and people smiling"
+      }
+    ],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid02jHjbjxxqhc41g8Magizmf2K6FHzhESDQF9u27hv7LmW8hDx4yEQumt4yxpbG1Zoxl",
+    "minutes": 2
+  },
+  {
+    "id": "592b8a2dd487",
+    "title": "This old landlady in a house I lived in Lagos will wake in the middle of  night and be cursing people in her room silently.",
+    "text": "This old landlady in a house I lived in Lagos will wake in the middle of  night and be cursing people in her room silently.\nI had always thought it was night vigil and she was a prayerful woman. Until one day I overheard her mentioning real names of people and raining curses on them. \nOf course, nobody will hear her when it gets to the cursing aspects and mentioning of names of people.  But I had to place my ear on her wooden closed window for me to hear the content of her utterances well.( I sabi that thin well \n)\nWhich means, I left my room and went outside at midnight around 2 a.m. to deliberately listen to her silent utterances. Something prompted me to do so.\nSometimes you have to be very sensitive about things around you and go extra mile to investigate things personally before you assume people are good.\nWhen I started hearing, lagbaja and lagbaja will not make it, lagbaja will kpai, and all sorts of negative utterances. I nearly urinated on the spot. \nSo people will think this woman was actually prayerful, they won't know she is into a very subtle witchcraft. \nII didn't tell anyone till date I think.  What I did was to be very careful till I packed out of the house. She didn't mention my name in the utterances I heard in that  night, but she mentioned names of her other tenants and laid curses on them. \nGet me right, I know curses won't affect those who are spiritually strong enough to wade it away. Yes I know may be one or two people that lived there and came out better. But many didn't come out better in that house. They struggled under such witchcraft domain.\nWhat makes things worse was that many of us were ignorant about what is witchcraft. We think witchcraft activities are purely when you see people confronting you with juju or hating you.We didn't know people can be smiling at us and that smile could be full of witchcraft. We didn't know, people can be using prayer to practice witchcraft. \nThe day I discovered, was the day I stopped believing everything I see verbatim.  I learned how not to be decieved by religious people anymore. \nPeople who will look so religious but very silently evil in their imagination. \nPeople who look so friendly but are only pretending. \nPeople are actually deeper than what we see on the surface,including me and you too.\nWe must just be very certain on whose side we are. Either God or Satan.\nTo you who are experiencing serious struggle in a particular aspect of life. Please check whether the network of \"negative prayer warriors\" are not assisting other \"prayer warriors\" from your former place. \nWhat you simply need to do is not to engage in any physical reactions or fight. \nWhat you need is a total surrender to Jesus who can fight for you.\n And the wisdom to live carefully in consistent prayer of divine direction. \nYes,it may mean changing of location, but the most important is that such network isn't working against you anymore anywhere you go.\nLet God guide you better. \nStay blessed. \nYour brother \nLatunde Akin",
+    "date": "July 30",
+    "images": [
+      {
+        "src": "assets/592b8a2dd487-0.jpg",
+        "alt": "May be an image of smiling and text that says 'R HLIDO .eoo ®'"
+      }
+    ],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid02Meh8YuYpsyR8VGjN5pRmejZWQcFu5F23cX235MhoWeT76bY6oNJFC322S12HyGF2l",
+    "minutes": 3
+  },
+  {
+    "id": "ceb4c3fad406",
+    "title": "You suffer because you refused to dare your challenges in the face enough.",
+    "text": "You suffer because you refused to dare your challenges in the face enough. \nMany like their comfort zone when they're supposed to move out of such limiting zone in a fanatical way.\nAfter I was told to return the official car of the job that lost me. I knew it was sudden and unexpected, so I tried to apply for a new job at SUMAL biscuits company. The pay was very low to what I earned on the job that lost me,but I felt in my spirit the need to accept that job so I can learn something and also check out immediately with inspiration. \nOn getting the job,I worked 12 hours at a stretch checking quality of processes and products.  I became so tired and said to myself, this is a great bondage to me. Much more my salary before was 4 times better than what they wanted to pay me. How can I survive with paying for a four bedroom flat rent in an estate with just 800naira  per day? \nWith the inspiration I got about how the company mixed her flour, connected to what I learned from my mother as a chincin baker. I simply didn't return to that job the second day. I can't waste my strength for the second day. \nMy wife looked at me and asked why so sudden? I responded it is better to run a chinchin business by myself instead to wasting my strength on a job that can't pay for my accommodation and bills.\nNo self pity,no looking at anybody's help or hand. I was more  brutal then,so to start afresh wasn't a problem. \nYou will be surprised I mixed the flour for chinchin by myself, I will fry them,packaged them and go about hawking them.  It looked like shame because people knew me with a good job and official car. Them seeing me trekking to supply chinchin was actually demeaning. \nI made more money than working in that biscuit company. I made 3 times of what they wanted to give as salary. \nMy goal was first, that my wife will never suffer or has any reason to lack. That my children won't grow to have any reason to be needy. I have calculated it that Satan wanted to limit my sphere of good life by that nonsense job,so I quickly broke free! And I was truly free. Infact my friends then looked at me with wonder \n. The rugged spirit was high and because of that God helped me.\nNot long after, a restaurant I have submitted proposal to in Lagos four years past remembered to check their files and called me for a consulting job. Boomed within a week I smiled home with big cash. Immediately I stopped chinchin production into another business. \n.\nYou're suffering because you allowed yourself to be limited. Stop pitying yourself today, use your brain and calculate that you need to immediately go all out for what you know best to do. Stop looking at money, go all out.\nIt's better to suffer for a good course than enjoying peanut in destiny. \nMy wife knows me,that I am a man who can't accept less. I might just be humble, but not wicked ignorant humility. I hustle to the core and I won't accept any job that can box me into penury. \nGet this fact,if you're not spiritual enough not to be boxed,they will box you. So your best bet is to first find God at all cost through divine knowledge and prayer. \nYes,I know it was a spiritual battle,reason I also decided the rugged wisdom approach,after many night of prayers. You don't find me sleeping anyhow. Many great people don't use all night to sleep but to do something meaningful. So it helps me now as a missionary for God. Never take your night carelessly, that is when real men are made.\nGet up! Get out to work that new vision!! God will help you in Jesus name. You will prosper!\nYour brother,\nLatunde Akin",
+    "date": "July 29",
+    "images": [
+      {
+        "src": "assets/ceb4c3fad406-0.jpg",
+        "alt": "May be an image of one or more people and people smiling"
+      }
+    ],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid031J8WxqxwmhU9fsKCFRzeWcFnDPDjAoxZ72ipTuz8QSqWCxmbYtaSgWuT1xpzxg6sl",
+    "minutes": 4
+  },
+  {
+    "id": "373d047ac03a",
+    "title": "I once lived in a rented house where all things looked safe.",
+    "text": "I once lived in a rented house where all things looked safe. \nBut under the surface,there was a very subtle spiritual battle. \nHow did I get the accommodation?\nI relocated from Lagos to Ibadan about two decades ago and had to put up with a friend for a while as I was on the look out for my personal accommodation. \nMy fiancee travelled to visit me from Lagos so we can go together to Oyo town to greet her elder sister. On our way back, I suddenly told her she should let us drive into an estate to check by ourselves whether we can get a flat to rent. Since we have been fasting and praying together since 40 days. My faith was high at the time.\nGod did us good, as we drove into the Estate extension, I saw this inscription written on the wall \n \"Jesus is Lord\". I was very happy and told my fiancee, this is the house we will rent. She marvelled at how I behaved as if I have been to the estate before.  I responded no.\nI parked the car,and entered the compound. It was exactly the moment someone was leaving the flat. A NEPA official who was posted to another state. \nSo he left, the official living room chairs,two bed in two rooms, and 6 faced gas and electric cooker in the kitchen. The house is a four bedroom flat. \nI was so happy that I don't have to set up the flat immediately. It was a great relief for me. No repairs, no painting  i just paid for the accommodation and entered with only my clothes and the car.\nFew months after, I got wedded.  Then the true colour of reality in the house began with me.\n.\nOn my wedding day,I was called to resign my job and returned the official car.\nLandlord that was always full of joy at seeing me began to bone face and looked unfriendly. \nLandlord's daughter that would always cry to me to help her get connected to job stopped greeting me.\nChildren that i used to buy bread for were no where to be found again. \nNEPA officials came and packed all their properties in the flat\nNobody inside the compound even ask about the car when they saw me trekking again. \nI and my wife became shocked at the sudden change of things to us in the house.\nThen I started out to look for another and was employed but I only spent just a day. I left because it was a biscuit company and I felt it's better to use that moment to begin my chinchin business,instead of laboriously wasting my time in such company. Much more it was so low compared to my former job.\nA friend borrowed me 20 thousand naira, so i went to market to buy half bag of flour,bakingingredients, big frying pot etc. Then we used stove with kerosene. So i started chinchin business with 20,000 naira.\nIt was like hell was loosen after me. I determined i will work and pay the house rent for the four bedroom flat. Then it was 120,000 naira. \nWith 20k business start up, God helped me to gather the accomodation money in 3 months .Then on the day I was to pay the landlord, he collected the money on his sick bed. He died few days after. \nThen i started to pray again to know why he died, God allowed me to know the problem was from his wife. Then I understood the house wasn't that clean. I began 150 days prayer vigil. God bought another two cars for me in the house but it got to a point God said to me that the solution is to leave that house. That was after I had spent another 3 years in the house, but with extra sleepless 1000 days of night prayers. \nGod helped me because I could pray,but it got to a point when prayer could no more work than to leave. At that time, we were really stucked again.  About a million naira goods in the store didn't sell for many months. We couldn't eat food again in the house, boomed God told us to leave and go rent another house. \nImmediately we left the house to another house, all the goods got sold out in two weeks! We were amazed and glorified God at the deliverance. \nIf you are passing through same ordeal or you got stucked in any situation. Simply understand how to change positions. Changing positions may mean changing locations or your behavioural patterns. Wisdom is key to any breakthrough than prayer. Unless God wants to train you in the school of prayer. \nThat you see religious people or houses where they write what they believe for people to see doesn't mean peace. \nYou just have to also know that God can lead you to any location so you can fight some battles there so God can use you to prove His power. And when the time to prove Himself is over,you must not remain in that environment but move !\nMay you and I become wiser. \nGod bless you \nYour brother ,\nLatunde Akin .",
+    "date": "July 28",
+    "images": [
+      {
+        "src": "assets/373d047ac03a-0.jpg",
+        "alt": "No photo description available."
+      }
+    ],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid02McHoZgatJ4MsGUxk19YiXS7ZR9gBNKkmDXuvBy7WSRyEXWAtrfizmsxz7p8WKmHUl",
+    "minutes": 4
+  },
+  {
+    "id": "4f88311deeda",
+    "title": "TO THE LUKEWARM CHURCH",
+    "text": "TO THE LUKEWARM CHURCH\n- By Latunde Akin\nYou are parched, yet you fancy yourself flourishing.\nYour vast knowledge has inflated your ego, leaving you oblivious to the precipice of darkness upon which you teeter.\nYou offer prayers ceaselessly, yet they are as tepid as ice water. Your lukewarm prayers fail to enrich your spirit towards God. Despite everything, you delude yourself into believing you are truly praying.\nYour blindness is profound, yet you claim to see.\nYou revel in the nostalgia of past revivals, yet the fire on your altar has long extinguished, leaving only scattered ashes.\nYou preach doctrine, not life.\nYou have permitted Satan to occupy your altars with impunity. Jezebels masquerade as daughters of Zion, and you remain oblivious, deaf and mute to this deception.\nYou don a suit, concealing truths beneath its fabric. Your pretense is unparalleled.\nOutwardly organized, yet inwardly decaying.\nYou take solace in commemorating death, believing it will lead more souls to Jesus—a falsehood from the depths of hell.\nRather than venture out to bring sinners to the church or take the message of salvation to the streets, you boast in your doctrine.\nYou weep incessantly, believing tears are what God desires. Genuine godly sorrow has vanished, replaced by feigned tears. God seeks not your weeping but your justice, mercy, and faith—how you treat those around you.\nYou preach the word, yet it lacks the power to heal even a simple headache, let alone save a life. That God honors His word does not imply He is pleased with the vessel. A tainted vessel will eventually contaminate others.\nIn times past, when the choir ministered, God's presence was palpable among the congregation. The choir's song would barely conclude before the congregation erupted in prayer.\nIn days of yore, when spirit-filled men preached, the fire of the Holy Spirit moved mightily upon every soul under their ministry. But now, it is but lukewarm water.\nGone are the days when preachers would spend twelve hours in prayer for a forty-minute sermon. Now they indulge in excess, and when they believe they have delivered a solid sermon, God shakes His head in regret.\nNow, they ascend the pulpit for damage control when mysterious deaths occur, using Scripture to justify further deaths. Nonsense. Preaching without fire, without solace. Insensitive sermons, telling the bereaved that 200,000 souls depart this world daily.\nTeaching the doctrine of predestination incorrectly. Teaching in a manner demons delight in, allowing them to exploit the ignorance of believers under such ministry.\nYet, your adherence to the doctrine of God's word is commendable. The covenant of God remains vibrant in your midst, while you remain spiritually dead without awareness.\nUnless your prayer altar burns with fervor, your self-righteousness and acute lukewarmness will continue to nourish the devils among you. You pray, but your prayers lack the intensity to unveil wickedness and ignite genuine revival.\nReturn to rebuilding your altar, and let your prayers burn with fervor. Your preaching of truth becomes a relic without the fiery energy of prayer. Satan will perpetuate evil among you, and you will mistakenly attribute it to God's doing.\nResist the devil!\nShatter the chains of ignorance. Dismantle the throne of Jezebel in your midst.\nLet the fire become unbearable for them.\nThen your God will once again rejoice over you.\nHe did not save you to become lukewarm or defensive. He saved you to wage war against darkness through prayer. You must be fervent!\nArise, O lukewarm church!\nLest your God spew you out!\nLord Jesus, please revive us genuinely once more.\nAmen.",
+    "date": "July 28, 2025",
+    "images": [
+      {
+        "src": "assets/4f88311deeda-0.jpg",
+        "alt": "No photo description available."
+      }
+    ],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid02dBgAgv7VvmokB4uwrcNRD9gGxgmW5uzp2wNAXPpYzddvdNG6XjRC5Dq4BDn4H3q3l",
+    "minutes": 3
+  },
+  {
+    "id": "5506df29b06b",
+    "title": "You're beating a woman who is has no fear of God. Don't you know she can beat you back without raising hand ni. Have you forgotten what is slow poison?",
+    "text": "You're beating a woman who is has no fear of God. Don't you know she can beat you back without raising hand ni. Have you forgotten what is slow poison?",
+    "date": "October 25, 2026",
+    "images": [],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid02qNbManWfGFrVD1eHRwE5JVavs3Xj1aUFDLoDsQSYGn9fxU2wRmD9xYaUTNAXC2Gbl",
+    "minutes": 1
+  },
+  {
+    "id": "9e1b7cafc6f3",
+    "title": "Dr Samson AYORINDE, General Overseer of WORLD  EVANGELISM CHURCH BIBLE CHURCH.",
+    "text": "Dr Samson AYORINDE, General Overseer of WORLD  EVANGELISM CHURCH BIBLE CHURCH. \nIn those days,I know a witch who watched him on television and immediately said something was wrong with the man of God. \nI looked at her too from head to toe and said to myself that even witches can spot something wrong when they're the problem of men of God themselves. \nThe city crusades of this man of God then was so much that it was enough to jealous him.\nI wouldn't say I too believed him then. I didn't believe him too because I am mostly dominated by the study of Bible doctrines and living it rather to show of miracles without solid Bible knowledge. \nProphet Samson AYORINDE was so charismatic with miracles and selling of miracle items like handkerchief and the rest. \nEven genuine believers too knew something was wrong then but we only criticised. We never genuinely intercede for him.\nThe man of God started to be known after his 40days fast when healings began to happen through him. He moved from Ilorin to Lagos. They were probably together he and baba OMOLEHIN.\nHe filled stadiums and open fields to the brim for Jesus. \nBut his church do borrowed loan from banks to foot bills just like many churches are doing now.\nAnd when they couldn't pay on time they put pressure on the members by using gimmicks and wayo to collect money. They can even fake miracles so that people can give money and so they can pay back loans they collected from banks.\nPastor Samson AYORINDE took 30 million loan but couldn't pay back on time and the interest accrued overtime. The bank took him to court over it and the church members scattered. Church members probably felt the pressure of paying back the loan too(my guess).\nHe later paid but the ministry never remain thesame thereafter. He is still preaching and doing ministry but not at former level of fame,prominence and city wide crusades again. \nIn our intercessory prayer group,we remembered him and prayed for him too for 3 days. We pray that God's mercy be increased upon him and that he will end well in Jesus name. \nMany of God's generals we don't hear much about again are not all evil. You may be suprised to know how much battles the enemy waged against God's plan for their lives and some fell along the way. \nProphet Samson AYORINDE is still active in the work of ministry and I believe he has a lot to teach younger generations on how not to move faster than God in anything you're doing. \nWe reached 900 days of intercession yesterday praying for others and not ourselves. About 40 of us gather every night to pray for wounded souls,lost souls,the sick,the needy,the soldiers of Christ and their ministries. And we remembered Prophet Samson AYORINDE too. You too can join us by requesting the link inbox. We meet everyday at 10pm. \nIf you can criticise people,please you will do well to intercede more than criticism. God is is need of men with genuine COMPASSION and not men who only specialise in CRITICISM. Yes we must say the truth but laced with grace.\nLet him that thinks he is standing beware so lest he falls. \nWe pray for the man of God to finish well in Jesus name. Amen \nYour brother\nLatunde Akin.",
+    "date": "October 23, 2026",
+    "images": [
+      {
+        "src": "assets/9e1b7cafc6f3-0.jpg",
+        "alt": "May be an image of one or more people"
+      }
+    ],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid0kbdwhH3UC3auUFUjdzdpNARYwWP2YsQmzLqBeoWW6wtGueKFQsr36nZ5iPqEzkuLl",
+    "minutes": 3
+  },
+  {
+    "id": "1c3ec3c179d2",
+    "title": "900th day of intercession today.",
+    "text": "900th day of intercession today.\nWhen we started,about 10 of us it looked like mountain. But now we are the mountain of God.",
+    "date": "4d",
+    "images": [],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid02tWD7Bpds9JWDUF2hieoUajdb29RCab9Rnf1pcqT9CCnCdVohdFh5icVvw7xZfDJdl",
+    "minutes": 1
+  },
+  {
+    "id": "531a3ce2419e",
+    "title": "Happy birthday to my wife.",
+    "text": "Happy birthday to my wife.\nA soul carved by God for me\nA daughter of Christ and mother of generations.\nThe Lord bless her always and make His face continually shine on her .\nAmen",
+    "date": "October 11 at 7:54 AM",
+    "images": [
+      {
+        "src": "assets/531a3ce2419e-0.jpg",
+        "alt": "No photo description available."
+      }
+    ],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid0ieAixhsdcU9w9hiGs3grhRHZqje6pBvrr2kmCPQiB7a5mH75kQPpPx1E4vMxNrmFl",
+    "minutes": 1
+  },
+  {
+    "id": "4063b20fd438",
+    "title": "HOW TO SPOT A DIABOLICAL PASTOR.",
+    "text": "HOW TO SPOT A DIABOLICAL PASTOR.\n(By Latunde Akin)\nIt is alarming the rate at which even many pastors patronize secretly demon worshipers for power,fame and wealth.\nYes,I am a missionary too,but recently I have become so careful of myself as well. How I relate and live my life.\nYou can imagine a supposed pastor getting caught with juju? Not even pastor from churches where they do mystical preparations in disguise that it is herbal mixture.or prayer mixture.\nYou see,I am even talking of pastors from Pentecostal holiness,who appear so holy outwardly, and speak in tongues violently. You will be surprised many have gone astray secretly but are only using sound doctrine to cover up.\nRecently I discovered people in holiness penticostal churches,I mean workers and ministers who patronizes traditional priests and still come to sing and preach on pulpit. What about many who we expected are believers in Christ who still patronizes celestial or white garment mystical practices. Pathetic!\nHow do we get here for Christ sake? Is there no balm in Gilead again?\nYes,we will all face trials. Even those traditional or diabolical people they run to also face their own trials. But,if we had experienced the truth and know that God is real,why can't we genuinely wait on Him? Oh,we are in hurry to have good things of life? So we have to deny the efficacy of God's power by circumventing process for quick solutions.\n1. When you begin to get tired within you about a particular person who calls himself pastor. It is a sign for two things. Either God is telling you to be careful or Satan is throwing the arrow of tiredness so you won't get blessed again. At this point,pause and logically analyze the person's attitude, you will know something to do quickly through the analysis.\n2. The word of God,is the basis for everything a genuine man of God does. If he tells you to read the scriptures yourself on something, and not that he wants to do it for you. Be good. Nobody should read anything at your back. Jesus died and Temple curtain was split opened. We all have access to Him and anyone trying to cover this must be suspected.\n3. You noticed that the pastor is clearly and secretly committing sins. That is an indication that he is servicing a demonic altar. Get me right,a genuine man can fall,but he won't continue to fall every time. I have had situations where I fell,oh a blatant falling sef, and humbly I rose from it and went back to Calvary. Not doing God's work at the expense of my soul. \n4. When you begin to notice a pastor is begining to own you. Loyalty aside,you can be loyal to someone who doesn't have entitlement mentality. But if he's beginning to have entitlement mentality,I advise you to watchout for diabolical traits.\n5. Brainwashing could be diabolical and it might not. When you are being taught the scriptures verbatim with enforcement like a robot. It means the HOLY Spirit is not around. When they are beginning to psychologically enforce knowledge,demons are around the corner. \n6. Manipulations to donate money is a diabolical sign in such environment. When prosperity teachings dominate more than the teachings on Christian experiences. It is a sign you are in a diabolical system.\n7. This is for those who have spiritual eyes. Because many things you won't even see outwardly wrong. But God will open your eyes to see it so that you can be extra careful not to talk anyhow or live carelessly. Not to ever castigate them,but to intercede profusely so God may purge the system.\nBe a genuine believer please. You may not be perfect. Yes I am not perfect as well,but I strive to become like my Lord as I look at Him day after day. I have had situations where I happened to be tempted as well,but Christ comes to help my decision. Oh it has even happened that I found myself in a situation I never bargained and my sincererity saw me through. Oh how sweet is it, when our heart isn't harden against brokenness. When we can cry unto God for a total restoration and turn around for good. When we can approach Calvary afresh and obtain mercy at the throne of grace.\nIf you have been hooked, today the Lord is setting you free in Jesus name. Amen.\nGod bless us.",
+    "date": "September 24",
+    "images": [
+      {
+        "src": "assets/4063b20fd438-0.jpg",
+        "alt": "May be an image of one or more people and people smiling"
+      }
+    ],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid02dfR5MdTMaAeh3qDnKsTRnLEePT4XSz13QeA4Ehx33865xAwACoUv98PMk6vkvdmNl",
+    "minutes": 4
+  },
+  {
+    "id": "236e3fa8a43e",
+    "title": "In this 9th month,you'll deliver that baby called SUCCESS!",
+    "text": "In this 9th month,you'll deliver that baby called SUCCESS!\nYour travail now ends at Calvary, where burdens are lifted! Praise God",
+    "date": "September 1",
+    "images": [],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid02NSnA6S3iekdL9AQQo9ZwSgNyLNFy2btRj2hmayrxMnLBwUgiZEawiyjxy7NPQsRLl",
+    "minutes": 1
+  },
+  {
+    "id": "23413aff87eb",
+    "title": "The car summersaulted three times and the Lord delivered me out unscratched.",
+    "text": "The car summersaulted three times and the Lord delivered me out unscratched. \nThis was the second time I glaringly experienced raw angelic intervention. And this is how it happened.  \nThen I was using a Toyota corolla and I was driving to Ile-Ife. I had prayed with my wife and bid her off because it was always a about week trip.\nIt happened i had to first visit University Teaching Hospital in Ibadan for a business meeting. As I was driving out,I met an old woman by the exit gate. I looked at her standing helplessly and tired of waiting. I had to slow down my driving and stopped the car by her side. \nI asked where she was going to? She said along Ibadan- Ife road. I didn't know her from any where but I told her to enter the car. \nUpon entering, she told me she retired as a teacher from the destination I was travelling to. But she is not going there . She alighted along the express. \nBut before she alighted, she thanked me so much for taking notice to help her. That she was exhausted and lacked transport fare. She said stood at the spot I met to pick her for about 2 hours.  And many people have driven cars out without stopping to help her.\nShe then prayed for me and specifically told me never to overspeed with the car but drive carefully.  That nothing will happen. \nShe alighted and I continued driving just as she instructed.  Without any hole on the road,or any bump,without over-speeding. The car simply lifted itself on the express road and summersaulted three times. \nAt that split of seconds, I felt it was a film. It was close to Asejire dam. And people around the vicinity thought the driver would have gone to heaven.\nAnother surprise was that at the time of the incidence, no car,bus or lorry was coming,the road became vacant \n. Else it would have been a bit clashing with other cars.My car tumbled upside down with the tyres up and roof down. \nBy the time i came out from the window side,the car screens had been broken and damaged .The people who came to rescue were still looking for the driver. They couldn't believe it's me. I came out unscratched and the people started to shout and asked how possible. They recounted on the same spot nobody has escaped being crushed before. They started asking if I had any juju or what? Until they see my bible, they started shouting praise God.\nThey helped turned the car back to its feet. Fixed the tyres back and started the car again. The car started immediately. They drove the car back to Ibadan before us while I was inside another car following them.\nWhen i entered the house without the car,my wife asked why wasn't I travelling again and where was the car? I simply told her it developed faults. It was on the second day I told her what actually happened. My twins were not up to a year then, so they wouldn't have physically know their father if not for that divine rescue. \nTill now,I keep praising God for the divine rescue. And I pray that God will help me fulfil His purpose in Jesus name. \nLessons \n1. I believe that old woman I helped at the exit gate is an angel in human form. Angels don't appear in a form you will suspect. Angels do posses people too,it's not only demons that possess people. You must understand how to keep doing good,because you don't know you may be helping your helper.\n2. No evil can overcome any man who is under God's coverage. \n3. A simple prayer from people who are possessed by angels from God, Spirit of God and anointing. Especially after you have done good to them goes a long way into activating safety, healing, success and glory around your life. You may not see it,but it's happening. \n4. A lot of people are perishing because they couldn't recognise angels around them. \n5. Those God sent to help you are people you may be thinking are in need of your help. If you're not careful you will think they are burdens to you without suspecting your help is far smaller to what they will do for you later.\nAs a missionary, God once told me to keep hiding from people so they won't suspect a word from my mouth is a game changer. That I should rather behave as if nothing is happening. Even when He sent people around to support the work. Then I understood, there are actually people God places among people without people suspecting them.\nToday makes it 833 days,and 698 days we have been praying and interceeding for brethren, missionaries, people and nations every night in two different groups.(all voluntarily and never for any reward)And God is also looking for you to join us as we don't have any date to stop. It's not for the faint hearted. God is interested in possessing you at such level too. May you yield. Inbox to join.\nMay you and I keep experiencing angelic help from God in Jesus name. \nThat was how God prevailed over evil plan against me. May God keep prevailing over my life,my wife and children in Jesus name. Amen. \nYou too will always have testimonies of God's help in Jesus name. \nYour brother \nLatunde Akin",
+    "date": "August 17",
+    "images": [
+      {
+        "src": "assets/23413aff87eb-0.jpg",
+        "alt": "May be an image of one or more people and people smiling"
+      }
+    ],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid02LJpt3e4cnpCPu3s3yHufAzxcdXPNSAkcDt31dg3TYN5Nvy52Pn6qXthkeCzhJCacl",
+    "minutes": 5
+  },
+  {
+    "id": "9aa433b57179",
+    "title": "You should not be moved by another person's success. Their time isn't your time.",
+    "text": "You should not be moved by another person's success. Their time isn't your time.\nYes,rejoice very well with them but don't feel any less of yourself. \nOne thing that makes you to be successful too is when you are genuinely happy about another person's success. \nIf you're always feeling sad that you have not achieved what others achieved, it simply means you have been already wired for failure. \nIf you like,have all the money or successes, it can't intimidate genuine men who understand timing and knows how to restore wasted opportunities.\nThose who know their God shall be strong and do exploits. \nYou should simply rather understand how to relate well with successful people in your area of target. \nYou should understand how not to become a parasite. You must give value ,show value,and have something to solve around people. \nYou should not create any atmosphere that places burden on others but lifts burden from others. \nThe best way is to understand your place in destiny and stay there to DEVELOP yourself. \nYour time too will come. Unless you have derailed from God's plan. \nAnd anyone who derailed from God's plan for his/her life is already lost in destiny. Such are the kind of people who gets angry unnecessarily when they see others who are walking in their right path. \nMay we not be lost in life.\nMay we have the strength to begin afresh and succeed.  \nMay our self confidence becomes restored to rise and rise again. \nMay our wasted years become restored. \nMay every dry bones rise again. \nIn Jesus name. Amen \nYour brother \nLatunde Akin",
+    "date": "July 31",
+    "images": [
+      {
+        "src": "assets/9aa433b57179-0.jpg",
+        "alt": "May be an image of one or more people and people smiling"
+      }
+    ],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid0fk6QpoLUrWHpnEvmSkUWrUdhKz5qD14SiPmTVsCukpyN5SCegA6u3jABGaTcVHy5l",
+    "minutes": 2
+  },
+  {
+    "id": "7d723aa18f3b",
+    "title": "Chaiii",
+    "text": "Chaiii \n hmmmm we need to go back to mountain and cry and be broken",
+    "date": "12w",
+    "images": [],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid02GFv2CTzJ2codAuFocqsqPVwB8f5dUzBMfv8LSbgmEQN7LYC3dwJYLicfiTr1rMg6l",
+    "minutes": 1
+  },
+  {
+    "id": "99cb14408ecb",
+    "title": "You must get to a stage in life that what matters most to you is simply to fulfill your original assignment.",
+    "text": "You must get to a stage in life that what matters most to you is simply to fulfill your original assignment. \nYou're a serious failure if all you love is to have is money. \nYou're a serious disappointment to God if all you think to do in life is to keep enjoying what God hasn't designed for your destiny. \nYou're a joker if you only live life without a particular vision or dream. \nYes you can be an employee and still serve purpose.  But you can't be an employee for life. That's why employers retire people at certain age.\nYes,you can still be an employer or entrepreneur who is only merigorounding like a vagabond.  Doing things the wrong way or doing the wrong thing. \nFor how long are you going to keep wandering when you already know what you should do?\nProblem with many is that they are only interested in the money making aspects of what they do. They are not interested in any solution it brings to their immediate society. They don't think about the benefits it brings to God. \nSo whenever you see them giving excuses for not starting anyhow, you already know it's a selfish ambition.  \nI remembered starting a CONSULTING company without any dime than the letter head proposals and my leg. I distributed about 100 proposals in just 3 days to various companies in Lagos. Most with leg. I became so zealous all because I wanted to achieve something valuable.  At the end of 3 months, it yielded results in hundreds of thousand. That was in 2004 and you can imagine how much it worth then. I worked business with U.I,UNILAG etc. \nYou shouldn't believe anything can stop you if you're truly ready.  Not even lack of money must be allowed to demoralise you. \nGet up! Money will meet you on the way! Not while you're sitted! Money doesn't answer people who are redundant. Money is a virtue not a paper. Virtues must go out of you to attract another virtue of like passion. \nThat's why givers never lack. Especially when they attract virtue from God by giving to missionaries and mission works. There's is always a release from God spiritually. It works too through hardwork ,just that God must be involved. \nYes you may suffer at first, but believe it ,it's just for a while. You will have breakthroughs. \nHear me and hear me well! Stop wasting your life doing nonsense. Enter straight into your destiny if you already know it.\nYou will prosper.  In Jesus name.  Amen \nYour brother \nLatunde Akin",
+    "date": "July 26",
+    "images": [
+      {
+        "src": "assets/99cb14408ecb-0.jpg",
+        "alt": "No photo description available."
+      }
+    ],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid02rncL4zKQU7czuYfNJB1dTec9x1Dj2LXrgmBBi2Jg9saHRyJL776Z8yjH7SURT8znl",
+    "minutes": 2
+  },
+  {
+    "id": "55bb7abf1324",
+    "title": "A colleague of mine in secondary school days posted something in our alumni group.",
+    "text": "A colleague of mine in secondary school days posted something in our alumni group. \nWhat he posted describe different category of those who were troublesome, quiet and shy,front and back benchers, etc. while in secondary school. \nI actually found myself in the category of those who were quiet and shy. I was actually a gentle boy ,and moderately intelligent. They called me ISO - PANCAKE as alias. I sold pancakes, chinchin,coconut in the class then. And I used to fart a lot.\nBut now, I was telling the poster that, that was then. That now if he isn't careful, I can put him for sell in the market \n.  I am not that shy,gentle man people used to know. Though, if you look from afar you may not know. I look straight at faces now and I am more of a choleric person rather than a phlegmatic person people of old time used to know. \nFor me I think, there are stages of discovery in life. And much more ,battles of life can change people \n. I became tough, more friendly, more expressive and more complicated and simple at the same time.  \nGradually I became more open hearted and can now identify with people more than before. \nYes, I still have my strong convictions about being upright and I have discovered that Jesus was a very simple man. He related so easily and balanced it by running away too when discernment called for it. \nAs a believer in Christ, never try to allow your temperament rule you. You must remain simple to people but complicated to devils. \nDo not let devils be able to predict you in matters of spiritual warfare. But men must be able to predict that you're upright and not a pretender.\nDo not allow what people call you to determine how you live,but what God calls you.\nTo people who pretend in their lifestyle, I will encourage you to actually show your real color on time so God and men can actually help you out.  Because on the long run, everything you hide will be exposed. \nThank you for understanding. \nYour brother,\nLatunde Akin.",
+    "date": "July 25",
+    "images": [
+      {
+        "src": "assets/55bb7abf1324-0.jpg",
+        "alt": "No photo description available."
+      }
+    ],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid02Rg5Hc1RCoWksoWb2YdvCoLPYyVoo1AS4mVE2tVqWUj1AF9fgxWvDsKqDK5ysLJrzl",
+    "minutes": 2
+  },
+  {
+    "id": "5efcec77826d",
+    "title": "You live in an environment where people condemn you and you still remain there.",
+    "text": "You live in an environment where people condemn you and you still remain there.\nDon't you know it is dangerous to stay where there is no peace of mind?\nEven when it is God who prepare a table before you in the presence of your enemies. You must understand how to carry the table to a safe place. \nYou're not wise if you keep eating in the presence of enemies. They may break one leg of the table. \nGet me right, please. \nOn your table, you mustn't allow any negative person sit with you to eat. Rather help a negative person away from your table. \nDo not copy Jesus verbatim by allowing Judas Iscariots sit with you at the table. You're not meant to die for anyone's wrong. Only Jesus is meant to do that. \nOnce you noticed any strange behaviour from anyone around you. Call them and warn them if you can. So it won't be like you're not proactively consederate. Yes give people second chance but not third. You are not Jesus. You must understand how to discern genuine repentance before you could take any step further. \nYou live among people who just hate you or are never peaceful. First you must understand it's not your attitude causing it. Because blaming others for what you caused is like moving from frying pan to fire.\nIf you find yourself among people where your dreams can't be achieved. It is better you move out as soon as possible. Stop continue to decieve yourself by thinking you will succeed in such environment. \nIf your location is not localised to locate your allocation.  Then relocate to a location where your divine allocation can locate you. Don't be heady.\n\"Follow peace with all men\"\n simply is all about movement to where peace is going and not necessarily  making peace with people who don't have any peace to make with you.\n\"You gerrit? If you don't gerrit then forget about rit\"\nGod bless you for getting it.\nYour brother \nLatunde Akin",
+    "date": "July 25",
+    "images": [
+      {
+        "src": "assets/5efcec77826d-0.jpg",
+        "alt": "No photo description available."
+      }
+    ],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid029gSi4YhXEVdwA5ZbKjnTnbrRkAKn3n4vZdQ2maKxUeKiBazvdfzJwtHdX6crxz45l",
+    "minutes": 2
+  },
+  {
+    "id": "8c715a2268d9",
+    "title": "LOOK INTO THEIR FACES ONE BY ONE. NEVER FEAR.",
+    "text": "LOOK INTO THEIR FACES ONE BY ONE. NEVER FEAR.\nYour destiny is not their destiny!\nNot many people will understand you during your time of trials ,troubles or truth. \nThis is because they can't see what you're seeing. \nThey are not facing the reality of your reality, so they may want to conclude you're lazy,foolish or have mental imbalances. \nI remembered when a job lost me. Many who were close will offer their candid advise on what I should do. I will respond to them that's not the solution. The solution is to seek the Lord until what is wrong get corrected spiritually. \nYou know you have a spiritual problem and you think to employ physical means to solve it! You're joking! You are a joker sef.\n20 years ago I voluntarily resigned from Tasty Fried Chicken as Quality Control Executive. Little did I knew there were battles ahead. I simply became tired of the job and then ventured into Consulting work.  It also crashed and I became totally paplexed and down. \nAfter careful spiritual observation, I decided to seek God in prayers till He answered. \nDuring the time of praying, I will resume to prayers in the morning and close at night. If anyone asked what work  I was doing, I will answer its prayer. How do I ate? I got support from friends basically. They knew they can't convince me otherwise not to pray because they already know their support doesn't move me. If they refuse to support, I was never ready to be influenced by their support. \nI looked into many people's face and dared them because I strongly believe they didn't know a pinch of what I was passing through spiritually.  They thought it was simply a job loss,but I knew it wasn't just ordinary loss. So i stayed put in my prayer bushes for two years praying until the God opened another source. \nDo not think to allow people dictate solutions that is not from God to you. No matter how supportive they are, if their support is aiming to stop you from praying or misdirect you away from the depth of seeking God . Please look into their faces and tell them to go to hell with their support. \nYour suffering while seeking God is a good suffering. I came out of it galantly blessed! I mean both physically and spiritually. It was like a training ground for the next level. So cheer up and don't give up because they don't support you. If your training isn't complete yet,please keep on,it will soon be completed. \nBut,if you're receiving life's training because of many carry over you incurred ,you will need a lot of repentance, turning around from bad attitudes before you can pass with God. If you try to do any malpractice by looking elsewhere from God,be very sure you can't still escape God's script marking. So it is better you humble yourself before God now and accept Jesus totally into your life.\nIn matters about telling truth,oh if you know me too well, I don't look at faces. Truth doesn't respect lies,so we must always stand up to die for truth. \nMay you not look at faces when you're supposed to look at God.\nGod bless you. Do have a nice day ahead. \nYour brother \nLatunde Akin",
+    "date": "July 24",
+    "images": [
+      {
+        "src": "assets/8c715a2268d9-0.jpg",
+        "alt": "No photo description available."
+      }
+    ],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid02u28hWb5DMVVNrszCx19w3vCTcvC54yXzWPLftQskJxwYpmUY9WM1zf1Tx26YfMHWl",
+    "minutes": 3
+  },
+  {
+    "id": "327e7fd5a5fa",
+    "title": "Never give up,never suffer for a bad course but change and ask for mercy.",
+    "text": "Never give up,never suffer for a bad course but change and ask for mercy.",
+    "date": "13w",
+    "images": [],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid035hMY1iRMDB5CZCzr81adpzzVpnE7ztSZCGxEsiprJhkTo7ktK3EjYLZFjJM3fhddl",
+    "minutes": 1
+  },
+  {
+    "id": "eae1eccc3a43",
+    "title": "You can press your phone for 30 minutes. But you can't successfully sustain a prayer for 30 minutes without sleeping in between.",
+    "text": "You can press your phone for 30 minutes. But you can't successfully sustain a prayer for 30 minutes without sleeping in between. \nYou can go to work for 8 hours, but to pray 1 hour becomes difficult. \nYou can sleep for 6 hours or more but to pray for 1 hour is becoming an issue. \nYou can  successfully watch film for 2 hours but to pray for 2 hours is very difficult. \nWho has bewitched you? \nAlright let me try and encourage you and not ask who bewitched you. I don't want you to believe anyone bewitched you but yourself. \nYou can actually break the jinx of this manipulation you put yourself into by strong determination to change and understand it's all spiritual indolence. \nWe started a prayer meeting 672 days ago (not intercessory,that of intercessory started 808 days ago). We pray for just 1 hour together everyday at 11pm.  And this has helped a lot of about 500 people to simply break free from spiritual indolence. \nYou know why we chose this hour? It's a time when a lot have rested from work and are about to sleep.  A night time of prayer that enters into a new day at 12am. This determine a lot how your next day is spiritually protected and reprogrammed for your favor. \nGod isn't interested in zigzag kind of consecration.  He is interested in our consistency in keeping appointments with Him.\nSo i encourage you to join us today and you will be glad you eventually have prayer partners who can lift up your spirit of prayer consistently. \nGod bless you. \nSee the link in the comment section \nYour brother \nLatunde Akin",
+    "date": "July 22",
+    "images": [
+      {
+        "src": "assets/eae1eccc3a43-0.jpg",
+        "alt": "No photo description available."
+      }
+    ],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid02PEKYABQqct6NFhTfrf1cKmEpfXV4Avf4bH5E8coDDZ9oxrAKz7DMrXJ3Hx9Qiv2il",
+    "minutes": 2
+  },
+  {
+    "id": "a1a6c22f9785",
+    "title": "Great, please keep up the good work: well done and many thanks",
+    "text": "Great, please keep up the good work: well done and many thanks \n sir.To God be the glory hallelujah, amen.The Lord will never forget your labour of love in Jesus Christ mighty name, amen.",
+    "date": "13w",
+    "images": [],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid038KbNCzt5WxpqTRToXqXRSALVXxEEDxdD6x9Kr36e7H7LGt7uefeDP32akenmkhcAl",
+    "minutes": 1
+  },
+  {
+    "id": "4ad4c36694f2",
+    "title": "Most evil gathering or cluster of people are those who call themselves righteous.",
+    "text": "Most evil gathering or cluster of people are those who call themselves righteous.\nMoment you noticed a believer or a group of people trying to pass across a message that they are holy and you are not. Just understand that is a sign of filthiness of a higher order. \nIt's a red flag to the characteristic of righteousness  when people show they're perfect and still boasts around with it.\nTo boast in the Lord doesn't equate to boasting around like a goat. They are totally different. \nYes,our righteousness is not ours but God's. And a  truly righteous person doesn't make out a religion out of God's righteousness. He simply lives his simple lifestyle and let others see the light by themselves. He doesn't impose. He doesn't even call himself righteous until people around called him so.\nYou don't give yourself credibility. Credibility is what others give you.\nIf the message you preach is holiness and people are pretending under you. Then it means you're not actually preaching holiness. You're building a cult of pretenders. A more deadlier evil than evil.\nBible is Bible and it is full of many messages for a balanced diet and not just a particular message. \nWhat I have discovered is that those who tend to specialise on a particular context instead of whole concept of Bible breed people who are more deadly to the whole mission of Christ. \nEspecially among group of people that call themselve holy. The evil you see amongst them is more scary to behold.  And you will wonder if this is what the message is all about?  To keep pretending?\nIt's even far more 'holy' to relate with a pure devil than to relate with a pure pretender. \nBecause you will know you're dealing with a devil and know how not to enter into his traps than someone you're already in his traps without knowing. \nMuch more, there is a great joy,peace and love in the atmosphere with the right people. So still, God is far much the best we must allow to determine our ATMOSPHERE,not any segregation or segregated righteousness.\nWe're to remain simple, spiritual,social and avoid being lured into any form of PRETENCE. \nGod  bless. \nYour brother \nLatunde Akin",
+    "date": "July 17",
+    "images": [
+      {
+        "src": "assets/4ad4c36694f2-0.jpg",
+        "alt": "No photo description available."
+      }
+    ],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid0YVR8G86cmnqqAdKQDTy1dWwgVBRhtG3ztPDYCr5J5kZcR57XRntwWzahhYH1mLRWl",
+    "minutes": 2
+  },
+  {
+    "id": "39316e01a8bd",
+    "title": "When you think you own people's life is when God will make you realise you have been so foolish to think like that.",
+    "text": "When you think you own people's life is when God will make you realise you have been so foolish to think like that. \nWe are all simply messangers we don't own anyone no matter how closely related. \nGod pitches people to come out through you or come around you so you as a messanger can handle them well.\nI learned this while I was still single and stubborn.  Stubborn so much and were hurting people God pitched around me. At a point I realised my folly through hardknocks of life. And single handedly went to all I once hurted to apologise genuinely.  \nOh what a relief within my soul to see myself mending ways with people.  Yes some couldn't accept my apology but God was far happier I did. So it's not about those I hurt ,its about God changing a man. \nThereafter, God showed me it is better to see myself as an instrument and not as an owner.  God answered my prayers and every other aspect began to fall in line.\nIf you think I was a gentle man,you missed it. Stop looking at facial appearance,many people you think are gentle are not really gentle.  Even right now,i only maintain the balance because i have grown considerably and still growing. \nYour toughness shouldn't erase contriteness from your life. Else you're not a tool yet in God's hand. \nTo men and women who don't know how to treat people well or better than you met them.  Repent today and go personally to apologise to those people. \nGod bless you. \nYour brother \nLatunde Akin",
+    "date": "July 15",
+    "images": [
+      {
+        "src": "assets/39316e01a8bd-0.jpg",
+        "alt": "May be an image of one or more people, beard and people smiling"
+      }
+    ],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid02Yh6pkaxLgGP6BcCzgbfKx1nhTYQ8ccctkSPksbxunG8RpWShmCaTh8hPJC4KKbyXl",
+    "minutes": 2
+  },
+  {
+    "id": "4806b688e6f7",
+    "title": "Please activate your share button sir",
+    "text": "Please activate your share button sir",
+    "date": "14w",
+    "images": [],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid0X5j9vXZCMR6PJN4SXY1K8r6pdHfdK9HR9itf5dBhvyg2euWG89bxLc1yWbGK1CFMl",
+    "minutes": 1
+  },
+  {
+    "id": "06798f42c466",
+    "title": "Great, well done and many thanks",
+    "text": "Great, well done and many thanks \n sir.To God be the glory hallelujah, amen.",
+    "date": "15w",
+    "images": [],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid0X4k83U88AAW1WszpEjhEBFSVypDgFSSN9ZA3CeKhYg4App8PbGPeCMNWWMVykP7ql",
+    "minutes": 1
+  },
+  {
+    "id": "0d9dcf525bd4",
+    "title": "Great,to God be the glory hallelujah, amen.",
+    "text": "Great,to God be the glory hallelujah, amen.",
+    "date": "18w",
+    "images": [],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid02xoY5ZkLST1fC6DbEAnuiMTErjQGTaz2vtTLQKwaBRrvF79wou6bZZgDr6qCLhHExl",
+    "minutes": 1
+  },
+  {
+    "id": "f61cd95e03c9",
+    "title": "It's a divine experience. God is more than capable to rescue anyone.",
+    "text": "It's a divine experience. God is more than capable to rescue anyone.",
+    "date": "20w",
+    "images": [],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid02713AL9iEANWokDHh3owx7A1zWpPZKrY7ghoQMQpZ1SEJXMBbapxWX9xEuKg8rDjNl",
+    "minutes": 1
+  },
+  {
+    "id": "d986ac3aec99",
+    "title": "Looking unto Jesus the author and the finisher of our faith.",
+    "text": "Looking unto Jesus the author and the finisher of our faith. \nHappy birthday",
+    "date": "June 3",
+    "images": [
+      {
+        "src": "assets/d986ac3aec99-0.jpg",
+        "alt": "No photo description available."
+      }
+    ],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid022zRLxU8GjeT5i2XLB4aFe9jrKcAWMzy7zEBABjAS1TckGcWLCjJSR6FLpFsnZ1UXl",
+    "minutes": 1
+  },
+  {
+    "id": "e4e81510815c",
+    "title": "To God be the glory for another year of exploits and impact for God and humanity..",
+    "text": "To God be the glory for another year of exploits and impact for God and humanity..\nHappy birthday to you son of Man.\nThe Lord is your portion forever.  Amen",
+    "date": "June 3",
+    "images": [
+      {
+        "src": "assets/e4e81510815c-0.jpg",
+        "alt": "No photo description available."
+      }
+    ],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid02mhJiQD9uzufMaxJ2Rr2iFKi1rCPd8JoWDMM14XkPnTBCA5Kwx7KVUoUeXYtwJNzTl",
+    "minutes": 1
+  },
+  {
+    "id": "f9e2d4a92c41",
+    "title": "Let us all surrender to the One who can save us. Amen",
+    "text": "Let us all surrender to the One who can save us. Amen",
+    "date": "20w",
+    "images": [],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid0rkD37kcXUd7qfFFhaJeTBKFbhFA9ox9pbHRWBPwu6RdqQzbMJskWRgBisw8VDzutl",
+    "minutes": 1
+  },
+  {
+    "id": "bacf06c98788",
+    "title": "If you don't allow God to train you, believe me something else will train you without your consent.   None can escape training, reason it's …",
+    "text": "If you don't allow God to train you, believe me something else will train you without your consent.   None can escape training, reason it's better God does it for us -  Akin Latunde",
+    "date": "April 15",
+    "images": [
+      {
+        "src": "assets/bacf06c98788-0.jpg",
+        "alt": "No photo description available."
+      }
+    ],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid02q3hYMiwef49YFaB8j2zayVoYoc5o4FSEiiQeo1UoTc5uXvBLa32GnSJnDgEFN9dHl",
+    "minutes": 1
+  },
+  {
+    "id": "8262ea410a24",
+    "title": "Happy Marriage anniversary to us.",
+    "text": "Happy Marriage anniversary to us.",
+    "date": "April 1",
+    "images": [
+      {
+        "src": "assets/8262ea410a24-0.jpg",
+        "alt": "No photo description available."
+      }
+    ],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid02Ewo7pSaUo6Ny7zo48MN3kWhggd8dJLyQVqe3MQcHAACkDou6G51HbdpLjSGWmnhQl",
+    "minutes": 1
+  },
+  {
+    "id": "cab8858466e2",
+    "title": "Being an effective Priest requires discipline.",
+    "text": "Being an effective Priest requires discipline.",
+    "date": "March 20",
+    "images": [],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid02Q58vGmn6bmhNdaCc3aSVsd8wPXDnoN1fjnktdmFNkaoh7EDbsJ1cMj7SsewR1W4Ll",
+    "minutes": 1
+  },
+  {
+    "id": "8a3a6360307c",
+    "title": "Adekunle Ademola Thank you sir",
+    "text": "Adekunle Ademola Thank you sir",
+    "date": "35w",
+    "images": [],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid031zDATDxEUzs3PpPAwbNz8iC7TQwTWaGJF47vvyBdBsaoLwxArmXatcnRRRAmvytpl",
+    "minutes": 1
+  },
+  {
+    "id": "30607c6af047",
+    "title": "Marriage is not the problem. We are!",
+    "text": "Marriage is not the problem. We are!\nSee the ADEOYE'S nice picture and togetherness from the beginning! \nIs Marriage na scam ni? People may be asking.\nSome people may be saying Marriage na this , marriage na that...cho cho Cho....\nLet us tell ourselves the truth. Marriage is not any problem. We the people inside it is the problem .\nMarriage is an institution ordained by God, but we the people is the issue. We allow complications.\nSee a good family at the beginning, and see how everything later got scattered.\nMarriage is not a criteria for making heaven.Only if we allow ourselves to hinder ourselves from making heaven.\nSo nobody can ever blame MARRIAGE,we should rather blame ourselves for either wrong choice or wrong attitude.\nFrom what I gathered,Mr Rotimi ADEOYE her husband was once deported from the foreign country because of the same conflict.\nWhat I am not clear about is why he wasn't desperate enough about taking responsibility for his own children at all cost. \nForget that the late wife hindered communication. A man must be desperate at having connection and communication with his children unless totally prohibited by court.\nWhy would he become so relaxed somewhere without bothering about the children until burial day of his former wife?\nI heard he tried all means to reconcile but all to no avail. This is not totally true,he should have moved closer to the pastors who invited her wife for ministration and allow them intervain on the matter. At least for the sake of children.\nIf you are a father here, and you give excuses for not caring for your children, you're not wise at all.\nIf you're a father here and you can't resolve differences between you and your family or ex-family.you're not wise please.\nYou may not be together again but you can still maintain healthy relationships.\nYes, it's easier said than done, but I say to you it's easier done if we seek God's help than using our own limited brain.\nHow can you say someone didn't allow you and you too go and rest? Why not think about the future and quickly take legal steps for peaceful access to your children?\nIf you are my friend here, and you can't learn how to make peace,oh I will stop being your friend please. As you see me so,I dey stubborn too,but I go be like jelly fish when I realized say na peace I need. I will change! You too must decide to change for the better!\nAnother thing is ,there can be a spiritual attack or evil arrow against any family without them knowing. Our ability to recognize (asasi) manipulation from the kingdom of darkness is key to nipping issues from the start. \nI have seen witchcraft manipulation from kingdom of darkness against innocent families. And they got scattered and unsettled because of this ignorance. Some in-laws can be so demonically evil and husband and wife won't know it.\nWhatever can make a gospel singer eloped when she wasn't officially divorced is questionable. \nWhatever can make a gospel singer have records of being rude at responding to warnings and corrections from others is a sign something was spiritually wrong.\nWhatever can make a gospel singer not reconciling her children with their father calls for concern.\nWE CAN'T BLAME ANYONE,we can only draw lessons out of whatever happened. So that rest of us must learn and not make same mistakes\nWhatever happened I will want to advise every man in such condition never to agree with not communicating with their children and taking responsibility for their upbringing. Unless such a man is TOTALLY IRRESPONSIBLE. \nMan think about your future! Become responsible!!\nMen should avoid pushing women to the wall please.\nWomen should please pray for erring men. God still answer prayers.\nEyin iya wa,ejowo e fowo wonu. You see how I am lashing out on them! They will change for the better in Jesus name. Amen.\nPlease, don't misbehave because your spouse is misbehaving. Two wrongs can't make a right.\nI love you all.\nYour brother \nAkin Latunde",
+    "date": "January 31",
+    "images": [
+      {
+        "src": "assets/30607c6af047-0.jpg",
+        "alt": "No photo description available."
+      }
+    ],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid0HMhFE3eqdJSsHkVdzR4gcindeGPH4XRGiqtjrCdBeSJxpEpp1aLrTMoJe2K3hfExl",
+    "minutes": 4
+  },
+  {
+    "id": "5599f04f3be5",
+    "title": "This is Mr ADEOYE ,the husband of late BUNMI AKINNANU ADEOYE.(Omije ojumi)",
+    "text": "This is Mr ADEOYE ,the husband of late BUNMI AKINNANU ADEOYE.(Omije ojumi)\nMarriage is a junction where both God and Satan is interested at propagating their kingdom. So the need to also prepare for war as a good soldier of Christ.\nWhatever happened between them, nobody knows. But I realized that Omije ojumi wasn't buried with his husband's name. Which means they have probably divorced or they absconded from one another for a long time.\nDefinitely they didn't make peace with each other till she left the world. And now the children are disoriented which showed clearly during the burial.\nWhy do some men treat women so badly?\nWhy do some women live with so much wound in their heart without healing?\nI can testify that arrows of demonic sickness can't work if there's no wound already in the heart and mind of any targets. Get that fact.\nPeople, please forgive everyone that has hurt you so much. Please forgive them o, I say again please forgive them for your own good. They don't have to repent before you forgive them in your heart. Don't claim even God doesn't forgive without repentance. You are not God o. God is God,man is man,the distance and comparison is irreconcilable. \nWhat arrow of affliction is feeding on is your wound that has not been healed. Please quickly seek healing if you have been badly hurt by anyone. They enemy will not get you o. Amen \nIt is now I understand one the real reason why demonic arrow works against people and possibly kpai them. Unsettled quarrels is very key to the enemy having legal ground against anyone.\nYes, you can divorce and remain unmarried. But please never nurse bitterness or encourage it around your children. \nSettle every dispute, follow peace of mind. Don't hate anyone who once hurt you. Don't build up on past discord.\nWe learn every day.\nGoodnight Omije Ojumi.\nMay God minister to all parties concerned so peace can reign in the life of the children. In Jesus name. Amen",
+    "date": "January 30",
+    "images": [
+      {
+        "src": "assets/5599f04f3be5-0.jpg",
+        "alt": "No photo description available."
+      }
+    ],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid0UKxDSnjpJsAp6Cn4CuaztZmX3NBsZk8JPJFNtPwAaMETGrVhoYXBe7ng789vDzaYl",
+    "minutes": 2
+  },
+  {
+    "id": "b6736a105258",
+    "title": "Oh Lord set up my life on fire for you on daily basis",
+    "text": "Oh Lord set up my life on fire for you on daily basis",
+    "date": "29w",
+    "images": [],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid0NPqDfRD4reiUa1PaQb7mGESDekR3BEL79gay377e9WaNc5qRe12ri5ewM6nLbn2bl",
+    "minutes": 1
+  },
+  {
+    "id": "73dca994c3e2",
+    "title": "Lord reveal to us the mystery of our lifting. So that we won't keep struggling on a wrong path.",
+    "text": "Lord reveal to us the mystery of our lifting. So that we won't keep struggling on a wrong path.\nIn Jesus name.",
+    "date": "January 22",
+    "images": [],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid02GN2m53tmrYBpQwVAqPePBdSerGcz5WVxKunCUTDyiRBwcvmw4ESYpX1MuYrSxdYGl",
+    "minutes": 1
+  },
+  {
+    "id": "ee8de483c63d",
+    "title": "I totally agree, cut it off if it's not adding value",
+    "text": "I totally agree, cut it off if it's not adding value",
+    "date": "42w",
+    "images": [],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid0CK7xh6icXVD55BeHo7vVbjLfA982m6xXwuMRF8cBB4nVYCBgCsFHUwKnDZLZKansl",
+    "minutes": 1
+  },
+  {
+    "id": "c64db26d70f0",
+    "title": "My pastor, remain blessed and complement bro",
+    "text": "My pastor, remain blessed and complement bro",
+    "date": "December 22, 2025",
+    "images": [
+      {
+        "src": "assets/c64db26d70f0-0.jpg",
+        "alt": "No photo description available."
+      }
+    ],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/838103112368670:1340569987829913",
+    "minutes": 1
+  },
+  {
+    "id": "fd7a1d4fc92c",
+    "title": "In the spirit the energy emits by anger is negative. Don't be tempted to add to it unless God is the one working through it.",
+    "text": "In the spirit the energy emits by anger is negative. Don't be tempted to add to it unless God is the one working through it.",
+    "date": "44w",
+    "images": [],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid02ciGHc3g4uaAsBH6epKA2JNBT15yUa71yLxWs8bqyMKTm7xZevpGniCLTfz4Uftfxl",
+    "minutes": 1
+  },
+  {
+    "id": "094a182b3e52",
+    "title": "God still works in the favor of his own",
+    "text": "God still works in the favor of his own",
+    "date": "48w",
+    "images": [],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid0kYuZgyY197o9mrDJDn7NjqmSjpDkLYM4Cmmg5CAZAnWn4GbEvqXdQ5g36Wofzqhxl",
+    "minutes": 1
+  },
+  {
+    "id": "5a56b28f781d",
+    "title": "Arinola Shegun Nigeria case can never be like those countries you mentioned.",
+    "text": "Arinola Shegun Nigeria case can never be like those countries you mentioned.",
+    "date": "50w",
+    "images": [],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid0fo3Qj35J5XUFgJnqsrwzicvUbQyC2oD5rT3NHL3CEDbYvGD11LrronXWupUhd9BVl",
+    "minutes": 1
+  },
+  {
+    "id": "0c1b641ab09c",
+    "title": "When you marry a woman because of her curves, you might end up coughing.",
+    "text": "When you marry a woman because of her curves, you might end up coughing.",
+    "date": "October 22, 2025",
+    "images": [],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid02sc1PeBWhDrT6kFpWth3JQhbFKZtHqXeycLNXrrvtaw4E3jyyLLwe6TgUHbKMBgxul",
+    "minutes": 1
+  },
+  {
+    "id": "f4af2fd5bb17",
+    "title": "God bless my pastor, my friend. More annoiting",
+    "text": "God bless my pastor, my friend. More annoiting",
+    "date": "1y",
+    "images": [],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid02htNdYygk4u2j4bJEs73tMkrb5ssYoFg1URSnqcdHpAdySVnBWqop1EkaqYxT1verl",
+    "minutes": 1
+  },
+  {
+    "id": "c2fe85d556a6",
+    "title": "Moving around with entitlement mentality is a deficit.",
+    "text": "Moving around with entitlement mentality is a deficit.\nAvoid this at all cost.\n- Latunde Akin",
+    "date": "October 14, 2025",
+    "images": [],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid02VeQ5wS9tjbVmBH6ieVtZCFuNTqjPTJ8VTCVJLrrMi1T1uHYheyYsUuUWQEbJA1fQl",
+    "minutes": 1
+  },
+  {
+    "id": "8c6c95d3aec4",
+    "title": "In this 9th month,you'll deliver that baby called SUCCESS!",
+    "text": "In this 9th month,you'll deliver that baby called SUCCESS!\nYour travail now ends at Calvary, where burdens are lifted! Praise God",
+    "date": "September 1, 2025",
+    "images": [],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid09UYLogLFUJT2UqkRSpdDt58gBzcMjNJRuoJNj5wzUSvwx9Y3dtkaUzEras4aZ9mQl",
+    "minutes": 1
+  },
+  {
+    "id": "1a32c445c968",
+    "title": "Yes oooo I prayed my way to victory that night....",
+    "text": "Yes oooo I prayed my way to victory that night....",
+    "date": "1y",
+    "images": [],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid026onjuGySYNJKppwmSSHQy37ZstqxqbJzrnAz1DXStiaCAB5FCehxvGfhGyMc1EArl",
+    "minutes": 1
+  },
+  {
+    "id": "b921ad8844d4",
+    "title": "Many of today's frontline pastors need to calm down, reflect and reassess their kind of gospel they currently preach.",
+    "text": "Many of today's frontline pastors need to calm down, reflect and reassess their kind of gospel they currently preach.",
+    "date": "1y",
+    "images": [],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid024j7VLZdaXubQLDUhNVauLdtopZKsAyHyK8fxvwwAFCHuyDatPeV8j2rakC1ttFrol",
+    "minutes": 1
+  },
+  {
+    "id": "a720c7e7ec9c",
+    "title": "Horlathundey Haryuorla Peter Slasher amen",
+    "text": "Horlathundey Haryuorla Peter Slasher amen",
+    "date": "1y",
+    "images": [],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid035QRiF4oBUUqkQuRkvne4gzQjALjveKiHgphAkdvUQfaKB8RrpTxaTLZysLseH4DKl",
+    "minutes": 1
+  },
+  {
+    "id": "aa3d333acb60",
+    "title": "Akinade Dorcas Olusola Oluseesin",
+    "text": "Akinade Dorcas Olusola Oluseesin",
+    "date": "1y",
+    "images": [],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid07G11F91WnMx7HU5WW3dCyeqpb9C1Noo4A8yupJrgT9XjDXWmsAwqTAvT2ohWWXdNl",
+    "minutes": 1
+  },
+  {
+    "id": "110b15b6ac79",
+    "title": "Happy birthday celebrations. More of it in the journey of life in the land of the living in Jesus name.",
+    "text": "Happy birthday celebrations. More of it in the journey of life in the land of the living in Jesus name.",
+    "date": "1y",
+    "images": [],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid02E2q1iutghKTrymtFebAjD6NHbJn2GewdiMhfLMTgAMXs6qV7AixiLpWuXgEKEyhHl",
+    "minutes": 1
+  },
+  {
+    "id": "1b915a69f681",
+    "title": "Appreciate very much, sir Reverend Akin Latunde",
+    "text": "Appreciate very much, sir Reverend Akin Latunde",
+    "date": "1y",
+    "images": [],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid0c6LQ8bGNuTMMwwwoi72jYLXZ2uzwkzVJpmJgA3EoLaRJtxznX8PDo8xgJNvymPydl",
+    "minutes": 1
+  },
+  {
+    "id": "e5ca7b1e9f49",
+    "title": "FREE SCHOOLS OPERATION IN THE COUNTRY.",
+    "text": "FREE SCHOOLS OPERATION IN THE COUNTRY.\nBy Latunde Akin.\nKing Abolarin of orangun Ile-Ila started free schools many years ago till date in his town. He isn't collecting any dime from the students. How he is paying the teachers possibly from his other personal business.\nBrother Gbile Akanni, refused to be called Pastor, Reverend, Apostle, Evangelist,but he is very much effective than to be called those titles. He started free schools without collecting any dime from the students. Only whatever any parents or anyone can donate freely to support,never compulsory or mandatory. The free schools still runs their administration basically from free (not forced) donations and other sources. They don't depend on school fees from any student.\nFederal government operates some free unity schools,yes we know they use people's tax to do that freely. At least to show free school is possible.\nThere are other individuals around who also operates free schools which I may not list here. \nTo tell you,operating free school is highly possible in this society by good spirited people who are privileged to operate it.\nTo tell you,the present church should be the living example to champion free schools across and sundry. But we are clearly not leading in this free school aspect.\nTo tell you, the early missionaries championed free schools,but the glory of all of that is no more. This is what affected the church in USA,UK too. They lost their love for humanity to love for money and building of big projects. Those big cathedrals are empty now due to misplaced priorities. \nMinistries who use education to do pure business now hide under giving scholarships to selected people. \nLet's say they collected 1M from 1000 students,that is 1 billion they then use 100M to offer 100 students scholarship. They are left with a whooping sum of 900M. After paying salaries and removing other administrative costs,at least 200M or more will remain as profit. See pure business? The church people that donated their widow's mite may never have a taste of that scholarship or that school.\nDo we say if all churches school are free,they will still have capacity to admit everyone? Big NO.\nDo we say if they don't collect school fees they will survive? Big YES.\nThey will survive from the same donations from their members which built the school in the first place. Unless the money used to build the school is from individual purse and not from church members donation. Then the school shouldn't be named after church organization or ever be connected to the church. Businesses should stand separate from the gospel.\nIt is disgusting and disheartening to hear that REVIVAL means church taking over industrial facilities. \nIt is disgusting to hear that REVIVAL means church taking over the educational sector. And because church schools are doing better than government owned schools,it means REVIVAL. That is ridiculous.\nRevival isn't when we make money. Revival isn't when we are more organized. Revival isn't when we increase in endless numbers. Revival isn't even miracles.\nRevival is when FAITH, MERCY AND JUSTICE is being uphold by the church. Revival is when the fire of love is burning and people are getting lit up by the love like wildfire. \nIt is sad that the prosperity gospel has unconsciously crept into the faith based , holiness based,prayer based and Bible based churches as well. Everyone of them now wants to prosper in money and so must do side businesses.\nAre side businesses wrong for the church? No they are not. But that's not what Christ desires for his church. The focus of Christ isn't any business. And if we're not careful,this may cause downward trend for the gospel message.\nIt would have been preferable that the church set up a free school system and decide to run the administration and staff payment from donations by members or well wishers.\nIt would have been preferable to God that the church rather support individual members and encourage them to start businesses and schools by empowering them. \nIt would have been preferable to God that the church build businesses away from the confinement of the church and refrain from using church name to do business.\nA mission based school that is not free is a pure business.\nMay God please reset the brain of the church. Amen.",
+    "date": "July 8, 2025",
+    "images": [
+      {
+        "src": "assets/e5ca7b1e9f49-0.jpg",
+        "alt": "No photo description available."
+      }
+    ],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid027kLoeq1QRJCqwXS1Di4AnB2rAzP4awQXuMqs5rEqePHVmBz9EXHzZ7G8tQaHkgKl",
+    "minutes": 4
+  },
+  {
+    "id": "99e3c2be6303",
+    "title": "Rest on gallant soldier of Christ",
+    "text": "Rest on gallant soldier of Christ",
+    "date": "1y",
+    "images": [],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid02LGRWBwpUXQiTvzAZxSatPzPPMAteg5NoWFxgbfpLFXG8zxwebxp3UK8y8dzG96jZl",
+    "minutes": 1
+  },
+  {
+    "id": "bcb281822747",
+    "title": "If you make others happy, it is a level of impact. Everything is not money.",
+    "text": "If you make others happy, it is a level of impact. Everything is not money.",
+    "date": "June 28, 2025",
+    "images": [
+      {
+        "src": "assets/bcb281822747-0.jpg",
+        "alt": "Post image"
+      },
+      {
+        "src": "assets/bcb281822747-1.jpg",
+        "alt": "Post image"
+      },
+      {
+        "src": "assets/bcb281822747-2.jpg",
+        "alt": "Post image"
+      },
+      {
+        "src": "assets/bcb281822747-3.jpg",
+        "alt": "Post image"
+      }
+    ],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid02XSrsdc6rtYGyHFW5PpfPJY7Nxwi7s8adUAAhGkpTaArTSQs59scT5WAivG7nQ83l",
+    "minutes": 1
+  },
+  {
+    "id": "1941f60a7622",
+    "title": "The strength of sin is",
+    "text": "The strength of sin is\n\nSECRECY",
+    "date": "June 27, 2025",
+    "images": [],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid0AtZKHt8zgJGr9pTpeaqF19AZwbG1NpEBY43NqZLpSFGXvEdQXtuW72PbdsShGcLul",
+    "minutes": 1
+  },
+  {
+    "id": "2142d2d4235a",
+    "title": "Akin Latunde Yes Sir truth is expensive",
+    "text": "Akin Latunde Yes Sir truth is expensive",
+    "date": "1y",
+    "images": [],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid02PmE64JMxWSCWmTtxc7FkYPj6cQwuhnNf6EsrXW9KdvpZVPPyFEMMuwtMJiySuBHsl",
+    "minutes": 1
+  },
+  {
+    "id": "ff7dca483fb5",
+    "title": "Never trust jealous person.",
+    "text": "Never trust jealous person.\nYour closeness with a jealous person is evil.\nKeep that distance without apology once you discover it.",
+    "date": "June 24, 2025",
+    "images": [],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid034DWqhBZPg533JqBtwPwWycSg9qKEBQT3VgoTys5avQtMwjeMv1cxZUvARytFYNYRl",
+    "minutes": 1
+  },
+  {
+    "id": "06a2091eecf3",
+    "title": "Super cool Happy Father's day to father of father's",
+    "text": "Super cool Happy Father's day to father of father's",
+    "date": "1y",
+    "images": [],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid02vBJCVzbWTurUddPorZF5nuJ37hdWdogCe2E68kRPQ8hrvvsBpZDMppWYf5WYhujWl",
+    "minutes": 1
+  },
+  {
+    "id": "021916cb60cc",
+    "title": "Bigfm Jahson Jah man,same here",
+    "text": "Bigfm Jahson Jah man,same here",
+    "date": "1y",
+    "images": [],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid02RCzQfkF6a2DXMUTyDFzz9BgsSdLA8v33pUpVoc4UDwXELto5bSQSqKE7Hj3PohSyl",
+    "minutes": 1
+  },
+  {
+    "id": "630416d6f7f7",
+    "title": "Akin Latunde Love this insight words sir.",
+    "text": "Akin Latunde Love this insight words sir.",
+    "date": "1y",
+    "images": [],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid0Cen7baa3ddRPsHhxnXoFBBpgePm9B8bWhEH4wv1SM8RQk8y5t2utWKLxgKKfkv76l",
+    "minutes": 1
+  },
+  {
+    "id": "840bf1f2b783",
+    "title": "Jesus let Judas know that he knew about his heart condition of wanting to betray him and warned him. Then evil spirits increased inside Judas.",
+    "text": "Jesus let Judas know that he knew about his heart condition of wanting to betray him and warned him. Then evil spirits increased inside Judas.",
+    "date": "1y",
+    "images": [],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid02icRHw1FyVF3n2Y2E9iAJqqwyyP71xRPUWteCZcFK3oUANeTEU7sn47W6t6tM133ql",
+    "minutes": 1
+  },
+  {
+    "id": "24a1c35d41ea",
+    "title": "I am not talking about living a suspicious lifestyle here. That can't sustain healthy living. I am talking about living in watchfulness and …",
+    "text": "I am not talking about living a suspicious lifestyle here. That can't sustain healthy living. I am talking about living in watchfulness and carefulness. Closely observing things and having the ability to discern rightly when anything is wrong around you. The strategy has always been, \n\"bogiri ko ba lanu, alangba ko le wobe\". That is to say,if those close to you or yourself haven't open the door, or if your walls have not cracked open,no lizard can be able to enter.",
+    "date": "1y",
+    "images": [],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid036Wka9fyY89vMzF7hqEVRQU1eb8wqaAXgx37DP4xr9AuRkF7Y62pBQnWKacwjzLMol",
+    "minutes": 1
+  },
+  {
+    "id": "f3515547dd3d",
+    "title": "Wow! Wow!! wow!!!. Thanks for this inspiring story I really learnt a lot from it.... permission to copy sir",
+    "text": "Wow! Wow!! wow!!!. Thanks for this inspiring story I really learnt a lot from it.... permission to copy sir",
+    "date": "1y",
+    "images": [],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid0yz1g43THy6uST2EguKS3fmqqzLsVZ61X4cKh5wKkJdPpYyVGekK3GyaSmbKrkZVDl",
+    "minutes": 1
+  },
+  {
+    "id": "0d7eb676b4cc",
+    "title": "Happy birthday to you sir, I wish you all the best in life and ministry.",
+    "text": "Happy birthday to you sir, I wish you all the best in life and ministry.",
+    "date": "1y",
+    "images": [],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid02xgmLPwuK3uT1275gU4MymCqGXXAWhusJBTU19b53sKCmBLdurfFAUnb7WfKGr1xKl",
+    "minutes": 1
+  },
+  {
+    "id": "8e9dbde456fb",
+    "title": "Online status indicator",
+    "text": "Online status indicator\nActive\nLatunde Akin\nMay 29, 2025\n \n·\n\"KEEP COMING\"\nPa Omolehin urges the next generation.\n@isaac_omolehin_outreach \nBackground song: Home by @iam_jordan_praise\n#isaacomolehin #echoesfromzion See less\ntheechoesfromzion · Original audio\ntheechoesfromzion · Original audio\ntheechoesfromzion · Original audio\ntheechoesfromzion\nMay 28\n \n · \n6\n\n\n\n\nComment as Abiodun Emmanuel Gbadamosi",
+    "date": "May 29, 2025",
+    "images": [],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid0sp2BnTnxwAVbCeNR1f4scnLgPVuo1ZXKbdCoyB9XHUqaCNprJe2rTMLksJtuEozdl",
+    "minutes": 1
+  },
+  {
+    "id": "a4e548cc46e8",
+    "title": "Let's_see_if_you_know",
+    "text": "Let's_see_if_you_know\nWhat do you know about him?\nLet's hear from you in the comments",
+    "date": "May 20, 2025",
+    "images": [
+      {
+        "src": "assets/a4e548cc46e8-0.jpg",
+        "alt": "No photo description available."
+      }
+    ],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid077owXwQR9z1eJYyx6A7HBmqHs87oCpboZXJpnvrDoCCQgHYBUzGihd6Cjxsu6Ud9l",
+    "minutes": 1
+  },
+  {
+    "id": "7b10ce780610",
+    "title": "This is so touching. Thanks for that awareness",
+    "text": "This is so touching. Thanks for that awareness",
+    "date": "1y",
+    "images": [],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid02LHdBQB7zjhoz1SKB3DZhg46pCGxQ54vgYunB3YRkUCQBjmzysvsLKTLFd3SkZsnGl",
+    "minutes": 1
+  },
+  {
+    "id": "07b9c3097d2b",
+    "title": "Wonderful ! Our God is awesome.",
+    "text": "Wonderful ! Our God is awesome.",
+    "date": "1y",
+    "images": [],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid02S6D9CoDPyLPHoQr5ou6TbohAjvtfrjZfG6wYhqr2GiQp5N9LScxkQtaNukmGWRkEl",
+    "minutes": 1
+  },
+  {
+    "id": "bf5ac5479f7a",
+    "title": "WHEN YOUR PRIVATE PART SMELLS.",
+    "text": "WHEN YOUR PRIVATE PART SMELLS.\n- By Mfon Ekott\nPermit me to invade your privacy today, this once. \nWell, I just want to point out something you never knew, or probably have been ignoring; about your \"inner chambers\", that place you always dread talking about, because you believe it's personal. \nHow healthy are you in there? Are you proud of it? \nOh, no! Not about your genitalia, far from it. I'm referring to those areas of your life that are oblivious to the public, your \"behind the scenes\", that is your private part. \nIs it as healthy as that part you flaunt in public? \nWHO REALLY ARE YOU? \n A godly satan.\n Angelic demon. \n Beautiful beast. \n Glorious wreck.\n Holy sinner.\n An online influencer, but an offline influenza. \n A minister on the podium, but a sinister in the house. \n A public angel, but a private beast. \n A healer in the open, but a virus on the inside. \n A humble lady at work, but a whirlwind at home. \n A gentleman in public, but a terror in your home. \n A noble in-law, but son of destruction to family. \n A spirit-led brother in church but an abusive manipulator with your wife. \n You worship your Daddy/Mummy GO, but have no regard for your parents/spouse.\n You don't get tired of commending girls for their beauty, but your woman gets no compliment after dressing.\n You get too busy counseling other children that you fail to notice your child's desire for your love and attention. \n You're benevolent to strangers, but your family and people in your inner space are subjected to penury. \n You attack people's children for their shortcomings, but yours are impending nemesis, waiting to happen...\nOh, dear! Your private part is faulty, sick, and decaying. \nYou smell. You stink. You rot. \nYour stench is awful. \nA thought of you is nauseating. \nIt is about time you fixed yourself. Get help and strive to stay healthy. Only you are responsible for your healing, no one else. \nAcknowledge that you're sick in there, identify the causative factors, examine where the stench is oozing from, and make steps towards self healing. \nRemind your charity that it has a home. \nLet the beauty of your soul and your goodness be felt by the people in your inner space first, before strangers. \nBe a father/mother to your own children first, before attempting to become Mother Theresa or Santa Claus. \nSet your house in order! \nBonjour! @highlight",
+    "date": "May 9, 2025",
+    "images": [
+      {
+        "src": "assets/bf5ac5479f7a-0.jpg",
+        "alt": "No photo description available."
+      }
+    ],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid0cGVUjSTREysnyb7sTLF8HfNE6ZMZY251Th6s2BFWTMDGnVs6twHQvMeWTDiaYQdAl",
+    "minutes": 2
+  },
+  {
+    "id": "f3c09e9e32a7",
+    "title": "I love this piece, more grace to you brother",
+    "text": "I love this piece, more grace to you brother",
+    "date": "1y",
+    "images": [],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid02XD9o3rLcD6GCnK51xApR5kCaj6dXmQQmEHyiu98zg8i8Pcd1jwPzX7jDqnQNsorfl",
+    "minutes": 1
+  },
+  {
+    "id": "253d393c817d",
+    "title": "May you and I make it in multiple fold in this month of May.",
+    "text": "May you and I make it in multiple fold in this month of May.\nMay May not mar us. In Jesus name. Amen.\nHappy new month.",
+    "date": "May 1, 2025",
+    "images": [],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid02QV477A4jv2GSchDcHdhsTHDZEgqHPixuvCtszGSVEdDwewH7Ynh1gYE5sg7xQ24Fl",
+    "minutes": 1
+  },
+  {
+    "id": "c5d78d178b64",
+    "title": "Hmmmmmm this is deep and powerful",
+    "text": "Hmmmmmm this is deep and powerful",
+    "date": "1y",
+    "images": [],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid0v2ftASWaPgEsyWkWJ4hvKohDXNEmeUfj65WCjGuv2MYXRV5m2f9Xx3gtw3SNPAZel",
+    "minutes": 1
+  },
+  {
+    "id": "b151001efa5d",
+    "title": "If Jesus died so we can have more money. We are of all men most miserable.",
+    "text": "If Jesus died so we can have more money. We are of all men most miserable.",
+    "date": "April 16, 2025",
+    "images": [],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid028wk3PJbeEycoypDD8cyQwQ7WXRgUYgnKU2kFhe4yYoNjqH8oo6Pk1xeM4JkwzUqBl",
+    "minutes": 1
+  },
+  {
+    "id": "e33e28a36118",
+    "title": "If you know how quickly people forget the dead, you will stop living to impress people.",
+    "text": "If you know how quickly people forget the dead, you will stop living to impress people.\n- Christopher Walken",
+    "date": "April 10, 2025",
+    "images": [],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid031H3B8pRCVLH551RTqXw5XeNyFbqvHhzhWgNvsfHvRH7VSa9xhdgFDKHLE5iLoYePl",
+    "minutes": 1
+  },
+  {
+    "id": "a9f7bb8dd109",
+    "title": "LEFT UNDONE.",
+    "text": "LEFT UNDONE.\n(By Latunde Akin)\nMatthew 23:23\nWoe unto you, scribes and Pharisees, hypocrites! for ye pay tithe of mint and anise and cummin, and have omitted the weightier matters of the law, judgment, mercy, and faith: these ought ye to have done, and not to leave the other undone.\nMost destructive to men is when men who are supposed to teach and raise people the right way are not doing so. Jesus pronounced WOE unto them. This is because they are channelling their attention and people's mind to the minors while they neglect the weightier matters. \nTithing is in the bible, giving is in the bible, and sowing seed is in the bible. But are they weightier matters? \nChurch administrators are now targeting people's money at the expense of properly leading them to the Lord and teaching them consecration. \nIf you must make God's people rich by teaching them to give money.Then that is both a wrong concept and a minor matter of the scripture. \nThe major is to make men disciples of Jesus and not to derail them by pushing them to sow seed so God can bless them.\n It is better to teach dignity of labour and show them how to physically or mentally work with their hands instead of only calling them to donate to be blessed in return. Even this is still secondary to our mandate as believers. Creating such entitlement mentality in people towards God is wrong. A scam it is.\nIf we say we are of Christ as leaders, we must avoid operating like a capitalist government. A capitalist government milk dries the poor for the rich. In church, the rich must avoid every tendency to make the poor feel so bad or cheated. \nThe widow who brought her mite coins was recognised by Jesus not because she was a giver but because Jesus wanted to do justice to her. She didn't have much, yet she gave it all. Then, for justice sake,Jesus sighted her to actually bless her. \nIf people who give their all still remain the same in our congregation, then it means we have neglected justice, mercy,and faith. \nWe do not say that we should be open to every Tom Dick and Harry. No,but we should be open enough to consider people who are genuinely poor or needing among believers and provide for them from the proceed of offerings given by everyone.\nCharity must always begin from home. Not from the outside. If it's from the outside, then it turns to propaganda. \nDiscipleship and fellowship should be key and paramount than any church project.\nGod is not bothered about how many people gathered in a church service. He is bothered about how they are being discipled,treated, and their quality of life. You can have 100,000 members gathering while God only knows a few people. You can have 10 people who are genuinely known by heaven because they will be more useful to God than a congregation of numerous churchy people. \nAs much as I am not against tithing and offering. I still mention that they are never weightier matters of the kingdom.  Weightier matters are :\nThe church's judgment or justice system.The administrators must be just to understand that poor brethren must be recognised like Jesus did to that widow. Every system in the church that relegated the poor or less previledged because of lack is a lost church in God's sight. \nFaith is a belief in God, not for material things but for salvation of hearts in the church. Jesus wasn't talking about faith for material needs. As long as the salvation message is lost in the church, faith in its real sense is lost. Collecting money from people at the expense of silencing salvation messages is evil. \n- Mercy is an act of pardoning people and giving them what they need.  Jesus pardoned us, and he didn't stop there. He gave us salvation. We must also show mercy to other believers in the church. Have provision to help the needy among believers first, before any unbeliever. \nMercy has criteria, and that is why God said, \"unto whom I will...\" We must understand that we are not to show mercy to someone who will waste it. \nA lazy man's mercy is to deliver him from laziness by giving work and not money.\nA beggar's mercy is to show him how not to beg again and not necessarily aiding his begging capability. \nAn entitlement mentality person doesn't deserve any mercy at all. We must teach such people responsibility. \nA believer who is not defaulting but sincerely found himself or herself in such a condition must be shown mercy. \nAn unbeliever who is genuinely in need must be shown mercy. This may win such to the Lord. We must be winsome, but we must not allow deception to thrive.\nWOE unto every church administrator who collects money from people and neglects JUSTICE, MERCY, AND FAITH. \nIt then means the law of giving does not supercede the law of justice, mercy, and faith. \nJesus proclaimed WOE unto church leaders who esteem the message of giving money than the message or dealings of justice among brethren, mercy on the needy and faith , and the saving faith. \nOf what use to the Lord is a church where there is no genuine love? \nCharity(love) is the reason for fellowship and never capitalism.\nOf what use to the Lord is a church where poor believers remain poor just because the system of such such operates a capitalistic system?\nIt is WOE unto such leaders of such bad church system, for they esteem giving by people more than the weightier matters of the scripture. Their woes may even be waiting for them at the judgment sit of Christ if they won't repent early enough. \nGiving is good, offering is good, but justice, mercy, and faith are better. \nGod bless.",
+    "date": "April 17, 2025",
+    "images": [
+      {
+        "src": "assets/a9f7bb8dd109-0.jpg",
+        "alt": "No photo description available."
+      }
+    ],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid0d1QpB64r6MaTm3e61shGxZnYjs5s4iWTkCrVwVRRLDcHSHaWHj8KvqfTSWb69d66l",
+    "minutes": 5
+  },
+  {
+    "id": "a07ab23441e7",
+    "title": "Happy wedding anniversary to you sir",
+    "text": "Happy wedding anniversary to you sir",
+    "date": "1y",
+    "images": [],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid0vfUWAjrdFfXc4xVEksNuphgJCUE63453qXkeozQ2QKJmimQBBFjD119gsUJ27ckHl",
+    "minutes": 1
+  },
+  {
+    "id": "e88718bf51f8",
+    "title": "LEARN HOW TO MANAGE YOUR HIGH FLYING CAREER OR BUSINESS WOMAN. STOP THAT NEGATIVE MENTALITY TODAY",
+    "text": "LEARN HOW TO MANAGE YOUR HIGH FLYING CAREER OR BUSINESS WOMAN. STOP THAT NEGATIVE MENTALITY TODAY \n(Written by Latunde Akin)\nI have come to realise a lot of men don't feel comfortable when a woman is doing better than them.\nIt is a sign of emotional immaturity. \nOnce you as a man begins to think your headship should always mean you must do better in all areas than your partner. You're a chicken already in the brain. \nOur headship isn't necessarily mean more money, but strictly leadership. \nIf your partner is self reliant, wow! you should count yourself so fortunate among men and begin to show good leadership as well. \nJealousy, self ego,inferiority or superiority complex is a sign that your brain is upside down or that you don't know God at all.\nIf a woman is proud, nagging, tramping on you,all because she is the one taking more responsibility in the relationship. It is not because of money ,but because you are not providing enough leadership for her. \nGo and check it very well, that soft spot she had for you before you engaged her in relationship isn't fake,but because you didn't manage that soft spot well. She became wild because you failed to manage the soft spot well. You lacked leadership! Stop blaming your followers.\nEveryone has soft spot and stubborn spot. So don't think you are a saint o. Even me ayam not a saint in this regard. If you treat me well, you will see me leaning on the staff of my office deliberately issuing utterances you may never imagine. Oh my my, I sabi love o,forget my bold face\n.\nThe only people I can advice you to run away from are narcissistic people. Run o,please run o. Unless you are sure God wants you to stay till the person is delivered.  And that must be before marriage anyways.\nA man who is not emotionally intelligent is a whimp. He can't provide leadership. He will just suffocate glory out of his followers of which his wife is one.\nA woman can give you heaven on earth if you know how to stand by them.\nA woman can ensure you won't go down in destiny if you can know how to raise them. \nEven a demonic woman has a way they can be handled if you have the wisdom of handling them. The WISDOM OF GOD. \nI have seen a man that entered \"one chance \" and I simply told him to get information about certain mysteries about the woman. Let me stop here\n,become a prophet first. \nA man who isn't born again can't rather overcome demons in his marriage. Good behavior can only keep troubles for a while.  You need to be genuinely born again and repent of all the way you have led your house wrongly before God can fight for you. \nIt is not enough to know the bible, the Bible must transform both your emotional, and spiritual life so that you can be fit to lead a woman well no matter how hard such woman is. Hard women are easy to lead once you have that emotional capacity to manage their soft spot well. \nYou get intimidated or pissed of because a woman is telling you she is financially reliant and can take care of herself. You be mumu o. Instead to understand the great treasure God is bringing into your space, you are looking at her as a proud lady. \nDo you even realise, she has her fears too,that's why she is telling you she isn't after any man's money? \nYes,she may not have to say that to you ,since nothing warrants saying it. But do you really know a woman? A woman thinks forward into many years ahead than a man. A woman reads body language more than a man. They see farther while a man sees deeper. \nDoes this make you as a man not to be responsible again in your house? No!\nIf a woman is supplying nearly everything in the house due to her opportunity.  You as a man must provide management and leadership for such woman!.\nA leader is a servant in disguise you know? Be her manager! Help her manage the resources well without being frugal or extravagant about it. Show her the strength of a man! Go out of your comfort zone to suprise her that you are ready to PROTECT her. A man who can't protect a woman spiritually and physically isn't a man yet,but a chicken. Make good use of her to rise! Stop feeling bad and then begin to misbehave. You will lose out !\nGet books to read that can develop your internal muscle for healthy management of your patner. Get out of that inferiority or superiority complex. Stop abusing your help meet! \nWoman, if you know you too are evil, please stop being evil. It won't pay you on the long run. Appreciate God has given you a nice man. Stop demoralising men all because you have more resources. \nPeace be unto us all. @highlight",
+    "date": "March 26, 2025",
+    "images": [
+      {
+        "src": "assets/e88718bf51f8-0.jpg",
+        "alt": "No photo description available."
+      }
+    ],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid07pYbKXvMSBmRKwheJ7RccYpnS3P5XPk2hxXLgZhQXsrGFxhLznBiSnENJFa5gmarl",
+    "minutes": 4
+  },
+  {
+    "id": "1d23ef62040b",
+    "title": "Sad story in one sentence",
+    "text": "Sad story in one sentence \n\"Slowly, I began to pick the things I had freely dropped at the foot of the cross. \" \n.",
+    "date": "March 7, 2025",
+    "images": [],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid0VfiA167MJioB2VWKAf1N3CxmkHwm1FRJsx3GqGLYmDxASNkwcjb8bvUGAtwd8UFRl",
+    "minutes": 1
+  },
+  {
+    "id": "468885a34740",
+    "title": "Lord please increase your FAVOR in lives of everybody here.",
+    "text": "Lord please increase your FAVOR in lives of everybody here.\nLet your FAVOR increase their productivity in multiple BLESSINGS.\nAmen",
+    "date": "February 17, 2025",
+    "images": [],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid0KWjuyLTtSz7y1TmkyyfAmCdXfFKqUv4wJsmAwDCHVvFNB1gFWXzZ5C65CfnTRhZ3l",
+    "minutes": 1
+  },
+  {
+    "id": "4c7d84c83d71",
+    "title": "Your real person is that aspect of you that you wish to hide from the public.",
+    "text": "Your real person is that aspect of you that you wish to hide from the public.",
+    "date": "February 12, 2025",
+    "images": [],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid0359uGL7RA15rXaxqCLe98szJcynSCNRKRV36Fu26VckFt7VxQQKNBi892nVTSu8Lrl",
+    "minutes": 1
+  },
+  {
+    "id": "5946f59040c0",
+    "title": "Same to you sir. God bless you daddy and mummy",
+    "text": "Same to you sir. God bless you daddy and mummy",
+    "date": "1y",
+    "images": [],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid02yNdLZA29kHB3bVZtWV3UjqHfheaaR7urQxWZczLPWBEiaKZefHnfgbkwjAMfzYPYl",
+    "minutes": 1
+  },
+  {
+    "id": "6520321f6dfd",
+    "title": "In 2025,we will progress and succeed together.in Jesus name.",
+    "text": "In 2025,we will progress and succeed together.in Jesus name.",
+    "date": "January 3, 2025",
+    "images": [],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid029zaBcBz7LjdKdA3vBv7WuL4f6aSjtNjES4V2cL8wJvaM9ZgHdUSWKqEmrA4ZNvPvl",
+    "minutes": 1
+  },
+  {
+    "id": "e1c9bd1c83e3",
+    "title": "Never do anything against someone who once helped you.It's better to mute&allow God to fight.",
+    "text": "Never do anything against someone who once helped you.It's better to mute&allow God to fight.\nLet God know you're a grateful soul",
+    "date": "December 1, 2024",
+    "images": [],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid0umGmBs6MVTddTcc239LV7xQJEcFYNNK6BUqRvybVGMQpprYkfAB9zfe1uVgu1wdql",
+    "minutes": 1
+  },
+  {
+    "id": "ac781868d996",
+    "title": "As long as you are my friend here.You will never move from SANCTUARY to MORTUARY in the remaining part of this 'EMBER month !",
+    "text": "As long as you are my friend here.You will never move from SANCTUARY to MORTUARY in the remaining part of this 'EMBER month !",
+    "date": "November 25, 2024",
+    "images": [],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid02RGhmgduS8j6GWLr3BEkEdQNtfCALRfKrgmZJ67AYwxYHHfJEjim5s7ByT9zq2WVul",
+    "minutes": 1
+  },
+  {
+    "id": "a31181ca0a0f",
+    "title": "Na so my Brother! Many also remember Satan and his works a great deal and forget GOD and His goodness!!!",
+    "text": "Na so my Brother! Many also remember Satan and his works a great deal and forget GOD and His goodness!!!",
+    "date": "1y",
+    "images": [],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid031NcF6PYog6dVnBbb3ByrvtyksxRPHFurQwgxzEX1Uk7SCCGNUA99i259HhNr6bhal",
+    "minutes": 1
+  },
+  {
+    "id": "67329f16ba01",
+    "title": "Rahab (hook-up lady) accomodated spies from Israel & became great grandmother of David.",
+    "text": "Rahab (hook-up lady) accomodated spies from Israel & became great grandmother of David.\nNo matter your past,Jesus will save you",
+    "date": "November 10, 2024",
+    "images": [],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid0Ku8Q1eYavntxR8WLJPoDcEKxwvPgyXmU2unBffHdEQqpZKAwQe2897ZedQxJ5UaSl",
+    "minutes": 1
+  },
+  {
+    "id": "4a2d68cd7035",
+    "title": "You are talking right from your experience",
+    "text": "You are talking right from your experience",
+    "date": "1y",
+    "images": [],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid0qJSjwYNVFp2GXPspoq1ejptsVg9qF9aMZzezLiiuRUBADxSRW3tE5c9eV8tAJQvul",
+    "minutes": 1
+  },
+  {
+    "id": "56dd11c23059",
+    "title": "If you bite it ,you've simply entered into temptation that'll later destroy you.",
+    "text": "If you bite it ,you've simply entered into temptation that'll later destroy you.",
+    "date": "2y",
+    "images": [],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid02Wqdz5AJ7AQVHH8YAw4CjBDAAxBk995DtTB1ookYyJnZXNyYqSLdjDsWh2Q26LAAal",
+    "minutes": 1
+  },
+  {
+    "id": "3a2c3c055796",
+    "title": "This is because you won't recognize your destruction is very near after you have destroyed others.",
+    "text": "This is because you won't recognize your destruction is very near after you have destroyed others.",
+    "date": "2y",
+    "images": [],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid0o5o3ZZeso9unWznVjtKubbTcwu92D14v2LvykR6TC79k8VEYD519H6g4abWzGE4Ul",
+    "minutes": 1
+  },
+  {
+    "id": "4b569c412b5b",
+    "title": "Don't be loyal to anyone at the expense of your destiny please.Your destiny comes first.",
+    "text": "Don't be loyal to anyone at the expense of your destiny please.Your destiny comes first.\nBe faithful always but not in a wrong way",
+    "date": "October 10, 2024",
+    "images": [],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid02hfGXcf7nfL9WcEQe5zJPDJdDqTf4MQTomAtrdcFtEVxWZjzNuyM1yuSQMEUV3tY9l",
+    "minutes": 1
+  },
+  {
+    "id": "742555f28b0d",
+    "title": "A grand deception is going on amongst many churches now.",
+    "text": "A grand deception is going on amongst many churches now.\nMany like to preach what will increase their membership, but what will scatter those members abroad to go and disciple others,they won't want to preach. \nSome like to preach the finished work of Jesus (salvation) and other added juicy benefits. \nBut to preach the unfinished work of Jesus, which is MISSIONS. They won't want to preach it so as to keep cycling their membership because of love for fellowship and benefits of fellowship. \nThey forget fellowship isn't the ultimate intention of God,but Missions. Reaching the unreached and discipling all tribes of people. \nDo you know most churches now prefer holding crusades in cities where people are already reached with the gospel. What is the motivating factor around this?\nMay I tell us that many great men have lost focus. Bible study is good, but what use is Bible study that keeps feeding people to stupor? Much knowledge, less practicalities. Many don't even have Bible study anymore. They would rather sing, motivate,dance, and enjoy speaking in tongue. \nThis deception must cease amongst us. if we must become fulfilled by taking the gospel personally to others,we must stop building empires.\nAnother deception is making merchandise using the church all in the name of establishing businesses. Using religion to make ourselves rich at the expense of doing the real work of missions. \nWhat is the real work of missions? Focusing on people's need for salvation and discipleship more than focusing on big projects building or big crusades that don't reach places that are yet unreached. \nBrethren, if you won't deceive yourself, you will discover that your brain has been wired to always attend services or programs every day but never to scatter to go places and preach the gospel. \nRomans 15:20  says, \"  My ambition has always been to preach the Good News where the name of Christ has never been heard, rather than where a church has already been started by someone else.\"\nFrom the above,can we see how far we have gone at deceiving ourselves? \nAnd even those who are trying to scatter themselves into those unreached places, we don't financially support them. We complain by saying that organising big programmes and projects are demanding much finances. So we neglected the real deal just because it's not FASHIONABLE!\nGod will judge a lot of us this neglect if we don't repent. \nBeliever in Christ, please I adjure thee to arise personally in support of missions and missionaries. If you can't go,let your virtues,and your blood go! Your money is your blood! It is your virtues and it speaks louder on the field of souls. That is if you can't go because of your career and work. You can determine to pray for the work as well at a schedule time of the day.\nIf you're not intentional about doing your part,you're simply wasting your life attending fellowship just to please yourself and not God.\nHAVE COMPASSION MISSIONS is dedicated to helping Believers in Christ recognise their urgent need to arise and become burdened with the burden of the Lord to reach out and disciple others like themselves. We have missionaries across the nation that we encourage day by day in support. \n As you are led to support them on mission fields or you are called to prepare to go yourself. Simply get in touch with us on messenger. \nIn whichever way,do not let the deception of churchianity gets into your head. The Lord is going to ask you personally about your impact in His kingdom after He had saved you from sin,Satan and sickness. \nIn a local government where I know. There are big churches in the town whereas,in the neighbouring settlements of about 169 villages,I was suprised to discover that,there is no gospel around there. The people are starked unbelievers. Yet none of big churches want to go there! \nWe should not be decieved. We we reap what we sowed. God is waiting for us to sow in tears of compassion for souls. By this,we are reaping in a great harvest for God. \nNot in deception of FELLOWSHIP in over-ripe places ,but in the penetration of FIELDS that are ripe with genuine gospel outreaches and support. \nGod bless everyone who sees sense in this. Amen",
+    "date": "October 10, 2024",
+    "images": [
+      {
+        "src": "assets/742555f28b0d-0.jpg",
+        "alt": "No photo description available."
+      }
+    ],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid02MZzm6C6WxcmtvVq5QpVo96ngkhwxondtLJ3mhUKHteBs7zNPvpBuGwxtvT3knfual",
+    "minutes": 4
+  },
+  {
+    "id": "a0b5820e6154",
+    "title": "Greatness is inside. When you have the chance to meet with great men,always look at their inside and partake in the grace that locks in there.",
+    "text": "Greatness is inside. When you have the chance to meet with great men,always look at their inside and partake in the grace that locks in there.\nI celebrate the grace of God in the life of Baba Wale Oke. \nMay His grace continue to increase in your life sir. Amen",
+    "date": "September 21, 2024",
+    "images": [
+      {
+        "src": "assets/a0b5820e6154-0.jpg",
+        "alt": "No photo description available."
+      }
+    ],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid0VtvbKcS5e1XXEWjvMyXt3EJF7AnWwXqK86BBCSdQgHMAACPYsXPQKMa3hegVdFawl",
+    "minutes": 1
+  },
+  {
+    "id": "0ec33762398b",
+    "title": "Moment you begin to despise people because you feel you're better,is a clear indication that you have missed it in destiny.",
+    "text": "Moment you begin to despise people because you feel you're better,is a clear indication that you have missed it in destiny. \nNever underrate anyone. If your values aren't thesame with theirs,it doesn't mean they won't be useful elsewhere. \nRemain humble, respect everyone including your antagonists,and you will see them changing for the better and when tables turn, they will do you good too.",
+    "date": "September 18, 2024",
+    "images": [],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid02JPYKXtMAwdbzyttfPYvfFCXbuAw71WWCqWtPJanGp8hiSHRak9FdMRQoDrvL4AQ1l",
+    "minutes": 1
+  },
+  {
+    "id": "04040df725a0",
+    "title": "Bola Adeola Bankole God is doing us fine. Thanks sister B",
+    "text": "Bola Adeola Bankole God is doing us fine. Thanks sister B",
+    "date": "2y",
+    "images": [],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid02Bn6zWKUTSLhLQMys2SDWrcmmqKnFTuLYmw41DdBRKA2gQ6YTFuHDfQTkdmDsGFV4l",
+    "minutes": 1
+  },
+  {
+    "id": "d4b0bbc17d70",
+    "title": "Congratulations happy birthday many happy returns You will live long enough to eat the fruit of your hard labour in the name of Jesus Christ",
+    "text": "Congratulations happy birthday many happy returns You will live long enough to eat the fruit of your hard labour in the name of Jesus Christ",
+    "date": "2y",
+    "images": [],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid02LqqmKxmWcHRT4iPeDmPbn67AEStiMjPw58M5NtM1DhhrhF9Uwj6TJYnxXwRV3czhl",
+    "minutes": 1
+  },
+  {
+    "id": "6115ebd2520e",
+    "title": "Be naturally humble. Avoid hypocrisy. Love people without any strings attached. Whether they have money or not",
+    "text": "Be naturally humble. Avoid hypocrisy. Love people without any strings attached. Whether they have money or not",
+    "date": "2y",
+    "images": [],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid0xaehs4BCLQ2dw8QznuitGwppLxA1amXfpAsmG6i8TojQM7thye83PKBTyFfVNbjtl",
+    "minutes": 1
+  },
+  {
+    "id": "4d4417e57649",
+    "title": "Why I don't look down on people",
+    "text": "Why I don't look down on people\n\"Nothing is forever, everything has expiry date\".",
+    "date": "June 27, 2024",
+    "images": [],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid0UyCCR8k4iq7tGRGtUuLuje2cWqqrSW36WmN8G1tLixsaY38L76nfKueve7TKZBJSl",
+    "minutes": 1
+  },
+  {
+    "id": "09e3d04797eb",
+    "title": "This compliments God's word from his servant Ogunsakin Peter Damilola , What do you see? God or the problem?",
+    "text": "This compliments God's word from his servant Ogunsakin Peter Damilola , What do you see? God or the problem?",
+    "date": "2y",
+    "images": [],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid0tti1Wo1bpK7ZC4EcEiqBaLShqfEXnqBwXwUK7NrwDNGJ8yZbE5wojpxSRme687Pbl",
+    "minutes": 1
+  },
+  {
+    "id": "0a099f7312e7",
+    "title": "Online status indicator",
+    "text": "Online status indicator\nActive\nLatunde Akin updated his profile picture.\nJune 3, 2024\n \n·\n79\n37",
+    "date": "June 3, 2024",
+    "images": [
+      {
+        "src": "assets/0a099f7312e7-0.jpg",
+        "alt": "No photo description available."
+      }
+    ],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/423614753817510:514035817612701",
+    "minutes": 1
+  },
+  {
+    "id": "b162162dc265",
+    "title": "Hallelujah unto the Lord. Happy birthday sir. Many more fruitful years ahead in Jesus Name.",
+    "text": "Hallelujah unto the Lord. Happy birthday sir. Many more fruitful years ahead in Jesus Name.",
+    "date": "2y",
+    "images": [],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid043uaP2aegPzYiJbX2LfF2yVUvtfGHvxdoLXChfUc4FFbfuZNDqdc6gJ2m4vXdso8l",
+    "minutes": 1
+  },
+  {
+    "id": "2c1080044e28",
+    "title": "Joshua Ojobo",
+    "text": "Joshua Ojobo\n \n·\n2y\n \n·\nby author\nReply\n1",
+    "date": "2y",
+    "images": [
+      {
+        "src": "assets/2c1080044e28-0.jpg",
+        "alt": "Moodies Animated yellow face emoji, grinning and moving its eyes left and right. sticker"
+      }
+    ],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid029dc27H5P6XJok2iKC57VfrkXYbi97BaHf2ELsKsvPNGTYDeh7VVE1RzfzBYf3AZsl",
+    "minutes": 1
+  },
+  {
+    "id": "fb3589e18659",
+    "title": "It is not what you preach that actually and eventually bless people, it is who you are before God.",
+    "text": "It is not what you preach that actually and eventually bless people, it is who you are before God. \nYou can be preaching a sound doctrine from your head,and people can even enjoy it temporarily or permanently but if in your spirit man you're not what you preach, the name of the Lord is going to be tarnished by you.\nA situation where God is using you mightily when you have long derailed is just that God is using you to prepare your replacement without you knowing it.\nGod knows your lifestyle is doing enough damage already than the truth you spill out every time. And since your secret life is not known to a lot of your followers, He must intentionally at least keep using you to prepare many others who will replace you.\nAt least before you can tarnish His image or bring disgrace to His service, He would have prepared enough people who will stand against you through you. And if by mercy your heart is not hardened, those people.God is about to replace you with may become Intercessors around you. They may tell God to have mercy on you if you treat them well or if mercy is still speaking around you.\nI see a very dangerous trend coming, a situation where many will fall into the trap of knowledge of God without life of God. \nI see armies of the Lord fighting aimlessly thinking they're on track or fighting for God who can fight for Himself without them. \nI see those who are carried away by popularity of preachers and their long years of experience without knowing God is already changing people for His works. \nI see believers getting carried away by what they only know,forgetting God is multidimensional and will always reveal Himself more than what we think we know.\nIf you're in a denomination, just be careful not to think it's your denomination that knows God better. Else you may be digging your spiritual grave without knowing. \nAnd what should concern every believer is his or her life before God and not any hero worshipping or hyping. We will all stand before God individually and by then we will understand that the journey is not a corporate journey. \nYes,battles are not to be fought alone,but God won't ask us about battles but about our personal obedience to Him.\nIn what area or aspect have you been carried away? It is better to gain back your senses now and begin to personally obey the Lord. If you have to obey Him at the expense of what men of influence around you are saying, its far better. \nThat anyone preaches the truth doesn't qualify any preacher as true. You just have to ensure you stand in the Truth by yourself and by the grace given to you.\nNever believe anyone verbatim. Only believe in the Word of God,because that is the only way you can be free indeed. \nToday, every shackle of religious activities around you is broken. Every scale in your eye is shattered. Every breathe of human beings around your journey is replaced by the breathe of Life. And you will begin to experience peace of mind, and swift  progress in your journey of faith. In Jesus name, amen.",
+    "date": "May 14, 2024",
+    "images": [
+      {
+        "src": "assets/fb3589e18659-0.jpg",
+        "alt": "No photo description available."
+      }
+    ],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid02ptxojWZgPQ9uxXw7VsxKHnJmNUNAeLekLbSsVG52FFuP7FMmwceNRrpV6Dn7uLzLl",
+    "minutes": 3
+  },
+  {
+    "id": "b97d5ba889d0",
+    "title": "As insignificant as people placed around you might be,they form a cloud of witness for you before God by their spirits interceding on your b…",
+    "text": "As insignificant as people placed around you might be,they form a cloud of witness for you before God by their spirits interceding on your behalf day and night even without them knowing",
+    "date": "2y",
+    "images": [],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid0ZjGziF5DoPdP2CgQA9ckN4pG8jHicp4xzrUoVYu2vbWfKGmY5dqfsEN9w3NznNp8l",
+    "minutes": 1
+  },
+  {
+    "id": "243c2bd0a8fd",
+    "title": "Olowoyeye Oluwasola Elijah thanks",
+    "text": "Olowoyeye Oluwasola Elijah thanks",
+    "date": "2y",
+    "images": [],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid02Xo7j6t4WwCmi8s2NT7xBovfkahxhWQXiaDnUUQQzWz5ZQJDdFbV2KGcJS6fRQDNDl",
+    "minutes": 1
+  },
+  {
+    "id": "5baf38141d76",
+    "title": "Tithing is not a criterion for salvation and eternal rest.",
+    "text": "Tithing is not a criterion for salvation and eternal rest.\nTithing is for our own good and not God's. \nTithing could be done as strictly led by God. The storehouse is the church, the church is not building but saints. Abraham paid to Melchisedech,a Saint higher in authority to him. Always pay to where divine utterances are issued upon you. Where intercessions are always made on your behalf. \nTithing is not an old testament thing, it predates old testament. The principle behind it is relationship with God and administrative care of God's people, not only His servants. \nThe storehouse in old testament was because then tithe wasn't monetised then,as farm products were supplied and must need to be stored. It doesn't mean an individual like Melchizedec can't recieve it. \nThose who disobey Tithing doesn't have a relationship with God either or that they have decided to give all of themselves to God which is better than it.\nThere are better laws than the law of Tithing, but a Christian obeys all and neglect none.\nIf paying Tithe is all about material prosperity or non payment is about punishment from God then those who believed so have missed it. \nGod can't punish anyone who disobey paying, because in the first instance He will see them as not in relationship with Him. How can God punish someone that is not even qualified to pay it? I see no business with any who is not born again paying it.\n That God blesses an unbeliever who pays it is what has put the church into many troubles we are having now. We take delight in collecting Tithe from unbelievers at the detriment of God's expectation and we thus lower the efficacy of God's word in our own mouth. \nAn unbeliever paying Tithe has simply come to steal from us. He will naturally become blessed but his soul will become lean in return. The system of payment has been bastardised.\nTithing is only meant for believers not unbelievers. \nTithing is not a business of give and get. It is only those who love God in a relationship that should do it.\nIf a believer notices the proceed is being mismanaged,God can direct a believer to pay where its going to be well managed. Especially to the work of soul winning and not to frivolous projects and programmes. \nGod bless",
+    "date": "January 12, 2024",
+    "images": [],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid0AqcHxQm5cTPoKDTDni4PUKQzrmVvP4k66UjLw8rBENfAqDMVzRGYudEGMYTncSGyl",
+    "minutes": 2
+  },
+  {
+    "id": "178c4f92be27",
+    "title": "WHY DO CHRISTIANS READ BIBLE UPSIDE DOWN?",
+    "text": "WHY DO CHRISTIANS READ BIBLE UPSIDE DOWN?\nHappy New year friends.\nJust to settle this matter about first fruit and go back to my shell. This year is for more of God and less of other things. \nGod strictly mentioned any produce that comes first, not all set or group of all first produce. God asked or demanded sample and never everything.\nFruits ripe in batches, your first salary is never your first fruit, but your first day worth as a sign or symbol of dedication to God and not even as any gift to God.\nAnd since your salary is a combination of a 31 day income, which comes monthly and first on every first month of year. Your first day income is the first fruit, not all monthly income. God is not looking for a faith that you cannot carry from you. He is looking for your honor to Him, and fellowship with Him.\nStop making doctrine out this,and please know that it is now a free will offering in the new testament, not mandatory. \nWhat is mandatory is the salvation of our soul, as every believer is now a first fruit unto God. James 1:18 - In the exercise of His will He brought us forth by the word of truth, so that we would be a kind of first fruits among His creatures.\nCheck these old testament verses and see the real meaning of first fruit by yourself.\nExodus 34:26\n\"You shall bring the VERY FIRST  of the first fruits of your soil into the house of the LORD your God. \"You shall not boil a young goat in its mother's milk.\"\nNumbers 18:12-13\n\"All the best of the fresh oil and all the best of the fresh wine and of the grain, the first fruits of those which they give to the LORD, I give them to you. \"The FIRST RIPE fruits of all that is in their land, which they bring to the LORD, shall be yours; everyone of your household who is clean may eat it.\nEzekiel 44:30\n\"The FIRST of all the first fruits of every kind and every contribution of every kind, from all your contributions, shall be for the priests; you shall also give to the priest the first of your dough to cause a blessing to rest on your house.\nPlease mark the words in CAPITAL letters and see for yourself the right perspective. Not a whole of the first produce.\nThank you.\nYours\nLatunde Akin",
+    "date": "January 10, 2024",
+    "images": [
+      {
+        "src": "assets/178c4f92be27-0.jpg",
+        "alt": "No photo description available."
+      }
+    ],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid0BEeojB1XVom5B4wL6BgQ866Sj84euiCezS8nS2MU7mk25TezyDfzuzDjywBCx2Tql",
+    "minutes": 2
+  },
+  {
+    "id": "f9727a72371e",
+    "title": "This is nothing but the truth. Nothing can be done against this. Thank you sir for sharing.",
+    "text": "This is nothing but the truth. Nothing can be done against this. Thank you sir for sharing.",
+    "date": "2y",
+    "images": [],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid033howa4GhA61yRBCmR9JwebwqvfXJ1yhSMhcrRSmbjRRZNbQU36QQ8r1Kj8MSn6yGl",
+    "minutes": 1
+  },
+  {
+    "id": "1da37fcc1c72",
+    "title": "Men God sent into your life. Don't drive them away with your attitude. Learn how to recognise a relationship to maintain.",
+    "text": "Men God sent into your life. Don't drive them away with your attitude. Learn how to recognise a relationship to maintain.",
+    "date": "December 14, 2023",
+    "images": [],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid0oZ6bGELXtdrn7ctWueoLdUp4MnwHsMGw5YQywJFUNqudJTvXoJty5zV97KuTtDQEl",
+    "minutes": 1
+  },
+  {
+    "id": "91d2817e562f",
+    "title": "A soldier true.",
+    "text": "A soldier true. \nOthers have enlisted, why not you? \nJesus is the captain, we will never fear.\nWill you be enlisted as a volunteer?",
+    "date": "December 15, 2023",
+    "images": [
+      {
+        "src": "assets/91d2817e562f-0.jpg",
+        "alt": "No photo description available."
+      }
+    ],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid02xDF7vsi76uGiQv5ZLQN1DuaVRyB15gi59VSyCAD7uM5K2VP4C3ARGZY3bZdGrdyvl",
+    "minutes": 1
+  },
+  {
+    "id": "42b5bfba37ba",
+    "title": "Online status indicator",
+    "text": "Online status indicator\nActive\nLatunde Akin updated his status.\nNovember 27, 2023\n \n·\nThis content isn't available right now\nWhen this happens, it's usually because the owner only shared it with a small group of people, changed who can see it or it's been deleted.\n2\n\n\n\n\nComment as Abiodun Emmanuel Gbadamosi",
+    "date": "November 27, 2023",
+    "images": [],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid05dKGMReutFUK5yK4hr76frTr7hx9jjTMPhPp52arnKW7eLD8SAwziAXaSgJCy46Cl",
+    "minutes": 1
+  },
+  {
+    "id": "9b971210ebd6",
+    "title": "Never ignore an opportunity to rise.",
+    "text": "Never ignore an opportunity to rise.",
+    "date": "2y",
+    "images": [],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid0u8o7twNXaZy13PLEwjh9bTXZNMemqNxVokHMzTWFzYCiLqcePUaisVv5RcRP1Z5Fl",
+    "minutes": 1
+  },
+  {
+    "id": "8a714d4861d3",
+    "title": "Lord help us on our knees at all times.",
+    "text": "Lord help us on our knees at all times.",
+    "date": "3y",
+    "images": [],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid02C2JThuEFxu6nV5EoXUvfsMSZPhKmdtTuqjZSrVVjDywUkqvUBskiv26SnATvrmpNl",
+    "minutes": 1
+  },
+  {
+    "id": "b38038519e3a",
+    "title": "1. Never take people for granted, show deep appreciation to those who have helped you. Be firm with discretion not to create an entitlement …",
+    "text": "1. Never take people for granted, show deep appreciation to those who have helped you. Be firm with discretion not to create an entitlement mindset in them but don't be an ingrate. If you use and dump those who helped you along the way, they will work with those who hate you.\n2. Don't out of ignorance turn friends into enemies. If a friend turns against you by himself, fine, but you don't make enemies out of friends. \nAsk the Philistines who left their Egyptian slave to die. David through his kindness found the secret of his enemies from him.",
+    "date": "May 9, 2023",
+    "images": [
+      {
+        "src": "assets/b38038519e3a-0.jpg",
+        "alt": "No photo description available."
+      }
+    ],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid02A78G1augtFMXPVQhcXAHq4UJhif7zQCpsxrNHpeSdv2vDbUeFDy9WAnsnSKUK5Tul",
+    "minutes": 1
+  },
+  {
+    "id": "68ab71f5930b",
+    "title": "Thank you sir nay the almighty God bless you very timely e seun ifami ororo Yan yin Koni gbe",
+    "text": "Thank you sir nay the almighty God bless you very timely e seun ifami ororo Yan yin Koni gbe",
+    "date": "3y",
+    "images": [],
+    "url": "https://web.facebook.com/akin.latunde.2025/posts/pfbid0ShhqX83Qy3FiREymNN7o2fAFqQhNjCvg8qLX2XHBrqg9LrXmwBuATvmUCeCy6wcRl",
+    "minutes": 1
+  }
+];

@@ -1,0 +1,19 @@
+{
+  "name": "latunde-blog",
+  "version": "1.0.0",
+  "description": "Static blog and writings archive for Latunde Akin (Have Compassion on Them Missions)",
+  "type": "module",
+  "scripts": {
+    "prepare": "node prepare.mjs",
+    "serve": "npx serve dist"
+  },
+  "keywords": [
+    "blog",
+    "latunde-akin",
+    "missions",
+    "hctm",
+    "discipleship"
+  ],
+  "author": "Latunde Akin",
+  "license": "ISC"
+}

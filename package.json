@@ -1,0 +1,9 @@
+{
+  "name": "latunde-akin-archive",
+  "version": "1.0.0",
+  "description": "Latunde Akin Blog & Writings Archive — Have Compassion on Them Missions (HCTM)",
+  "private": true,
+  "scripts": {
+    "build": "cd latunde-blog && node prepare.mjs"
+  }
+}

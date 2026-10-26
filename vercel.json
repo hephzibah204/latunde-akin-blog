@@ -1,0 +1,5 @@
+{
+  "outputDirectory": "latunde-blog/dist",
+  "cleanUrls": true,
+  "trailingSlash": false
+}
