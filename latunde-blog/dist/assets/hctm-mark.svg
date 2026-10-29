@@ -1,1 +1,33 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect width="64" height="64" rx="16" fill="#102f4b"/><path d="M21 14v36m22-36v36M21 32h22" stroke="#ebc66e" stroke-width="6"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80" width="80" height="80">
+  <defs>
+    <linearGradient id="hctmBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0c233c"/>
+      <stop offset="50%" stop-color="#102f4b"/>
+      <stop offset="100%" stop-color="#183d5f"/>
+    </linearGradient>
+    <linearGradient id="goldGlow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fdf4d7"/>
+      <stop offset="35%" stop-color="#eec765"/>
+      <stop offset="70%" stop-color="#d4af37"/>
+      <stop offset="100%" stop-color="#aa7c1e"/>
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="2" stdDeviation="3" flood-color="#000000" flood-opacity="0.25"/>
+    </filter>
+  </defs>
+  <!-- Background Badge -->
+  <rect width="80" height="80" rx="20" fill="url(#hctmBg)"/>
+  <!-- Border Accent -->
+  <rect x="1.5" y="1.5" width="77" height="77" rx="18.5" fill="none" stroke="url(#goldGlow)" stroke-width="1.5" stroke-opacity="0.45"/>
+  <!-- Compassion Heart & Radiant Cross -->
+  <g filter="url(#shadow)">
+    <!-- Radiant Halo / Light Beams -->
+    <path d="M40 13v6M40 61v6M16 37h6M58 37h6" stroke="url(#goldGlow)" stroke-width="2.2" stroke-linecap="round" opacity="0.75"/>
+    <path d="M23 20l4.2 4.2M52.8 49.8l4.2 4.2M23 54l4.2-4.2M52.8 24.2l4.2-4.2" stroke="url(#goldGlow)" stroke-width="1.8" stroke-linecap="round" opacity="0.5"/>
+    <!-- Central Cross -->
+    <path d="M40 18v38" stroke="url(#goldGlow)" stroke-width="5" stroke-linecap="round"/>
+    <path d="M26 31h28" stroke="url(#goldGlow)" stroke-width="4.6" stroke-linecap="round"/>
+    <!-- Compassion Embrace Arc (Heart-formed base) -->
+    <path d="M25 43c2.5 12 15 17 15 17s12.5-5 15-17" fill="none" stroke="url(#goldGlow)" stroke-width="3" stroke-linecap="round" opacity="0.9"/>
+  </g>
+</svg>
