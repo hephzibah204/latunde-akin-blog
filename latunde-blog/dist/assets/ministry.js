@@ -158,19 +158,31 @@ dialog?.addEventListener('click', event => {
   container?.addEventListener('focusin', stopAuto);
   container?.addEventListener('focusout', startAuto);
 
+  // Pause carousel when tab is hidden to prevent timer queue burst
+  if (typeof document !== 'undefined' && typeof document.addEventListener === 'function') {
+    document.addEventListener('visibilitychange', () => {
+      if (document.hidden) stopAuto();
+      else startAuto();
+    });
+  }
+
   // Swipe gesture support on touch devices
   let touchStartX = 0;
   container?.addEventListener('touchstart', e => {
-    touchStartX = e.changedTouches[0].screenX;
+    if (e.changedTouches && e.changedTouches[0]) {
+      touchStartX = e.changedTouches[0].screenX;
+    }
   }, { passive: true });
 
   container?.addEventListener('touchend', e => {
-    const touchEndX = e.changedTouches[0].screenX;
-    const diff = touchEndX - touchStartX;
-    if (Math.abs(diff) > 45) {
-      if (diff < 0) advance();
-      else retreat();
-      resetAuto();
+    if (e.changedTouches && e.changedTouches[0]) {
+      const touchEndX = e.changedTouches[0].screenX;
+      const diff = touchEndX - touchStartX;
+      if (Math.abs(diff) > 45) {
+        if (diff < 0) advance();
+        else retreat();
+        resetAuto();
+      }
     }
   }, { passive: true });
 

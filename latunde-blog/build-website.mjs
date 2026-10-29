@@ -84,7 +84,7 @@ const heroCarousel = `<section class="hero">
         </div>
       </div>
       <div class="hero-image">
-        <img src="/assets/field-1.jpeg" alt="People gathered outdoors in a street setting." loading="lazy" width="1280" height="960" decoding="async">
+        <img src="/assets/field-1.jpeg" alt="People gathered outdoors in a street setting." width="1280" height="960" decoding="async">
         <p>Reaching communities where they live and work.</p>
       </div>
     </div>
@@ -101,7 +101,7 @@ const heroCarousel = `<section class="hero">
         </div>
       </div>
       <div class="hero-image">
-        <img src="/assets/field-3.jpeg" alt="An outdoor gathering with a woman speaking into a microphone." loading="lazy" width="1280" height="960" decoding="async">
+        <img src="/assets/field-3.jpeg" alt="An outdoor gathering with a woman speaking into a microphone." width="1280" height="960" decoding="async">
         <p>United intercession for the advancement of the gospel.</p>
       </div>
     </div>
