@@ -355,4 +355,6 @@ await fs.writeFile('import-status.json', JSON.stringify({
 
 console.log(JSON.stringify({ captured: rawPosts.length, complete: posts.length, imageErrors: errors.length }));
 
+await import('./build-website.mjs');
+
 

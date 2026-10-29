@@ -1,0 +1,12 @@
+.writing-thumbnail{display:block;margin-bottom:22px;overflow:hidden;background:var(--mist);border-radius:5px}
+.writing-thumbnail img{display:block;width:100%;height:230px;object-fit:cover;object-position:center 25%}
+.writing:first-child .writing-thumbnail img{object-fit:contain;background:#edf3f6}
+.page-intro.has-photo{padding-top:55px;padding-bottom:55px}
+.has-photo>.wrap{display:grid;grid-template-columns:minmax(0,1.08fr) minmax(0,1fr);gap:55px;align-items:center}
+.has-photo h1{font-size:clamp(3rem,5.6vw,5.3rem)}
+.intro-photo{margin:0;position:relative;overflow:hidden;border-radius:5px}
+.intro-photo img{display:block;width:100%;height:440px;object-fit:cover;object-position:center 35%}
+.intro-photo img[src$="field-3.jpeg"]{object-position:82% center}
+.intro-photo figcaption{position:absolute;bottom:16px;left:16px;background:white;color:var(--navy);padding:7px 12px;font-size:.8rem;border-radius:3px}
+@media(min-width:651px) and (max-width:950px){.has-photo>.wrap{gap:28px}.has-photo h1{font-size:3.2rem}.intro-photo img{height:430px}.writing-thumbnail img{height:180px}}
+@media(max-width:650px){.has-photo>.wrap{grid-template-columns:1fr;gap:25px}.page-intro.has-photo{padding:35px 0}.has-photo h1{font-size:3.6rem}.intro-photo img{height:320px}.writing-thumbnail img{height:250px}}

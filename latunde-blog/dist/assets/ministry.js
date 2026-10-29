@@ -1,0 +1,16 @@
+document.documentElement.classList.add('js');
+const oldPost=location.hash.match(/^#\/post\/([a-f0-9]{12})$/);
+if(oldPost&&(location.pathname==='/'||location.pathname==='/index.html'))location.replace('/p/'+oldPost[1]+'.html');
+const menu=document.querySelector('.menu-toggle');
+menu?.addEventListener('click',()=>{const expanded=menu.getAttribute('aria-expanded')==='true';menu.setAttribute('aria-expanded',String(!expanded));document.querySelector('#site-nav').classList.toggle('is-open',!expanded);});
+document.addEventListener('keydown',event=>{if(event.key==='Escape'&&menu?.getAttribute('aria-expanded')==='true'){menu.setAttribute('aria-expanded','false');document.querySelector('#site-nav').classList.remove('is-open');menu.focus();}});
+document.querySelector('#prayer-form')?.addEventListener('submit',event=>{event.preventDefault();const request=document.querySelector('#prayer-message');if(!request.value.trim()){request.setCustomValidity('Please enter your prayer request.');request.reportValidity();return;}request.setCustomValidity('');const name=document.querySelector('#prayer-name').value.trim();const reply=document.querySelector('#prayer-reply').checked;const text=['Prayer request for HCTM',name?'Name: '+name:'',request.value.trim(),reply?'I would appreciate a reply on WhatsApp.':'No reply needed.'].filter(Boolean).join('\n\n');location.assign('https://wa.me/2348123428989?text='+encodeURIComponent(text));});
+document.querySelector('#prayer-message')?.addEventListener('input',event=>event.target.setCustomValidity(''));
+const submit=document.querySelector('#prayer-submit');
+if(submit)submit.disabled=false;
+const dialog=document.querySelector('#photo-dialog');
+let photoTrigger;
+document.querySelectorAll('.gallery-open').forEach(link=>link.addEventListener('click',event=>{event.preventDefault();photoTrigger=link;document.querySelector('#dialog-image').src=link.href;document.querySelector('#dialog-image').alt=link.dataset.caption;document.querySelector('#dialog-caption').textContent=link.dataset.caption;dialog.showModal();}));
+document.querySelector('#photo-close')?.addEventListener('click',()=>dialog.close());
+dialog?.addEventListener('close',()=>photoTrigger?.focus());
+dialog?.addEventListener('click',event=>{if(event.target===dialog){const box=dialog.getBoundingClientRect();if(event.clientX<box.left||event.clientX>box.right||event.clientY<box.top||event.clientY>box.bottom)dialog.close();}});

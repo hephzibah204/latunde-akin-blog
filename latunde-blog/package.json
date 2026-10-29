@@ -1,10 +1,12 @@
 {
   "name": "latunde-blog",
   "version": "1.0.0",
-  "description": "Static blog and writings archive for Latunde Akin (Have Compassion on Them Missions)",
+  "description": "HCTM ministry website with the Latunde Akin writings archive",
   "type": "module",
   "scripts": {
     "prepare": "node prepare.mjs",
+    "build:site": "node build-website.mjs",
+    "check": "node check-website.mjs",
     "serve": "npx serve dist"
   },
   "keywords": [
