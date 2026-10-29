@@ -19,7 +19,9 @@ const nav = [
   ['/', 'Home'],
   ['/about/', 'About'],
   ['/missions/', 'Missions'],
+  ['/salvation/', 'Receive Jesus'],
   ['/blog/', 'Blog'],
+  ['/scriptures/', 'Scriptures'],
   ['/gallery/', 'Gallery'],
   ['/prayer/', 'Prayer'],
   ['/training/', 'Training'],
@@ -27,18 +29,18 @@ const nav = [
   ['/contact/', 'Contact']
 ];
 
-const scriptureBanner = `<div class="scripture-banner"><div class="wrap"><span class="scripture-verse">“And of some have compassion, making a difference: and others save with fear, pulling them out of the fire.”</span><span class="scripture-ref">JUDE 1:22–23</span></div></div>`;
+const scriptureBanner = `<div class="scripture-banner"><div class="wrap"><span class="scripture-verse">“And of some have compassion, making a difference: and others save with fear, pulling them out of the fire.”</span><span class="scripture-ref">JUDE 1:22–23</span><a href="/salvation/" style="color:var(--gold);font-weight:700;margin-left:10px;text-decoration:underline">Receive Jesus Today →</a></div></div>`;
 
 const header = route => `${scriptureBanner}<a class="skip" href="#main">Skip to content</a><header class="site-header"><div class="header-inner"><a class="brand" href="/" aria-label="HCTM home"><span class="brand-mark"><img src="/assets/hctm-mark.svg" alt="" width="44" height="44"></span><span>Have Compassion<small>on Them Missions</small></span></a><button class="menu-toggle" aria-expanded="false" aria-controls="site-nav">Menu</button><nav id="site-nav" aria-label="Main navigation">${nav.map(([url, label]) => `<a href="${url}" ${route === url ? 'aria-current="page"' : ''}>${label}</a>`).join('')}<a class="nav-cta" href="/prayer-request/">Submit Prayer</a></nav></div></header>`;
 
-const footer = `<footer class="site-footer"><div class="wrap footer-grid"><div><div style="display:flex;align-items:center;gap:12px;margin-bottom:16px"><img src="/assets/hctm-mark.svg" alt="" width="42" height="42" style="border-radius:10px"><h2 style="font-size:1.7rem;margin:0">Have Compassion<br>on Them Missions</h2></div><p>Winning souls for Christ. Restoring grassroots discipleship. Providing faithful prayer and practical succour for missionaries.</p></div><div><h3>Explore</h3><a href="/about/">About HCTM</a><a href="/missions/">Missions &amp; Work</a><a href="/blog/">Blog &amp; Writings Archive</a><a href="/gallery/">Mission Field Gallery</a><a href="/training/">Training &amp; Discipleship</a><a href="/support/">Support Missionaries</a></div><div><h3>Connect &amp; Pray</h3><a href="/prayer-request/">Submit a prayer request</a>${ext(whatsapp, 'WhatsApp prayer group', '')}${ext(telegram, 'Telegram prayer channel', '')}${ext(direct, 'Contact HCTM directly', '')}<a href="/privacy/">Privacy notice</a></div></div><div class="wrap footer-end"><div>© ${new Date().getFullYear()} Have Compassion on Them Missions. All rights reserved.</div><span>“And of some have compassion, making a difference.” — Jude 1:22</span></div></footer>`;
+const footer = `<footer class="site-footer"><div class="wrap footer-grid"><div><div style="display:flex;align-items:center;gap:12px;margin-bottom:16px"><img src="/assets/hctm-mark.svg" alt="" width="42" height="42" style="border-radius:10px"><h2 style="font-size:1.7rem;margin:0">Have Compassion<br>on Them Missions</h2></div><p>Winning souls for Christ. Restoring grassroots discipleship. Providing faithful prayer and practical succour for missionaries.</p></div><div><h3>Explore &amp; Grow</h3><a href="/about/">About HCTM</a><a href="/missions/">Missions &amp; Work</a><a href="/salvation/">Receive Jesus (Salvation Guide)</a><a href="/scriptures/">Topical Scripture Bank</a><a href="/blog/">Blog &amp; Writings Archive</a><a href="/gallery/">Mission Field Gallery</a><a href="/training/">Training &amp; Discipleship</a><a href="/support/">Support Missionaries</a></div><div><h3>Connect &amp; Pray</h3><a href="/prayer-request/">Submit a prayer request</a>${ext(whatsapp, 'WhatsApp prayer group', '')}${ext(telegram, 'Telegram prayer channel', '')}${ext(direct, 'Contact HCTM directly', '')}<a href="/privacy/">Privacy notice</a></div></div><div class="wrap footer-end"><div>© ${new Date().getFullYear()} Have Compassion on Them Missions. All rights reserved.</div><span>“And of some have compassion, making a difference.” — Jude 1:22</span></div></footer>`;
 
 const page = (route, title, description, body) => `<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>${esc(title)} | HCTM</title><meta name="description" content="${esc(description)}"><meta property="og:title" content="${esc(title)} | HCTM"><meta property="og:description" content="${esc(description)}"><meta property="og:type" content="website"><link rel="icon" href="/assets/hctm-mark.svg" type="image/svg+xml"><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@600;700;800&family=Plus+Jakarta+Sans:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400&family=Lora:ital,wght@0,400;0,500;0,600;1,400&display=swap" rel="stylesheet"><link rel="stylesheet" href="/assets/ministry.css"><script src="/assets/ministry.js" defer></script></head><body>${header(route)}<main id="main">${body}</main>${footer}</body></html>`;
 
 const intro = (title, text) => `<section class="page-intro"><div class="wrap"><p class="section-label">Have Compassion on Them Missions</p><h1>${title}</h1><p class="lead">${text}</p></div></section>`;
 const section = (title, text, action = '') => `<section class="wrap section"><div><h2>${title}</h2></div><div class="section-content">${text}${action}</div></section>`;
 
-const mandate = `<div class="mandate"><article><div class="mandate-icon" aria-hidden="true">🌱</div><h3>Restore discipleship</h3><p>Encourage believers to make disciples in their everyday communities and help others grow in their walk with Christ.</p></article><article><div class="mandate-icon" aria-hidden="true">🔥</div><h3>Revive the missionary spirit</h3><p>Awaken a renewed burden for souls through going, praying, and supporting those on the mission field.</p></article><article><div class="mandate-icon" aria-hidden="true">🧭</div><h3>Reach the unreached</h3><p>Bring the gospel to unreached people and places, with practical care for missionaries and suffering saints.</p></article></div>`;
+const mandate = `<div class="mandate"><article><div class="mandate-icon" aria-hidden="true">🌱</div><h3>Restore discipleship</h3><p>Encourage believers to make disciples in their everyday communities and help others grow in their walk with Christ.</p><div style="margin-top:14px"><a href="#" class="verse-trigger" data-verse="Matthew 28:19">Matt 28:19</a></div></article><article><div class="mandate-icon" aria-hidden="true">🔥</div><h3>Revive the missionary spirit</h3><p>Awaken a renewed burden for souls through going, praying, and supporting those on the mission field.</p><div style="margin-top:14px"><a href="#" class="verse-trigger" data-verse="Acts 1:8">Acts 1:8</a></div></article><article><div class="mandate-icon" aria-hidden="true">🧭</div><h3>Reach the unreached</h3><p>Bring the gospel to unreached people and places, with practical care for missionaries and suffering saints.</p><div style="margin-top:14px"><a href="#" class="verse-trigger" data-verse="Luke 19:10">Luke 19:10</a></div></article></div>`;
 
 const community = `<div class="community-grid"><article><h3>WhatsApp prayer group</h3><p>Stand with the Have Compassion intercessory prayer community in prayer for souls and missionaries.</p>${ext(whatsapp, 'Join on WhatsApp')}</article><article><h3>Telegram prayer channel</h3><p>Connect with the ministry’s prayer channel and take part in our shared commitment to intercession.</p>${ext(telegram, 'Join on Telegram')}</article></div>`;
 
@@ -61,7 +63,7 @@ const heroCarousel = `<section class="hero">
         <p>Restoring grassroots discipleship, sharing the gospel of Jesus Christ, and supporting faithful missionaries on the field.</p>
         <div class="actions">
           ${button('/missions/', 'Discover our mission')}
-          ${button('/prayer-request/', 'Share a prayer request', true)}
+          ${button('/salvation/', 'Receive Jesus Today', true)}
         </div>
       </div>
       <div class="hero-image">
@@ -119,6 +121,16 @@ const heroCarousel = `<section class="hero">
   </div>
 </section>`;
 
+const dailyMannaWidget = `<div class="daily-manna-card">
+  <div class="manna-badge">📖 Daily Manna for the Harvest</div>
+  <p id="manna-verse-text" class="manna-verse">“The harvest truly is plenteous, but the labourers are few; Pray ye therefore the Lord of the harvest, that he will send forth labourers into his harvest.”</p>
+  <p id="manna-verse-ref" class="manna-ref">MATTHEW 9:37–38 (KJV)</p>
+  <div class="actions" style="margin-top:0">
+    <button id="daily-manna-share" class="button btn-sm">📲 Share to WhatsApp Status</button>
+    <a href="/scriptures/" class="button secondary btn-sm" style="color:white;border-color:rgba(255,255,255,0.4)">Explore Scripture Bank →</a>
+  </div>
+</div>`;
+
 const pages = new Map();
 
 pages.set('/', page(
@@ -133,9 +145,11 @@ pages.set('/', page(
     </div>
     <div>
       <p>Have Compassion on Them Missions brings together believers with a shared burden to reach others for Christ. Some go into unreached fields. Some intercede in marathon prayer. Some provide food, shelter, and financial care. Together, we serve our Lord Jesus Christ.</p>
+      <p style="margin-top:14px;font-weight:600"><a href="/salvation/" style="color:var(--navy);text-decoration:underline">Do you know Jesus Christ as your Savior? Learn how to receive Him today →</a></p>
     </div>
   </section>
   <section class="wrap section-block">
+    ${dailyMannaWidget}
     <div style="text-align:center;max-width:680px;margin:0 auto 40px">
       <p class="section-label" style="justify-content:center">Our Calling</p>
       <h2 style="margin-bottom:12px">Our Mandate</h2>
@@ -205,12 +219,211 @@ pages.set('/missions/', page(
   section('Care for those who go', '<p>Missionaries need faithful prayer, food, shelter, and financial support as they serve. We invite believers who share this burden to discuss current needs with the ministry.</p>', `<div class="actions">${button('/support/', 'Support missionaries')}${button('/prayer/', 'Pray for the work', true)}</div>`)
 ));
 
+// SALVATION & GOSPEL GUIDE PAGE
+pages.set('/salvation/', page(
+  '/salvation/',
+  'Receive Jesus | Gospel Salvation Guide',
+  'How to be saved, receive forgiveness through Jesus Christ, and begin your discipleship walk.',
+  intro('Receive Jesus Christ.<br>A New Beginning.', 'Salvation is the free gift of God through Jesus Christ. Learn the message of the cross, repent, and start your discipleship journey today.') +
+  `<section class="wrap section-block">
+    <div class="salvation-step">
+      <div class="step-num">1</div>
+      <h3>God Loves You and Has a Divine Purpose</h3>
+      <p>God did not create you for defeat, sin, or eternal condemnation. He created you to know Him and enjoy holy fellowship with Him. His love is eternal, pure, and demonstrated through Jesus.</p>
+      <p><a href="#" class="verse-trigger" data-verse="John 3:16">John 3:16</a> — <em>“For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life.”</em></p>
+    </div>
+
+    <div class="salvation-step">
+      <div class="step-num">2</div>
+      <h3>The Reality of Sin &amp; Separation from God</h3>
+      <p>Every person has sinned and fallen short of God’s glory. Sin breaks our relationship with a holy God and produces spiritual death. No amount of good deeds can wash away our sins.</p>
+      <p><a href="#" class="verse-trigger" data-verse="Romans 3:23">Romans 3:23</a> — <em>“For all have sinned, and come short of the glory of God;”</em> and <a href="#" class="verse-trigger" data-verse="Romans 6:23">Romans 6:23</a> — <em>“For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord.”</em></p>
+    </div>
+
+    <div class="salvation-step">
+      <div class="step-num">3</div>
+      <h3>Jesus Christ Died for You and Rose Again</h3>
+      <p>Because God loved us, He sent His Son Jesus Christ to take our punishment upon Himself on the cross of Calvary. On the third day, He rose again from the dead, conquering sin and death!</p>
+      <p><a href="#" class="verse-trigger" data-verse="Romans 5:8">Romans 5:8</a> — <em>“But God commendeth his love toward us, in that, while we were yet sinners, Christ died for us.”</em></p>
+    </div>
+
+    <div class="salvation-step">
+      <div class="step-num">4</div>
+      <h3>Repentance, Faith, and Confession</h3>
+      <p>To receive this salvation, you must turn from sin in genuine repentance and surrender your life to Jesus Christ as your personal Lord and Savior.</p>
+      <p><a href="#" class="verse-trigger" data-verse="Romans 10:9-10">Romans 10:9–10</a> — <em>“That if thou shalt confess with thy mouth the Lord Jesus, and shalt believe in thine heart that God hath raised him from the dead, thou shalt be saved.”</em></p>
+    </div>
+
+    <div class="sinner-prayer-box">
+      <span class="bible-tag" style="background:rgba(212,175,55,0.25);color:var(--gold)">THE PRAYER OF SURRENDER</span>
+      <h2>Pray This Prayer Sincerely</h2>
+      <p>If you desire to surrender your life to Jesus Christ today, pray this prayer out loud from the depth of your heart:</p>
+      <p class="lead-prayer">“Lord Jesus Christ, I come to You today recognizing that I am a sinner. I cannot save myself. I believe that You died on the cross for my sins and rose again from the dead. Today, I turn away from all sin and surrender my life to You. Wash me clean with Your precious blood. Come into my heart, be my Savior, and be the Lord of my life. Fill me with Your Holy Spirit and grant me the grace to follow You all the days of my life. Thank You Lord for saving me. In Jesus’ name, Amen!”</p>
+      <div class="salvation-decision-actions">
+        <a class="button" href="https://wa.me/2348123428989?text=${encodeURIComponent('Praise God! I surrendered my life to Jesus Christ today through the HCTM website! I need prayers and discipleship guidance.')}" target="_blank" rel="noopener noreferrer">🎉 I Gave My Life to Jesus Today!</a>
+        <a class="button secondary" style="color:white;border-color:rgba(255,255,255,0.4)" href="https://wa.me/2348123428989?text=${encodeURIComponent('Hello HCTM, I prayed to rededicate my life to Jesus Christ today. Please stand with me in prayer.')}" target="_blank" rel="noopener noreferrer">I Rededicated My Life</a>
+      </div>
+    </div>
+
+    <div class="salvation-step" style="border-top:3px solid var(--navy)">
+      <h3>Next Steps for Your New Life in Christ</h3>
+      <p>When you give your life to Jesus, you become a brand-new creation (<a href="#" class="verse-trigger" data-verse="2 Corinthians 5:17">2 Cor 5:17</a>). Here are vital steps to grow:</p>
+      <ul style="padding-left:20px;color:var(--ink-light);line-height:1.8">
+        <li><strong>Pray Daily:</strong> Speak with God every day in prayer as your heavenly Father (<a href="#" class="verse-trigger" data-verse="1 Thessalonians 5:17">1 Thess 5:17</a>).</li>
+        <li><strong>Read God’s Word:</strong> Start reading the New Testament (begin with the Gospel of John).</li>
+        <li><strong>Christian Fellowship:</strong> Find a true Bible-believing, Christ-centered church fellowship.</li>
+        <li><strong>Get Discipled:</strong> Contact HCTM on WhatsApp so we can pray with you and send discipleship materials.</li>
+      </ul>
+      <div class="actions" style="margin-top:20px">
+        ${button('/training/', 'Discipleship & Training')}
+        ${button('/contact/', 'Message HCTM Discipleship', true)}
+      </div>
+    </div>
+  </section>`
+));
+
+// TOPICAL SCRIPTURE BANK PAGE
+pages.set('/scriptures/', page(
+  '/scriptures/',
+  'Scriptures for Soul Winning, Prayer & Warfare',
+  'A biblical treasury of scriptures for soul winning, midnight intercession, spiritual warfare, and missionary care.',
+  intro('Scriptures for the Harvest.<br>Sword of the Spirit.', 'A topical treasury of foundational scriptures for evangelism, marathon intercession, spiritual warfare, and missionary succour. Click any verse to preview, copy, or share.') +
+  `<section class="wrap section-block">
+    <div class="scripture-card-grid">
+      <!-- Harvest & Soul Winning -->
+      <article class="scripture-card">
+        <span class="scripture-card-category">🌾 Soul Winning &amp; The Harvest</span>
+        <p class="verse-text">“The fruit of the righteous is a tree of life; and he that winneth souls is wise.”</p>
+        <div class="verse-ref"><a href="#" class="verse-trigger" data-verse="Proverbs 11:30">Proverbs 11:30 (KJV)</a></div>
+        <div class="card-actions">
+          <a href="#" class="button secondary btn-sm verse-trigger" data-verse="Proverbs 11:30">Preview &amp; Share</a>
+        </div>
+      </article>
+
+      <article class="scripture-card">
+        <span class="scripture-card-category">🌾 Soul Winning &amp; The Harvest</span>
+        <p class="verse-text">“Go ye therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost:”</p>
+        <div class="verse-ref"><a href="#" class="verse-trigger" data-verse="Matthew 28:19">Matthew 28:19 (KJV)</a></div>
+        <div class="card-actions">
+          <a href="#" class="button secondary btn-sm verse-trigger" data-verse="Matthew 28:19">Preview &amp; Share</a>
+        </div>
+      </article>
+
+      <article class="scripture-card">
+        <span class="scripture-card-category">🌾 Soul Winning &amp; The Harvest</span>
+        <p class="verse-text">“For the Son of man is come to seek and to save that which was lost.”</p>
+        <div class="verse-ref"><a href="#" class="verse-trigger" data-verse="Luke 19:10">Luke 19:10 (KJV)</a></div>
+        <div class="card-actions">
+          <a href="#" class="button secondary btn-sm verse-trigger" data-verse="Luke 19:10">Preview &amp; Share</a>
+        </div>
+      </article>
+
+      <!-- Prayer & Intercession -->
+      <article class="scripture-card">
+        <span class="scripture-card-category">⚔️ Intercession &amp; Marathon Prayer</span>
+        <p class="verse-text">“Pray without ceasing.”</p>
+        <div class="verse-ref"><a href="#" class="verse-trigger" data-verse="1 Thessalonians 5:17">1 Thessalonians 5:17 (KJV)</a></div>
+        <div class="card-actions">
+          <a href="#" class="button secondary btn-sm verse-trigger" data-verse="1 Thessalonians 5:17">Preview &amp; Share</a>
+        </div>
+      </article>
+
+      <article class="scripture-card">
+        <span class="scripture-card-category">⚔️ Intercession &amp; Marathon Prayer</span>
+        <p class="verse-text">“The effectual fervent prayer of a righteous man availeth much.”</p>
+        <div class="verse-ref"><a href="#" class="verse-trigger" data-verse="James 5:16">James 5:16 (KJV)</a></div>
+        <div class="card-actions">
+          <a href="#" class="button secondary btn-sm verse-trigger" data-verse="James 5:16">Preview &amp; Share</a>
+        </div>
+      </article>
+
+      <!-- Spiritual Warfare -->
+      <article class="scripture-card">
+        <span class="scripture-card-category">🛡️ Spiritual Warfare &amp; Victory</span>
+        <p class="verse-text">“Put on the whole armour of God, that ye may be able to stand against the wiles of the devil. For we wrestle not against flesh and blood...”</p>
+        <div class="verse-ref"><a href="#" class="verse-trigger" data-verse="Ephesians 6:10-12">Ephesians 6:10–12 (KJV)</a></div>
+        <div class="card-actions">
+          <a href="#" class="button secondary btn-sm verse-trigger" data-verse="Ephesians 6:10-12">Preview &amp; Share</a>
+        </div>
+      </article>
+
+      <!-- Brokenness & Surrender -->
+      <article class="scripture-card">
+        <span class="scripture-card-category">🤍 Brokenness &amp; Discipleship</span>
+        <p class="verse-text">“I am crucified with Christ: nevertheless I live; yet not I, but Christ liveth in me: and the life which I now live in the flesh I live by the faith of the Son of God, who loved me, and gave himself for me.”</p>
+        <div class="verse-ref"><a href="#" class="verse-trigger" data-verse="Galatians 2:20">Galatians 2:20 (KJV)</a></div>
+        <div class="card-actions">
+          <a href="#" class="button secondary btn-sm verse-trigger" data-verse="Galatians 2:20">Preview &amp; Share</a>
+        </div>
+      </article>
+
+      <!-- Missionary Care -->
+      <article class="scripture-card">
+        <span class="scripture-card-category">🤝 Caring for Missionaries &amp; Saints</span>
+        <p class="verse-text">“We therefore ought to receive such, that we might be fellowhelpers to the truth.”</p>
+        <div class="verse-ref"><a href="#" class="verse-trigger" data-verse="3 John 1:8">3 John 1:8 (KJV)</a></div>
+        <div class="card-actions">
+          <a href="#" class="button secondary btn-sm verse-trigger" data-verse="3 John 1:8">Preview &amp; Share</a>
+        </div>
+      </article>
+    </div>
+  </section>`
+));
+
 pages.set('/prayer/', page(
   '/prayer/',
   'Prayer and intercession',
   'Join the HCTM prayer community on WhatsApp and Telegram.',
   intro('Stand with us<br>in prayer.', 'We intercede for souls, missionaries, suffering saints, and communities waiting to hear the gospel. Join us in faithful, committed prayer.') +
-  `<section class="wrap section-block"><h2>Join our prayer community</h2>${community}</section>` +
+  `<section class="wrap section-block">
+    <div style="text-align:center;max-width:680px;margin:0 auto 35px">
+      <p class="section-label" style="justify-content:center">Intercession Watch</p>
+      <h2>Community Prayer Wall</h2>
+      <p>Stand in agreement with our global intercessors. Tap below to register your prayer commitment for each field burden.</p>
+    </div>
+    <div class="prayer-wall-grid">
+      <div class="prayer-item-card">
+        <span class="prayer-item-tag">Frontline Missions</span>
+        <h3>Unreached Tribes &amp; Hostile Territories</h3>
+        <p>Praying for divine protection, open doors, and receptive hearts in regions where the gospel has never been preached or faces severe persecution.</p>
+        <button class="prayer-stand-btn" data-prayer-id="unreached">
+          <span class="prayer-btn-label">🙏 I Stood in Prayer</span>
+          <span class="prayer-count-badge"><span class="prayer-count">48</span> intercessors</span>
+        </button>
+      </div>
+
+      <div class="prayer-item-card">
+        <span class="prayer-item-tag">Missionary Succour</span>
+        <h3>Sustenance &amp; Health for Laborers</h3>
+        <p>Interceding for field missionaries and their families facing hunger, sickness, and financial distress. That God supplies every need.</p>
+        <button class="prayer-stand-btn" data-prayer-id="sustenance">
+          <span class="prayer-btn-label">🙏 I Stood in Prayer</span>
+          <span class="prayer-count-badge"><span class="prayer-count">36</span> intercessors</span>
+        </button>
+      </div>
+
+      <div class="prayer-item-card">
+        <span class="prayer-item-tag">Revival &amp; Discipleship</span>
+        <h3>Awakening the Burden for Souls</h3>
+        <p>Breaking lukewarmness and religious complacency. Praying for young believers to catch the fire of evangelism and personal discipleship.</p>
+        <button class="prayer-stand-btn" data-prayer-id="revival">
+          <span class="prayer-btn-label">🙏 I Stood in Prayer</span>
+          <span class="prayer-count-badge"><span class="prayer-count">52</span> intercessors</span>
+        </button>
+      </div>
+
+      <div class="prayer-item-card">
+        <span class="prayer-item-tag">Souls &amp; Deliverance</span>
+        <h3>Backsliders &amp; Bound Souls to be Rescued</h3>
+        <p>Fervent prayer pulling souls out of demonic bondage, moral collapse, and spiritual blindness into the marvelous light of Christ.</p>
+        <button class="prayer-stand-btn" data-prayer-id="deliverance">
+          <span class="prayer-btn-label">🙏 I Stood in Prayer</span>
+          <span class="prayer-count-badge"><span class="prayer-count">61</span> intercessors</span>
+        </button>
+      </div>
+    </div>
+  </section>
+  <section class="wrap section-block"><h2>Join our prayer community</h2>${community}</section>` +
   section('Prayer for your own needs', '<p>If you would like the ministry to pray with you, share your request directly. Joining a community group is optional.</p>', button('/prayer-request/', 'Submit a prayer request'))
 ));
 
@@ -299,6 +512,8 @@ pages.set('/privacy/', page(
 const pagePhotos = new Map([
   ['/about/', 1],
   ['/missions/', 3],
+  ['/salvation/', 2],
+  ['/scriptures/', 1],
   ['/prayer/', 1],
   ['/prayer-request/', 2],
   ['/training/', 3],
@@ -309,6 +524,7 @@ const pagePhotos = new Map([
 
 for (const [route, n] of pagePhotos) {
   let html = pages.get(route);
+  if (!html) continue;
   html = html.replace('<section class="page-intro"><div class="wrap">', '<section class="page-intro has-photo"><div class="wrap"><div class="intro-copy">');
   const src = n === 2 ? '/assets/hero-enhanced.png' : `/assets/field-${n}.jpeg`;
   html = html.replace('</p></div></section>', `</p></div><figure class="intro-photo"><img src="${src}" alt="${captions[n - 1]}" width="1280" height="960" decoding="async"><figcaption>Shared from the field</figcaption></figure></div></section>`);
@@ -350,7 +566,8 @@ const blogReturnBar = `<div class="ministry-return" style="padding:10px 5%;backg
   </div>
   <div style="display:flex;align-items:center;gap:18px">
     <a href="/" style="color:#ffffff;text-decoration:none;font-weight:600">← Back to HCTM Home</a>
-    <a href="/missions/" style="color:#d1dde6;text-decoration:none">Our Mission</a>
+    <a href="/salvation/" style="color:#eec765;text-decoration:none;font-weight:700">Receive Jesus</a>
+    <a href="/scriptures/" style="color:#d1dde6;text-decoration:none">Scripture Bank</a>
     <a href="/prayer-request/" style="color:#d4af37;text-decoration:none;font-weight:600">Submit Prayer Request</a>
     <a href="/gallery/" style="color:#d1dde6;text-decoration:none">Field Gallery</a>
   </div>
@@ -367,7 +584,13 @@ await fs.writeFile(path.join(dist, 'blog/index.html'), blog);
 for (const p of posts) {
   const file = path.join(dist, 'p', `${p.id}.html`);
   const original = await fs.readFile(file, 'utf8');
-  const html = original.replaceAll('src="assets/', 'src="../assets/').replace(/href="\.\.\/index\.html#\/post\/[^\"]+"/g, 'href="../blog/"');
+  let html = original.replaceAll('src="assets/', 'src="../assets/').replace(/href="\.\.\/index\.html#\/post\/[^\"]+"/g, 'href="../blog/"');
+  if (!html.includes('btn-print-tract')) {
+    html = html.replace('class="btn-share" style="color:#1877F2;">', 'class="btn-share" style="color:#1877F2;">\n            <i class="fa-brands fa-facebook"></i> Facebook\n          </a>\n          <button type="button" class="btn-share btn-print-tract" style="cursor:pointer;border:none">\n            <i class="fa-solid fa-print"></i> Print Tract\n          </button>\n          <a href="/salvation/" class="btn-share" style="color:#d4af37">\n            <i class="fa-solid fa-cross"></i> Receive Jesus\n          ');
+  }
+  if (!html.includes('/assets/ministry.js')) {
+    html = html.replace('</body>', '<script src="../assets/ministry.js" defer></script></body>');
+  }
   if (html !== original) await fs.writeFile(file, html);
 }
 

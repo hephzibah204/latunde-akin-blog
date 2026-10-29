@@ -1264,3 +1264,460 @@ dialog img {
     animation: none !important;
   }
 }
+
+
+/* =========================================================
+   GOSPEL & BIBLE TOOLS STYLING
+   ========================================================= */
+
+/* Scripture Trigger Links */
+.verse-trigger {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  background: var(--gold-subtle);
+  color: #8c6812;
+  font-weight: 700;
+  font-size: 0.9em;
+  padding: 2px 8px;
+  border-radius: 4px;
+  border: 1px solid rgba(212, 175, 55, 0.4);
+  text-decoration: none;
+  cursor: pointer;
+  transition: var(--transition);
+}
+
+.verse-trigger::before {
+  content: "📖";
+  font-size: 0.85em;
+}
+
+.verse-trigger:hover {
+  background: var(--gold-light);
+  color: var(--navy-deep);
+  transform: translateY(-1px);
+  box-shadow: 0 2px 6px rgba(212, 175, 55, 0.3);
+}
+
+/* Bible Verse Popup Modal */
+.bible-modal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 2000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.25s ease, visibility 0.25s ease;
+}
+
+.bible-modal.is-open {
+  opacity: 1;
+  visibility: visible;
+}
+
+.bible-modal-backdrop {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(8, 24, 38, 0.85);
+  backdrop-filter: blur(6px);
+}
+
+.bible-modal-card {
+  position: relative;
+  z-index: 2001;
+  background: var(--white);
+  border-radius: var(--radius-md);
+  border: 2px solid var(--gold);
+  box-shadow: var(--shadow-lg), 0 0 35px rgba(212, 175, 55, 0.25);
+  max-width: 600px;
+  width: 100%;
+  padding: 36px 32px;
+  transform: scale(0.96) translateY(8px);
+  transition: transform 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.bible-modal.is-open .bible-modal-card {
+  transform: scale(1) translateY(0);
+}
+
+.bible-modal-close {
+  position: absolute;
+  top: 18px;
+  right: 18px;
+  background: var(--mist);
+  border: 1px solid var(--line);
+  color: var(--navy);
+  font-size: 1.1rem;
+  width: 34px;
+  height: 34px;
+  border-radius: 50%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: var(--transition);
+}
+
+.bible-modal-close:hover {
+  background: var(--navy);
+  color: var(--white);
+}
+
+.bible-tag {
+  display: inline-block;
+  font-family: var(--font-ui);
+  font-size: 0.76rem;
+  font-weight: 800;
+  letter-spacing: 0.12em;
+  color: var(--gold-hover);
+  background: var(--gold-subtle);
+  padding: 4px 10px;
+  border-radius: 4px;
+  border: 1px solid rgba(212, 175, 55, 0.4);
+  margin-bottom: 12px;
+}
+
+.bible-ref {
+  font-family: var(--font-heading);
+  font-size: 1.7rem;
+  color: var(--navy);
+  margin-bottom: 0;
+}
+
+.bible-modal-body {
+  margin: 20px 0 28px;
+  background: var(--mist);
+  padding: 22px;
+  border-radius: var(--radius-sm);
+  border-left: 4px solid var(--gold);
+}
+
+.bible-text {
+  font-family: var(--font-heading);
+  font-size: 1.25rem;
+  line-height: 1.7;
+  color: var(--navy-deep);
+  font-style: italic;
+  margin: 0;
+}
+
+.bible-modal-footer {
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+.btn-sm {
+  min-height: 40px !important;
+  padding: 8px 16px !important;
+  font-size: 0.88rem !important;
+}
+
+/* Daily Manna Card */
+.daily-manna-card {
+  background: linear-gradient(135deg, #091a2b 0%, #102f4b 100%);
+  color: var(--white);
+  border-radius: var(--radius-md);
+  padding: 34px;
+  border: 1px solid rgba(212, 175, 55, 0.35);
+  box-shadow: var(--shadow-md);
+  margin-bottom: 45px;
+  position: relative;
+  overflow: hidden;
+}
+
+.daily-manna-card::before {
+  content: "📖";
+  position: absolute;
+  right: -15px;
+  bottom: -20px;
+  font-size: 8rem;
+  opacity: 0.06;
+  pointer-events: none;
+}
+
+.manna-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 0.8rem;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--gold);
+  margin-bottom: 14px;
+}
+
+.manna-verse {
+  font-family: var(--font-heading);
+  font-style: italic;
+  font-size: 1.35rem;
+  line-height: 1.6;
+  color: #f7fafc;
+  margin-bottom: 12px;
+}
+
+.manna-ref {
+  font-family: var(--font-accent);
+  font-weight: 700;
+  color: var(--gold-light);
+  font-size: 0.95rem;
+  margin-bottom: 22px;
+}
+
+/* Salvation Page & Steps */
+.salvation-step {
+  background: var(--white);
+  border: 1px solid var(--line);
+  border-radius: var(--radius-md);
+  padding: 35px 30px;
+  box-shadow: var(--shadow-sm);
+  margin-bottom: 28px;
+  position: relative;
+  transition: var(--transition);
+}
+
+.salvation-step:hover {
+  transform: translateY(-3px);
+  border-color: var(--gold);
+  box-shadow: var(--shadow-md);
+}
+
+.step-num {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  background: var(--navy);
+  color: var(--gold);
+  font-weight: 800;
+  font-size: 1rem;
+  margin-bottom: 14px;
+}
+
+.sinner-prayer-box {
+  background: linear-gradient(135deg, #091a2b 0%, #153c61 100%);
+  color: var(--white);
+  border-radius: var(--radius-md);
+  padding: 45px 36px;
+  border: 2px solid var(--gold);
+  box-shadow: var(--shadow-lg), 0 0 25px rgba(212, 175, 55, 0.2);
+  margin: 45px 0;
+  text-align: center;
+}
+
+.sinner-prayer-box h2 {
+  color: var(--gold);
+  font-size: clamp(1.8rem, 3.5vw, 2.5rem);
+  margin-bottom: 16px;
+}
+
+.sinner-prayer-box p.lead-prayer {
+  font-family: var(--font-heading);
+  font-size: 1.25rem;
+  font-style: italic;
+  line-height: 1.8;
+  color: #fdfaf3;
+  max-width: 58ch;
+  margin: 20px auto 30px;
+  background: rgba(0, 0, 0, 0.25);
+  padding: 24px;
+  border-radius: var(--radius-sm);
+  border: 1px dashed rgba(212, 175, 55, 0.4);
+}
+
+.salvation-decision-actions {
+  display: flex;
+  justify-content: center;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+
+/* Topical Scripture Bank */
+.scripture-card-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 30px;
+  margin: 35px 0;
+}
+
+.scripture-card {
+  background: var(--white);
+  border: 1px solid var(--line);
+  border-radius: var(--radius-md);
+  padding: 32px 28px;
+  box-shadow: var(--shadow-sm);
+  display: flex;
+  flex-direction: column;
+  transition: var(--transition);
+}
+
+.scripture-card:hover {
+  transform: translateY(-4px);
+  box-shadow: var(--shadow-md);
+  border-color: var(--navy);
+}
+
+.scripture-card-category {
+  font-size: 0.78rem;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--gold-hover);
+  margin-bottom: 10px;
+}
+
+.scripture-card p.verse-text {
+  font-family: var(--font-heading);
+  font-size: 1.18rem;
+  font-style: italic;
+  line-height: 1.7;
+  color: var(--ink);
+  margin-bottom: 14px;
+  flex-grow: 1;
+}
+
+.scripture-card .verse-ref {
+  font-weight: 700;
+  font-size: 1rem;
+  color: var(--navy);
+  margin-bottom: 20px;
+}
+
+.scripture-card .card-actions {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+/* Prayer Wall */
+.prayer-wall-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 28px;
+  margin-top: 35px;
+}
+
+.prayer-item-card {
+  background: var(--white);
+  border: 1px solid var(--line);
+  border-radius: var(--radius-md);
+  padding: 32px 28px;
+  box-shadow: var(--shadow-sm);
+  display: flex;
+  flex-direction: column;
+  transition: var(--transition);
+}
+
+.prayer-item-card:hover {
+  transform: translateY(-3px);
+  border-color: var(--gold-light);
+  box-shadow: var(--shadow-md);
+}
+
+.prayer-item-tag {
+  font-size: 0.78rem;
+  font-weight: 800;
+  text-transform: uppercase;
+  color: var(--blue);
+  margin-bottom: 10px;
+}
+
+.prayer-item-card h3 {
+  font-size: 1.25rem;
+  margin-bottom: 12px;
+}
+
+.prayer-item-card p {
+  color: var(--muted);
+  font-size: 0.98rem;
+  line-height: 1.65;
+  margin-bottom: 24px;
+  flex-grow: 1;
+}
+
+.prayer-stand-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  background: var(--mist);
+  color: var(--navy);
+  font-weight: 700;
+  font-size: 0.9rem;
+  border: 1px solid var(--line);
+  padding: 10px 18px;
+  border-radius: var(--radius-sm);
+  cursor: pointer;
+  transition: var(--transition);
+}
+
+.prayer-stand-btn:hover {
+  background: var(--gold-subtle);
+  border-color: var(--gold);
+  color: var(--navy-deep);
+}
+
+.prayer-stand-btn.has-prayed {
+  background: #e6f4ea;
+  border-color: #34a853;
+  color: #137333;
+  cursor: default;
+}
+
+.prayer-count-badge {
+  background: var(--navy);
+  color: var(--gold);
+  font-size: 0.78rem;
+  padding: 2px 8px;
+  border-radius: 12px;
+}
+
+.prayer-stand-btn.has-prayed .prayer-count-badge {
+  background: #137333;
+  color: var(--white);
+}
+
+/* Print Tract Styling */
+@media print {
+  .site-header, .site-footer, .scripture-banner, .menu-toggle, .carousel-nav, .actions, .ministry-return, .button {
+    display: none !important;
+  }
+  body {
+    background: white !important;
+    color: black !important;
+    font-size: 11pt !important;
+  }
+  .wrap {
+    width: 100% !important;
+    margin: 0 !important;
+  }
+  h1 {
+    font-size: 20pt !important;
+    margin-bottom: 12pt !important;
+  }
+  h2 {
+    font-size: 16pt !important;
+  }
+  .prose {
+    column-count: 2 !important;
+    column-gap: 20pt !important;
+  }
+}
+
+@media (max-width: 850px) {
+  .scripture-card-grid, .prayer-wall-grid {
+    grid-template-columns: 1fr;
+  }
+}
