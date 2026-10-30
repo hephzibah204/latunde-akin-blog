@@ -8,9 +8,62 @@ const read = p => fs.readFile(path.join(root, p), 'utf8');
 const posts = JSON.parse(await read('dist/posts.json'));
 const esc = s => String(s).replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
 
+let settings = {
+  dailyManna: {
+    text: "The harvest truly is plenteous, but the labourers are few; Pray ye therefore the Lord of the harvest, that he will send forth labourers into his harvest.",
+    reference: "MATTHEW 9:37–38 (KJV)"
+  },
+  training: {
+    title: "Acts of Missions and Soul Winning",
+    subtitle: "Responsibility of Every Believer",
+    dates: "Dates to be announced. Contact the ministry to express interest and ask about future training announcements."
+  },
+  contact: {
+    whatsappPhone: "08123428989",
+    internationalPhone: "+234 812 342 8989",
+    whatsappGroup: "https://chat.whatsapp.com/F4q1FiipYcBLehgBybfbpV?s=cl&p=a&mlu=4&ilr=4",
+    telegramChannel: "https://t.me/+cIApZQv8UH43OGJk"
+  },
+  prayerBurdens: [
+    {
+      id: "unreached",
+      tag: "Frontline Missions",
+      title: "Unreached Tribes & Hostile Territories",
+      description: "Praying for divine protection, open doors, and receptive hearts in regions where the gospel has never been preached or faces severe persecution.",
+      baseCount: 48
+    },
+    {
+      id: "sustenance",
+      tag: "Missionary Succour",
+      title: "Sustenance & Health for Laborers",
+      description: "Interceding for field missionaries and their families facing hunger, sickness, and financial distress. That God supplies every need.",
+      baseCount: 36
+    },
+    {
+      id: "revival",
+      tag: "Revival & Discipleship",
+      title: "Awakening the Burden for Souls",
+      description: "Breaking lukewarmness and religious complacency. Praying for young believers to catch the fire of evangelism and personal discipleship.",
+      baseCount: 52
+    },
+    {
+      id: "deliverance",
+      tag: "Souls & Deliverance",
+      title: "Backsliders & Bound Souls to be Rescued",
+      description: "Fervent prayer pulling souls out of demonic bondage, moral collapse, and spiritual blindness into the marvelous light of Christ.",
+      baseCount: 61
+    }
+  ]
+};
+
+try {
+  const content = await read('content-settings.json');
+  settings = { ...settings, ...JSON.parse(content) };
+} catch {}
+
 const direct = 'https://wa.me/2348123428989';
-const whatsapp = 'https://chat.whatsapp.com/F4q1FiipYcBLehgBybfbpV?s=cl&p=a&mlu=4&ilr=4';
-const telegram = 'https://t.me/+cIApZQv8UH43OGJk';
+const whatsapp = settings.contact?.whatsappGroup || 'https://chat.whatsapp.com/F4q1FiipYcBLehgBybfbpV?s=cl&p=a&mlu=4&ilr=4';
+const telegram = settings.contact?.telegramChannel || 'https://t.me/+cIApZQv8UH43OGJk';
 
 const ext = (url, label, cls = 'button') => `<a class="${cls}" href="${esc(url)}" target="_blank" rel="noopener noreferrer">${label}<span class="sr-only"> (opens in a new tab)</span></a>`;
 const button = (url, label, secondary = false) => `<a class="button${secondary ? ' secondary' : ''}" href="${url}">${label}</a>`;
@@ -123,8 +176,8 @@ const heroCarousel = `<section class="hero">
 
 const dailyMannaWidget = `<div class="daily-manna-card">
   <div class="manna-badge">📖 Daily Manna for the Harvest</div>
-  <p id="manna-verse-text" class="manna-verse">“The harvest truly is plenteous, but the labourers are few; Pray ye therefore the Lord of the harvest, that he will send forth labourers into his harvest.”</p>
-  <p id="manna-verse-ref" class="manna-ref">MATTHEW 9:37–38 (KJV)</p>
+  <p id="manna-verse-text" class="manna-verse">“${esc(settings.dailyManna.text)}”</p>
+  <p id="manna-verse-ref" class="manna-ref">${esc(settings.dailyManna.reference)}</p>
   <div class="actions" style="margin-top:0">
     <button id="daily-manna-share" class="button btn-sm">📲 Share to WhatsApp Status</button>
     <a href="/scriptures/" class="button secondary btn-sm" style="color:white;border-color:rgba(255,255,255,0.4)">Explore Scripture Bank →</a>
@@ -509,6 +562,19 @@ pages.set('/privacy/', page(
   section('Questions about information', '<p>Contact the ministry on WhatsApp with questions about a message you have sent or to request removal of information from ministry-held conversations. Handling and any retention obligations depend on the message and services involved.</p>', ext(direct, 'Contact HCTM'))
 ));
 
+pages.set('/admin/', page(
+  '/admin/',
+  'Content Management Backend | HCTM',
+  'Information and launcher for the Have Compassion on Them Missions content management backend.',
+  intro('Content Management<br>Backend.', 'Manage blog writings, featured Daily Manna, community prayer burdens, and website deployment.') +
+  section('Running the Admin Server Locally', `
+    <p>The HCTM Content Management Server runs locally on your computer. To start the admin dashboard, open your terminal and run:</p>
+    <div style="background:#081a2b;color:#7dd3fc;padding:16px;border-radius:8px;font-family:monospace;font-size:0.95rem;overflow-x:auto;margin:12px 0">npm run admin</div>
+    <p>Once running, access the dashboard at <a href="http://localhost:4000/" target="_blank" style="font-weight:700">http://localhost:4000/</a></p>
+    <p>Default login password: <code>hctm2026</code> (configurable via <code>ADMIN_PASSWORD</code> environment variable).</p>
+  `, `<div class="actions"><a class="button" href="http://localhost:4000/" target="_blank">Open Local Admin Dashboard (Port 4000)</a><a class="button secondary" href="https://github.com/hephzibah204/latunde-akin-blog" target="_blank" rel="noopener noreferrer">View GitHub Repository</a></div>`)
+));
+
 const pagePhotos = new Map([
   ['/about/', 1],
   ['/missions/', 3],
@@ -519,7 +585,8 @@ const pagePhotos = new Map([
   ['/training/', 3],
   ['/support/', 1],
   ['/contact/', 2],
-  ['/privacy/', 3]
+  ['/privacy/', 3],
+  ['/admin/', 1]
 ]);
 
 for (const [route, n] of pagePhotos) {

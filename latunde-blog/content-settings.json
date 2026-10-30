@@ -1,0 +1,47 @@
+{
+  "dailyManna": {
+    "text": "The harvest truly is plenteous, but the labourers are few; Pray ye therefore the Lord of the harvest, that he will send forth labourers into his harvest.",
+    "reference": "MATTHEW 9:37–38 (KJV)"
+  },
+  "training": {
+    "title": "Acts of Missions and Soul Winning",
+    "subtitle": "Responsibility of Every Believer",
+    "dates": "Dates to be announced. Contact the ministry to express interest and ask about future training announcements."
+  },
+  "contact": {
+    "whatsappPhone": "08123428989",
+    "internationalPhone": "+234 812 342 8989",
+    "whatsappGroup": "https://chat.whatsapp.com/F4q1FiipYcBLehgBybfbpV?s=cl&p=a&mlu=4&ilr=4",
+    "telegramChannel": "https://t.me/+cIApZQv8UH43OGJk"
+  },
+  "prayerBurdens": [
+    {
+      "id": "unreached",
+      "tag": "Frontline Missions",
+      "title": "Unreached Tribes & Hostile Territories",
+      "description": "Praying for divine protection, open doors, and receptive hearts in regions where the gospel has never been preached or faces severe persecution.",
+      "baseCount": 48
+    },
+    {
+      "id": "sustenance",
+      "tag": "Missionary Succour",
+      "title": "Sustenance & Health for Laborers",
+      "description": "Interceding for field missionaries and their families facing hunger, sickness, and financial distress. That God supplies every need.",
+      "baseCount": 36
+    },
+    {
+      "id": "revival",
+      "tag": "Revival & Discipleship",
+      "title": "Awakening the Burden for Souls",
+      "description": "Breaking lukewarmness and religious complacency. Praying for young believers to catch the fire of evangelism and personal discipleship.",
+      "baseCount": 52
+    },
+    {
+      "id": "deliverance",
+      "tag": "Souls & Deliverance",
+      "title": "Backsliders & Bound Souls to be Rescued",
+      "description": "Fervent prayer pulling souls out of demonic bondage, moral collapse, and spiritual blindness into the marvelous light of Christ.",
+      "baseCount": 61
+    }
+  ]
+}

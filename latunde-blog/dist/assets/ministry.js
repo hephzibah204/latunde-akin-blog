@@ -82,6 +82,7 @@ dialog?.addEventListener('click', event => {
 
 // Interactive Hero Carousel
 (function initHeroCarousel() {
+  if (typeof window === 'undefined') return;
   const slides = Array.from(document.querySelectorAll('.hero-slide'));
   if (!slides.length) return;
 
@@ -138,6 +139,9 @@ dialog?.addEventListener('click', event => {
   function startAuto() {
     if (typeof setInterval === 'function' && !timer) {
       timer = setInterval(advance, 6500);
+      if (timer && typeof timer.unref === 'function') {
+        timer.unref();
+      }
     }
   }
 

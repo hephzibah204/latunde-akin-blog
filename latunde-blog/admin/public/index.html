@@ -1,0 +1,459 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>HCTM Content Management Dashboard | Latunde Akin Archive</title>
+  <link rel="icon" type="image/svg+xml" href="/assets/hctm-mark.svg">
+  <link rel="stylesheet" href="/admin.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+</head>
+<body>
+
+  <!-- LOGIN SCREEN -->
+  <div id="login-view" class="login-wrap">
+    <div class="login-card">
+      <div class="login-brand">
+        <img src="/assets/hctm-mark.svg" alt="HCTM Logo">
+        <h1>HCTM Content Backend</h1>
+        <p>Have Compassion on Them Missions • Ministry &amp; Blog Management</p>
+      </div>
+
+      <div id="login-error" class="login-error"></div>
+
+      <form id="login-form" class="login-form">
+        <div class="form-group">
+          <label for="admin-pass">Admin Password</label>
+          <input type="password" id="admin-pass" class="form-control" placeholder="Enter administrator password..." required autofocus>
+        </div>
+        <button type="submit" id="login-btn" class="btn btn-primary" style="width:100%">
+          <i class="fa-solid fa-lock"></i> Sign In to Dashboard
+        </button>
+      </form>
+      <p style="font-size:0.78rem;color:#8ba2b5;margin-top:20px">Default key: <code>hctm2026</code> (Configurable via ADMIN_PASSWORD)</p>
+    </div>
+  </div>
+
+  <!-- AUTHENTICATED APP -->
+  <div id="admin-app" class="admin-app">
+    
+    <!-- TOP HEADER -->
+    <header class="admin-header">
+      <div class="admin-brand">
+        <img src="/assets/hctm-mark.svg" alt="HCTM">
+        <div>
+          <div class="admin-brand-title">HCTM Content Manager</div>
+          <div class="admin-brand-sub" id="header-status">Loading archive status...</div>
+        </div>
+      </div>
+
+      <div class="admin-top-actions">
+        <a href="/" target="_blank" class="btn btn-secondary btn-sm" title="Open live public website">
+          <i class="fa-solid fa-arrow-up-right-from-square"></i> View Live Site
+        </a>
+        <button id="btn-quick-rebuild" class="btn btn-gold btn-sm" title="Rebuild HTML pages and check integrity">
+          <i class="fa-solid fa-rotate"></i> Rebuild Site
+        </button>
+        <button id="btn-quick-deploy" class="btn btn-primary btn-sm" style="background:#1d4ed8;border-color:#1d4ed8" title="Commit and push to Vercel live">
+          <i class="fa-solid fa-cloud-arrow-up"></i> Deploy to Vercel
+        </button>
+        <button id="btn-logout" class="btn btn-secondary btn-sm" title="Sign out of admin dashboard">
+          <i class="fa-solid fa-right-from-bracket"></i> Sign Out
+        </button>
+      </div>
+    </header>
+
+    <!-- MAIN CONTAINER -->
+    <main class="admin-container">
+      
+      <!-- NAVIGATION TABS -->
+      <nav class="admin-tabs" role="tablist">
+        <button class="tab-btn is-active" data-tab="tab-posts">
+          <i class="fa-solid fa-newspaper"></i> Articles &amp; Blog <span id="badge-posts" class="badge">0</span>
+        </button>
+        <button class="tab-btn" data-tab="tab-manna">
+          <i class="fa-solid fa-book-bible"></i> Daily Manna
+        </button>
+        <button class="tab-btn" data-tab="tab-prayer">
+          <i class="fa-solid fa-hands-praying"></i> Prayer Wall
+        </button>
+        <button class="tab-btn" data-tab="tab-settings">
+          <i class="fa-solid fa-sliders"></i> Ministry Settings
+        </button>
+        <button class="tab-btn" data-tab="tab-publish">
+          <i class="fa-solid fa-server"></i> Publish &amp; Deploy Console
+        </button>
+      </nav>
+
+      <!-- TAB 1: ARTICLES & BLOG MANAGEMENT -->
+      <section id="tab-posts" class="tab-panel is-active">
+        
+        <!-- Stats Row -->
+        <div class="stats-grid">
+          <div class="stat-card">
+            <div class="stat-icon"><i class="fa-solid fa-newspaper"></i></div>
+            <div>
+              <div class="stat-val" id="stat-total-posts">0</div>
+              <div class="stat-label">Published Articles</div>
+            </div>
+          </div>
+          <div class="stat-card">
+            <div class="stat-icon" style="color:#0284c7"><i class="fa-solid fa-earth-africa"></i></div>
+            <div>
+              <div class="stat-val" id="stat-missions-posts">0</div>
+              <div class="stat-label">Missions &amp; Outreach</div>
+            </div>
+          </div>
+          <div class="stat-card">
+            <div class="stat-icon" style="color:#d97706"><i class="fa-solid fa-fire"></i></div>
+            <div>
+              <div class="stat-val" id="stat-prayer-posts">0</div>
+              <div class="stat-label">Prayer &amp; Warfare</div>
+            </div>
+          </div>
+          <div class="stat-card">
+            <div class="stat-icon" style="color:#16a34a"><i class="fa-solid fa-seedling"></i></div>
+            <div>
+              <div class="stat-val" id="stat-discipleship-posts">0</div>
+              <div class="stat-label">Discipleship &amp; Life</div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Card Table & Controls -->
+        <div class="card">
+          <div class="card-header">
+            <div>
+              <h2 class="card-title">All Ministry Writings &amp; Articles</h2>
+              <p class="card-subtitle">Manage, edit, publish, or remove writings from the Latunde Akin archive.</p>
+            </div>
+            <button id="btn-create-post" class="btn btn-primary">
+              <i class="fa-solid fa-plus"></i> Write New Article
+            </button>
+          </div>
+
+          <!-- Search & Filter Bar -->
+          <div class="filter-bar">
+            <div class="search-box">
+              <i class="fa-solid fa-magnifying-glass search-icon"></i>
+              <input type="text" id="posts-search" class="form-control" placeholder="Search by title, keyword, ID, or Scripture reference...">
+            </div>
+            <div class="category-chips">
+              <button class="chip is-active" data-cat="">All Articles</button>
+              <button class="chip" data-cat="missions">Missions</button>
+              <button class="chip" data-cat="prayer">Prayer &amp; Warfare</button>
+              <button class="chip" data-cat="discipleship">Discipleship</button>
+              <button class="chip" data-cat="character">Character</button>
+              <button class="chip" data-cat="leadership">Lessons &amp; Leaders</button>
+            </div>
+          </div>
+
+          <!-- Table -->
+          <div class="posts-table-wrap">
+            <table class="posts-table">
+              <thead>
+                <tr>
+                  <th style="width:70px">Media</th>
+                  <th>Article Title</th>
+                  <th style="width:140px">Category</th>
+                  <th style="width:130px">Published</th>
+                  <th style="width:100px">Read Time</th>
+                  <th style="width:180px;text-align:right">Actions</th>
+                </tr>
+              </thead>
+              <tbody id="posts-tbody">
+                <tr>
+                  <td colspan="6" style="text-align:center;padding:40px;color:var(--muted)">
+                    <i class="fa-solid fa-spinner fa-spin"></i> Loading articles...
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+
+          <!-- Pagination -->
+          <div class="pagination">
+            <div id="pagination-info">Showing 0-0 of 0</div>
+            <div style="display:flex;gap:8px">
+              <button id="btn-prev-page" class="btn btn-secondary btn-sm" disabled><i class="fa-solid fa-chevron-left"></i> Previous</button>
+              <button id="btn-next-page" class="btn btn-secondary btn-sm" disabled>Next <i class="fa-solid fa-chevron-right"></i></button>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- TAB 2: DAILY MANNA -->
+      <section id="tab-manna" class="tab-panel">
+        <div class="card">
+          <div class="card-header">
+            <div>
+              <h2 class="card-title">Featured Daily Manna</h2>
+              <p class="card-subtitle">Updates the Scripture verse card on the homepage and WhatsApp status broadcast.</p>
+            </div>
+          </div>
+
+          <form id="manna-form" style="display:flex;flex-direction:column;gap:20px;max-width:760px">
+            <div class="form-group">
+              <label for="manna-input-text">Scripture Text (King James Version / NKJV)</label>
+              <textarea id="manna-input-text" class="form-control" rows="4" required placeholder="“The harvest truly is plenteous, but the labourers are few; Pray ye therefore...”"></textarea>
+            </div>
+
+            <div class="form-group">
+              <label for="manna-input-ref">Scripture Reference &amp; Version</label>
+              <input type="text" id="manna-input-ref" class="form-control" required placeholder="MATTHEW 9:37–38 (KJV)">
+            </div>
+
+            <!-- Live Card Preview -->
+            <div>
+              <label style="font-weight:700;font-size:0.86rem;color:var(--navy);margin-bottom:8px;display:block">Live Widget Preview (Homepage Card):</label>
+              <div style="background:linear-gradient(135deg,#091a2b,#102f4b);color:white;padding:28px;border-radius:12px;border:1px solid rgba(212,175,55,0.35)">
+                <div style="color:#d4af37;font-weight:800;font-size:0.8rem;text-transform:uppercase;margin-bottom:10px">📖 Daily Manna for the Harvest</div>
+                <p id="manna-preview-text" style="font-family:'Lora',serif;font-style:italic;font-size:1.25rem;line-height:1.6;margin-bottom:10px">“Verse preview...”</p>
+                <p id="manna-preview-ref" style="font-weight:700;color:#f3df9b;font-size:0.9rem">REFERENCE (KJV)</p>
+              </div>
+            </div>
+
+            <button type="submit" id="btn-save-manna" class="btn btn-primary" style="align-self:flex-start">
+              <i class="fa-solid fa-floppy-disk"></i> Save &amp; Update Daily Manna
+            </button>
+          </form>
+        </div>
+      </section>
+
+      <!-- TAB 3: COMMUNITY PRAYER WALL -->
+      <section id="tab-prayer" class="tab-panel">
+        <div class="card">
+          <div class="card-header">
+            <div>
+              <h2 class="card-title">Community Prayer Wall Burdens</h2>
+              <p class="card-subtitle">Manage public prayer topics shown on <code>/prayer/</code> where visitors tap “I Stood in Prayer”.</p>
+            </div>
+            <button id="btn-add-prayer" class="btn btn-secondary btn-sm">
+              <i class="fa-solid fa-plus"></i> Add New Burden
+            </button>
+          </div>
+
+          <div id="prayer-burdens-list" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(320px,1fr));gap:20px">
+            <!-- Dynamic prayer burdens -->
+          </div>
+
+          <div style="margin-top:24px">
+            <button id="btn-save-prayer-burdens" class="btn btn-primary">
+              <i class="fa-solid fa-floppy-disk"></i> Save Prayer Wall Changes
+            </button>
+          </div>
+        </div>
+      </section>
+
+      <!-- TAB 4: SETTINGS -->
+      <section id="tab-settings" class="tab-panel">
+        <div class="card">
+          <div class="card-header">
+            <div>
+              <h2 class="card-title">Ministry Contact &amp; Revival Training</h2>
+              <p class="card-subtitle">Update ministry phone contacts, social links, and revival announcements.</p>
+            </div>
+          </div>
+
+          <form id="settings-form" style="display:flex;flex-direction:column;gap:20px;max-width:760px">
+            <h3 style="font-size:1.05rem;border-bottom:1px solid var(--line);padding-bottom:6px">WhatsApp &amp; Communication Channels</h3>
+            
+            <div style="display:grid;grid-template-columns:1fr 1fr;gap:16px">
+              <div class="form-group">
+                <label for="set-phone-local">Local WhatsApp (Nigeria)</label>
+                <input type="text" id="set-phone-local" class="form-control" placeholder="08123428989">
+              </div>
+              <div class="form-group">
+                <label for="set-phone-intl">International Format</label>
+                <input type="text" id="set-phone-intl" class="form-control" placeholder="+234 812 342 8989">
+              </div>
+            </div>
+
+            <div class="form-group">
+              <label for="set-wa-group">WhatsApp Prayer Group Link</label>
+              <input type="url" id="set-wa-group" class="form-control" placeholder="https://chat.whatsapp.com/...">
+            </div>
+
+            <div class="form-group">
+              <label for="set-tg-channel">Telegram Prayer Channel Link</label>
+              <input type="url" id="set-tg-channel" class="form-control" placeholder="https://t.me/...">
+            </div>
+
+            <h3 style="font-size:1.05rem;border-bottom:1px solid var(--line);padding-bottom:6px;margin-top:12px">Acts of Missions Revival Training</h3>
+
+            <div class="form-group">
+              <label for="set-train-title">Training Course Title</label>
+              <input type="text" id="set-train-title" class="form-control" placeholder="Acts of Missions and Soul Winning">
+            </div>
+
+            <div class="form-group">
+              <label for="set-train-subtitle">Sub-theme</label>
+              <input type="text" id="set-train-subtitle" class="form-control" placeholder="Responsibility of Every Believer">
+            </div>
+
+            <div class="form-group">
+              <label for="set-train-dates">Announcement / Scheduled Dates</label>
+              <input type="text" id="set-train-dates" class="form-control" placeholder="Dates to be announced. Contact the ministry to express interest...">
+            </div>
+
+            <button type="submit" id="btn-save-settings" class="btn btn-primary" style="align-self:flex-start">
+              <i class="fa-solid fa-floppy-disk"></i> Save Settings &amp; Rebuild
+            </button>
+          </form>
+        </div>
+      </section>
+
+      <!-- TAB 5: PUBLISH & DEPLOY HUB -->
+      <section id="tab-publish" class="tab-panel">
+        <div class="card">
+          <div class="card-header">
+            <div>
+              <h2 class="card-title">Publishing &amp; Vercel Deployment Hub</h2>
+              <p class="card-subtitle">Trigger automated site builds, verify HTML integrity, and push live to Vercel production with one click.</p>
+            </div>
+          </div>
+
+          <div style="display:flex;gap:14px;flex-wrap:wrap;margin-bottom:20px">
+            <button id="btn-run-build" class="btn btn-gold">
+              <i class="fa-solid fa-hammer"></i> 1. Run Local Site Build &amp; Verification
+            </button>
+            <button id="btn-run-deploy" class="btn btn-primary" style="background:#1d4ed8;border-color:#1d4ed8">
+              <i class="fa-solid fa-rocket"></i> 2. Deploy Live to Vercel (Git Push)
+            </button>
+          </div>
+
+          <div class="form-group" style="margin-bottom:18px">
+            <label for="deploy-commit-msg">Optional Git Commit Message:</label>
+            <input type="text" id="deploy-commit-msg" class="form-control" placeholder="Update website content via HCTM Admin Dashboard">
+          </div>
+
+          <div class="form-group">
+            <label>Console &amp; Build Logs:</label>
+            <div id="terminal-output" class="terminal-box">Ready. Click "Run Local Site Build" or "Deploy Live to Vercel".</div>
+          </div>
+        </div>
+      </section>
+
+    </main>
+  </div>
+
+  <!-- ARTICLE EDITOR MODAL -->
+  <div id="editor-modal" class="modal">
+    <div class="modal-backdrop"></div>
+    <div class="modal-dialog">
+      <div class="modal-header">
+        <h2 id="editor-modal-title" style="font-size:1.25rem">Write New Article</h2>
+        <button id="btn-close-editor" class="btn btn-secondary btn-sm" style="border:none;font-size:1.1rem">✕</button>
+      </div>
+
+      <div class="modal-body">
+        <input type="hidden" id="edit-post-id">
+
+        <div class="form-group">
+          <label for="edit-title">Article Title</label>
+          <input type="text" id="edit-title" class="form-control" placeholder="Enter an inspiring title..." required>
+        </div>
+
+        <div style="display:grid;grid-template-columns:1fr 1fr;gap:16px">
+          <div class="form-group">
+            <label for="edit-date">Publication Date</label>
+            <input type="text" id="edit-date" class="form-control" placeholder="e.g. October 30, 2026">
+          </div>
+
+          <div class="form-group">
+            <label for="edit-category">Primary Category</label>
+            <select id="edit-category" class="form-control">
+              <option value="missions">Missions &amp; Outreach</option>
+              <option value="prayer">Prayer &amp; Warfare</option>
+              <option value="discipleship" selected>Discipleship &amp; Walk</option>
+              <option value="character">Life &amp; Character</option>
+              <option value="leadership">Lessons &amp; Leaders</option>
+            </select>
+          </div>
+        </div>
+
+        <!-- Featured Media / Image -->
+        <div class="form-group">
+          <label>Featured Image / Banner</label>
+          <div style="display:flex;gap:10px;flex-wrap:wrap;align-items:center">
+            <input type="text" id="edit-image-src" class="form-control" style="flex:1" placeholder="assets/field-1.jpeg or paste image URL...">
+            <input type="file" id="file-image-upload" accept="image/*" style="display:none">
+            <button type="button" id="btn-browse-image" class="btn btn-secondary btn-sm">
+              <i class="fa-solid fa-upload"></i> Upload Image
+            </button>
+            <select id="select-preset-image" class="form-control" style="width:auto">
+              <option value="">-- Choose Field Photo --</option>
+              <option value="assets/field-1.jpeg">Field Photo 1 (Street gathering)</option>
+              <option value="assets/field-2.jpeg">Field Photo 2 (Outdoor preaching)</option>
+              <option value="assets/field-3.jpeg">Field Photo 3 (Woman at microphone)</option>
+              <option value="assets/hero-enhanced.png">Hero Enhanced Photo</option>
+              <option value="assets/hctm-mark.svg">HCTM Brand Emblem</option>
+            </select>
+          </div>
+
+          <div class="image-preview-box">
+            <img id="img-preview" src="/assets/hctm-mark.svg" class="image-preview-thumb" alt="Preview">
+            <div>
+              <div id="img-preview-label" style="font-weight:600;font-size:0.86rem;color:var(--navy)">Image Preview</div>
+              <div style="font-size:0.78rem;color:var(--muted)">Images are automatically copied into the web archive.</div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Post Content Body with Toolbar -->
+        <div class="form-group">
+          <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:6px">
+            <label for="edit-text">Teaching Body / Article Content</label>
+            <div id="word-count-badge" style="font-size:0.8rem;color:var(--muted)">0 words • 1 min read</div>
+          </div>
+
+          <div class="editor-toolbar">
+            <button type="button" class="tool-btn" data-insert="**bold text**"><b>B</b></button>
+            <button type="button" class="tool-btn" data-insert="*italic text*"><i>I</i></button>
+            <button type="button" class="tool-btn" data-insert='“Quote from message...”'>❝ Quote</button>
+            <button type="button" class="tool-btn" data-insert="📖 (John 3:16)">Scripture Tag</button>
+            <button type="button" class="tool-btn" data-insert="\n\n### Section Heading\n\n">Heading</button>
+            <button type="button" class="tool-btn" data-insert="\n\n">¶ Paragraph</button>
+          </div>
+          <textarea id="edit-text" class="form-control editor-textarea" placeholder="Write or paste the full teaching content here... Separate paragraphs with double enter." required></textarea>
+        </div>
+
+        <div class="form-group">
+          <label for="edit-url">Canonical / Original Source URL (Optional)</label>
+          <input type="url" id="edit-url" class="form-control" placeholder="https://web.facebook.com/akin.latunde.2025/posts/...">
+        </div>
+      </div>
+
+      <div class="modal-footer">
+        <button type="button" id="btn-preview-post" class="btn btn-secondary">
+          <i class="fa-solid fa-eye"></i> Full Preview
+        </button>
+        <button type="button" id="btn-save-post" class="btn btn-primary">
+          <i class="fa-solid fa-floppy-disk"></i> Save &amp; Publish Article
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <!-- ARTICLE PREVIEW MODAL -->
+  <div id="preview-modal" class="modal">
+    <div class="modal-backdrop"></div>
+    <div class="modal-dialog" style="max-width:820px">
+      <div class="modal-header">
+        <h2 style="font-size:1.15rem"><i class="fa-solid fa-eye"></i> Live Article Reader Preview</h2>
+        <button id="btn-close-preview" class="btn btn-secondary btn-sm" style="border:none;font-size:1.1rem">✕</button>
+      </div>
+      <div class="modal-body" style="background:#faf9f6;padding:32px">
+        <div id="preview-render-area" style="max-width:760px;margin:0 auto">
+          <!-- Rendered article content -->
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- TOAST CONTAINER -->
+  <div id="toast-container" class="toast-container"></div>
+
+  <script src="/admin.js"></script>
+</body>
+</html>

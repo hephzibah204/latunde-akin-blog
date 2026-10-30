@@ -4,6 +4,7 @@
   "description": "Latunde Akin Blog & Writings Archive — Have Compassion on Them Missions (HCTM)",
   "private": true,
   "scripts": {
-    "build": "cd latunde-blog && node prepare.mjs"
+    "build": "cd latunde-blog && node prepare.mjs",
+    "admin": "cd latunde-blog && node admin/server.mjs"
   }
 }
