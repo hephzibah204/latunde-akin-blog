@@ -168,6 +168,8 @@ for (let i = 0; i < posts.length; i++) {
   const excerpt = cleanExcerpt(p.text);
   const hasImg = p.images && p.images.length > 0;
   const imgUrl = hasImg ? `../${p.images[0].src}` : '../assets/logo.svg';
+  const postUrl = `https://latundeakin.org/p/${p.id}.html`;
+  const absImgUrl = hasImg ? `https://latundeakin.org/${p.images[0].src}` : 'https://latundeakin.org/assets/og-article-default.png';
   const paragraphs = p.text.split('\n\n').filter(Boolean);
   const prevPost = i > 0 ? posts[i - 1] : null;
   const nextPost = i < posts.length - 1 ? posts[i + 1] : null;
@@ -177,18 +179,29 @@ for (let i = 0; i < posts.length; i++) {
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>${escapeHtml(p.title)} — Latunde Akin</title>
+  <title>${escapeHtml(p.title)} — Latunde Akin | HCTM</title>
   <meta name="description" content="${escapeHtml(excerpt)}">
   <meta name="author" content="Latunde Akin">
   <meta name="robots" content="index, follow">
-  <link rel="icon" type="image/svg+xml" href="../assets/favicon.svg">
+  <link rel="canonical" href="${postUrl}">
+  <link rel="icon" type="image/svg+xml" href="../assets/hctm-mark.svg">
+  <link rel="apple-touch-icon" href="../assets/apple-touch-icon.png">
+  <link rel="manifest" href="../assets/site.webmanifest">
+  <meta name="theme-color" content="#0c233c">
   
-  <!-- OpenGraph / Facebook -->
+  <!-- OpenGraph / Facebook / WhatsApp -->
   <meta property="og:type" content="article">
-  <meta property="og:site_name" content="Latunde Akin — Missions & Discipleship">
+  <meta property="og:site_name" content="Have Compassion on Them Missions (HCTM) | Latunde Akin Archive">
   <meta property="og:title" content="${escapeHtml(p.title)}">
   <meta property="og:description" content="${escapeHtml(excerpt)}">
-  <meta property="og:image" content="${imgUrl}">
+  <meta property="og:url" content="${postUrl}">
+  <meta property="og:locale" content="en_US">
+  <meta property="og:image" content="${absImgUrl}">
+  <meta property="og:image:secure_url" content="${absImgUrl}">
+  <meta property="og:image:type" content="${hasImg ? 'image/jpeg' : 'image/png'}">
+  <meta property="og:image:width" content="${hasImg ? '640' : '1200'}">
+  <meta property="og:image:height" content="${hasImg ? '400' : '630'}">
+  <meta property="og:image:alt" content="${escapeHtml(p.title)}">
   <meta property="article:published_time" content="${p.date}">
   <meta property="article:author" content="Latunde Akin">
   <meta property="article:section" content="${cat.label}">
@@ -197,25 +210,37 @@ for (let i = 0; i < posts.length; i++) {
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="${escapeHtml(p.title)}">
   <meta name="twitter:description" content="${escapeHtml(excerpt)}">
-  <meta name="twitter:image" content="${imgUrl}">
+  <meta name="twitter:image" content="${absImgUrl}">
+  <meta name="twitter:image:alt" content="${escapeHtml(p.title)}">
 
   <!-- JSON-LD Structured Data for Google -->
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": ${JSON.stringify(postUrl)}
+    },
     "headline": ${JSON.stringify(p.title)},
     "description": ${JSON.stringify(excerpt)},
     "articleBody": ${JSON.stringify(p.text)},
+    "image": [${JSON.stringify(absImgUrl)}],
     "datePublished": ${JSON.stringify(p.date)},
     "author": {
       "@type": "Person",
       "name": "Latunde Akin",
-      "jobTitle": "Missionary & Teacher"
+      "jobTitle": "Missionary & Teacher",
+      "url": "https://latundeakin.org/about/"
     },
     "publisher": {
       "@type": "Organization",
-      "name": "Have Compassion on Them Missions (HCTM)"
+      "name": "Have Compassion on Them Missions (HCTM)",
+      "url": "https://latundeakin.org/",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://latundeakin.org/assets/hctm-mark.svg"
+      }
     }
   }
   </script>
@@ -287,7 +312,7 @@ for (let i = 0; i < posts.length; i++) {
         <span><i class="fa-solid fa-user-pen"></i> Latunde Akin</span>
       </div>
 
-      ${hasImg ? `<img src="${p.images[0].src}" alt="${escapeHtml(p.title)}" class="post-img">` : ''}
+      ${hasImg ? `<img src="../${p.images[0].src}" alt="${escapeHtml(p.title)}" class="post-img">` : ''}
 
       <div class="prose">
         ${paragraphs.map(para => `<p>${escapeHtml(para).replace(/\n/g, '<br>')}</p>`).join('')}
@@ -296,13 +321,25 @@ for (let i = 0; i < posts.length; i++) {
       <div class="share-tray">
         <span style="font-weight: 700; font-size: 0.9rem;">Share this teaching:</span>
         <div class="share-group">
-          <a href="https://api.whatsapp.com/send?text=${encodeURIComponent(p.title + ' by Latunde Akin: ' + p.url)}" target="_blank" rel="noopener" class="btn-share" style="color:#25D366;">
+          <a href="https://api.whatsapp.com/send?text=${encodeURIComponent(p.title + ' — Latunde Akin: ' + postUrl)}" target="_blank" rel="noopener" class="btn-share" style="color:#25D366;">
             <i class="fa-brands fa-whatsapp"></i> WhatsApp
           </a>
-          <a href="https://web.facebook.com/sharer/sharer.php?u=${encodeURIComponent(p.url)}" target="_blank" rel="noopener" class="btn-share" style="color:#1877F2;">
+          <a href="https://web.facebook.com/sharer/sharer.php?u=${encodeURIComponent(postUrl)}" target="_blank" rel="noopener" class="btn-share btn-facebook" style="color:#1877F2;">
             <i class="fa-brands fa-facebook"></i> Facebook
           </a>
-          <a href="../index.html" class="btn-share">
+          <button type="button" class="btn-share btn-print-tract">
+            <i class="fa-solid fa-print"></i> Print Tract
+          </button>
+          <a href="/salvation/" class="btn-share btn-receive-jesus">
+            <i class="fa-solid fa-cross"></i> Receive Jesus
+          </a>
+          <a href="https://twitter.com/intent/tweet?text=${encodeURIComponent(p.title)}&url=${encodeURIComponent(postUrl)}" target="_blank" rel="noopener" class="btn-share" style="color:#0f172a;">
+            <i class="fa-brands fa-x-twitter"></i> Share
+          </a>
+          <a href="../blog/" class="btn-share">
+            <i class="fa-solid fa-book-open"></i> Archive
+          </a>
+          <a href="../" class="btn-share">
             <i class="fa-solid fa-house"></i> Home
           </a>
         </div>
@@ -314,6 +351,7 @@ for (let i = 0; i < posts.length; i++) {
     <p><strong>Have Compassion on Them Missions (HCTM)</strong> &bull; Latunde Akin Archive</p>
     <p style="margin-top: 0.5rem;">Join daily intercession &amp; support missionaries: WhatsApp <strong>+234 812 342 8989</strong></p>
   </footer>
+  <script src="../assets/ministry.js" defer></script>
 </body>
 </html>`;
 

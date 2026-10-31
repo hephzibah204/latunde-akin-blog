@@ -1,0 +1,27 @@
+{
+  "name": "Have Compassion on Them Missions (HCTM) — Latunde Akin Archive",
+  "short_name": "HCTM Archive",
+  "description": "Winning souls for Christ, restoring grassroots discipleship, and providing faithful prayer and practical succour for missionaries.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#06121e",
+  "theme_color": "#0c233c",
+  "icons": [
+    {
+      "src": "/assets/hctm-mark.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/assets/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}

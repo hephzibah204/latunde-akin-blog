@@ -141,11 +141,64 @@ const header = route => `${scriptureBanner}<a class="skip" href="#main">Skip to 
 
 const footer = `<footer class="site-footer"><div class="wrap footer-grid"><div><div class="footer-brand"><img src="/assets/hctm-mark.svg" alt="" width="42" height="42"><h2>Have Compassion<br>on Them Missions</h2></div><p>Winning souls for Christ, restoring grassroots discipleship, and providing faithful prayer and practical succour for missionaries.</p></div><div><h3>Explore &amp; Grow</h3><a href="/about/">About HCTM</a><a href="/missions/">Missions &amp; Work</a><a href="/salvation/">Receive Jesus (Salvation Guide)</a><a href="/scriptures/">Topical Scripture Bank</a><a href="/blog/">Blog &amp; Writings Archive</a><a href="/gallery/">Mission Field Gallery</a><a href="/training/">Training &amp; Discipleship</a><a href="/support/">Support Missionaries</a></div><div><h3>Connect &amp; Pray</h3><a href="/prayer-request/">Submit a prayer request</a>${ext(whatsapp, 'WhatsApp prayer group', '')}${ext(telegram, 'Telegram prayer channel', '')}${ext(direct, 'Contact HCTM directly', '')}<a href="/privacy/">Privacy notice</a></div></div><div class="wrap footer-end"><div>© ${new Date().getFullYear()} Have Compassion on Them Missions</div><span>“And of some have compassion, making a difference.” (Jude 1:22)</span></div></footer>`;
 
-const page = (route, title, description, body) => `<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>${esc(title)} | HCTM</title><meta name="description" content="${esc(description)}"><meta property="og:title" content="${esc(title)} | HCTM"><meta property="og:description" content="${esc(description)}"><meta property="og:type" content="website"><link rel="icon" href="/assets/hctm-mark.svg" type="image/svg+xml"><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@600;700;800&family=Plus+Jakarta+Sans:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400&family=Lora:ital,wght@0,400;0,500;0,600;1,400&display=swap" rel="stylesheet"><style>/* Hallmark · shape: Stage · genre: editorial · theme: brand · redesign: full
+const SITE_URL = 'https://latundeakin.org';
+const DEFAULT_OG_IMAGE = `${SITE_URL}/assets/og-image.png`;
+const DEFAULT_OG_IMAGE_ALT = 'Have Compassion on Them Missions (HCTM) — Latunde Akin Archive';
+
+const page = (route, title, description, body) => {
+  const canonicalUrl = `${SITE_URL}${route === '/' ? '/' : route}`;
+  const fullTitle = route === '/' 
+    ? 'Have Compassion on Them Missions (HCTM) | Latunde Akin Archive' 
+    : `${esc(title)} | Have Compassion on Them Missions`;
+
+  const schemaJson = JSON.stringify({
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "@id": `${SITE_URL}/#organization`,
+        "name": "Have Compassion on Them Missions (HCTM)",
+        "url": `${SITE_URL}/`,
+        "logo": {
+          "@type": "ImageObject",
+          "url": `${SITE_URL}/assets/hctm-mark.svg`,
+          "width": 180,
+          "height": 180
+        },
+        "description": "Winning souls for Christ, restoring grassroots discipleship, and providing faithful prayer and practical succour for missionaries."
+      },
+      {
+        "@type": "Person",
+        "@id": `${SITE_URL}/#person`,
+        "name": "Latunde Akin",
+        "jobTitle": "Missionary & Teacher",
+        "worksFor": { "@id": `${SITE_URL}/#organization` },
+        "image": `${SITE_URL}/assets/hero-enhanced.png`
+      },
+      {
+        "@type": "WebSite",
+        "@id": `${SITE_URL}/#website`,
+        "url": `${SITE_URL}/`,
+        "name": "Have Compassion on Them Missions",
+        "publisher": { "@id": `${SITE_URL}/#organization` }
+      },
+      {
+        "@type": "WebPage",
+        "@id": `${canonicalUrl}#webpage`,
+        "url": canonicalUrl,
+        "name": title,
+        "description": description,
+        "isPartOf": { "@id": `${SITE_URL}/#website` }
+      }
+    ]
+  });
+
+  return `<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>${fullTitle}</title><meta name="description" content="${esc(description)}"><meta name="author" content="Latunde Akin"><meta name="robots" content="index, follow"><link rel="canonical" href="${canonicalUrl}"><meta property="og:site_name" content="Have Compassion on Them Missions (HCTM) | Latunde Akin Archive"><meta property="og:type" content="website"><meta property="og:title" content="${fullTitle}"><meta property="og:description" content="${esc(description)}"><meta property="og:url" content="${canonicalUrl}"><meta property="og:locale" content="en_US"><meta property="og:image" content="${DEFAULT_OG_IMAGE}"><meta property="og:image:secure_url" content="${DEFAULT_OG_IMAGE}"><meta property="og:image:type" content="image/png"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630"><meta property="og:image:alt" content="${DEFAULT_OG_IMAGE_ALT}"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="${fullTitle}"><meta name="twitter:description" content="${esc(description)}"><meta name="twitter:image" content="${DEFAULT_OG_IMAGE}"><meta name="twitter:image:alt" content="${DEFAULT_OG_IMAGE_ALT}"><meta name="theme-color" content="#0c233c"><link rel="icon" href="/assets/hctm-mark.svg" type="image/svg+xml"><link rel="apple-touch-icon" href="/assets/apple-touch-icon.png"><link rel="manifest" href="/assets/site.webmanifest"><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@600;700;800&family=Plus+Jakarta+Sans:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400&family=Lora:ital,wght@0,400;0,500;0,600;1,400&display=swap" rel="stylesheet"><script type="application/ld+json">${schemaJson}</script><style>/* Hallmark · shape: Stage · genre: editorial · theme: brand · redesign: full
  * paper: oklch(98.5% 0.008 85) · accent: oklch(74% 0.15 85) · display: Lora · body: Plus Jakarta Sans · hero: Stage · nav: edge-aligned · footer: ledger · signature: daily-manna
  * axes: light/roman-serif/chromatic-gold · posture: Stage · contrast: pass · fold: pass · v2.0.0 */
 /* Hallmark · pre-emit critique: P9 H8 E9 S9 R9 V9 · weakest: H, tightened hero headline to 6 words */
 html, body { overflow-x: clip; } :focus-visible { outline: 2px solid var(--color-focus); outline-offset: 2px; } button:active, a:active { transform: translateY(1px); } button:disabled { opacity: 0.55; cursor: not-allowed; }</style><link rel="stylesheet" href="/assets/tokens.css"><link rel="stylesheet" href="/assets/base.css"><link rel="stylesheet" href="/assets/ministry.css"><script src="/assets/ministry.js" defer></script></head><body>${header(route)}<main id="main">${body}</main>${footer}</body></html>`;
+};
 
 const intro = (title, text) => `<section class="page-intro"><div class="wrap"><h1>${title}</h1><p class="lead">${text}</p></div></section>`;
 const section = (title, text, action = '') => `<section class="wrap section"><div><h2>${title}</h2></div><div class="section-content">${text}${action}</div></section>`;
@@ -530,7 +583,7 @@ pages.set('/prayer/', page(
 ));
 
 pages.set('/prayer-request/', page(
-  '/prayer/',
+  '/prayer-request/',
   'Submit a prayer request',
   'Share a prayer request with HCTM directly on WhatsApp.',
   intro('How can we<br>pray with you?', 'You are welcome to share a prayer request with HCTM. Tell us what you would like prayer for, sharing only the details you are comfortable providing.') +
@@ -654,11 +707,14 @@ for (const [route, html] of pages) {
 pages.set('/prayer-request/', pages.get('/prayer-request/').replace('<button type="submit"', '<button id="prayer-submit" disabled type="submit"'));
 
 await fs.mkdir(path.join(dist, 'assets'), { recursive: true });
-for (let n = 1; n <= 3; n++) {
-  await fs.copyFile(path.join(root, 'assets', `field-${n}.jpeg`), path.join(dist, 'assets', `field-${n}.jpeg`));
-}
-for (const name of ['tokens.css', 'base.css', 'ministry.css', 'ministry.js', 'hctm-mark.svg', 'hero-enhanced.png', 'page-imagery.css']) {
-  await fs.copyFile(path.join(root, 'assets', name), path.join(dist, 'assets', name));
+const allAssetFiles = await fs.readdir(path.join(root, 'assets'));
+for (const file of allAssetFiles) {
+  const srcPath = path.join(root, 'assets', file);
+  const destPath = path.join(dist, 'assets', file);
+  const fileStat = await fs.stat(srcPath);
+  if (fileStat.isFile()) {
+    await fs.copyFile(srcPath, destPath);
+  }
 }
 
 for (const [route, html] of pages) {
@@ -698,28 +754,71 @@ await fs.writeFile(path.join(dist, 'blog/index.html'), blog);
 // Preserve every established article URL/body and repair relative images and archive navigation.
 for (const p of posts) {
   const file = path.join(dist, 'p', `${p.id}.html`);
-  const original = await fs.readFile(file, 'utf8');
-  let html = original.replaceAll('src="assets/', 'src="../assets/').replace(/href="\.\.\/index\.html#\/post\/[^\"]+"/g, 'href="../blog/"');
-  if (!html.includes('btn-print-tract')) {
-    html = html.replace('class="btn-share" style="color:#1877F2;">', 'class="btn-share btn-facebook">\n            <i class="fa-brands fa-facebook"></i> Facebook\n          </a>\n          <button type="button" class="btn-share btn-print-tract">\n            <i class="fa-solid fa-print"></i> Print Tract\n          </button>\n          <a href="/salvation/" class="btn-share btn-receive-jesus">\n            <i class="fa-solid fa-cross"></i> Receive Jesus\n          ');
+  try {
+    const original = await fs.readFile(file, 'utf8');
+    let html = original.replaceAll('src="assets/', 'src="../assets/').replace(/href="\.\.\/index\.html#\/post\/[^\"]+"/g, 'href="../blog/"');
+    if (!html.includes('btn-print-tract')) {
+      html = html.replace('class="btn-share btn-facebook">', 'class="btn-share btn-facebook">\n            <i class="fa-brands fa-facebook"></i> Facebook\n          </a>\n          <button type="button" class="btn-share btn-print-tract">\n            <i class="fa-solid fa-print"></i> Print Tract\n          </button>\n          <a href="/salvation/" class="btn-share btn-receive-jesus">\n            <i class="fa-solid fa-cross"></i> Receive Jesus\n          ');
+    }
+    if (!html.includes('/assets/ministry.js')) {
+      html = html.replace('</body>', '<script src="../assets/ministry.js" defer></script></body>');
+    }
+    if (html !== original) {
+      await fs.writeFile(file, html);
+    }
+  } catch (err) {
+    // If locked or already written, continue gracefully
   }
-  if (!html.includes('/assets/ministry.js')) {
-    html = html.replace('</body>', '<script src="../assets/ministry.js" defer></script></body>');
-  }
-  if (html !== original) await fs.writeFile(file, html);
 }
 
 const manifest = { pages: [...pages.keys(), '/blog/'], postIds: posts.map(p => p.id) };
 await fs.writeFile(path.join(dist, 'site-manifest.json'), JSON.stringify(manifest, null, 2));
 
-const origin = process.env.SITE_ORIGIN;
-if (origin) {
-  const urls = [...manifest.pages, ...posts.map(p => `/p/${p.id}.html`)];
-  await fs.writeFile(path.join(dist, 'sitemap.xml'), `<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">${urls.map(url => `<url><loc>${esc(new URL(url, origin).href)}</loc></url>`).join('')}</urlset>`);
-  await fs.writeFile(path.join(dist, 'robots.txt'), `User-agent: *\nAllow: /\nSitemap: ${new URL('/sitemap.xml', origin).href}\n`);
-} else {
-  await fs.writeFile(path.join(dist, 'robots.txt'), 'User-agent: *\nAllow: /\n');
-  await fs.rm(path.join(dist, 'sitemap.xml'), { force: true });
-}
+const origin = process.env.SITE_ORIGIN || 'https://latundeakin.org';
+const priorityMap = {
+  '/': '1.0',
+  '/salvation/': '0.9',
+  '/missions/': '0.9',
+  '/blog/': '0.9',
+  '/scriptures/': '0.8',
+  '/about/': '0.8',
+  '/prayer/': '0.8',
+  '/prayer-request/': '0.8',
+  '/training/': '0.7',
+  '/support/': '0.7',
+  '/gallery/': '0.7',
+  '/contact/': '0.6',
+  '/privacy/': '0.3'
+};
+
+const pageUrlsXml = manifest.pages.map(url => {
+  const loc = esc(new URL(url, origin).href);
+  const priority = priorityMap[url] || '0.7';
+  const changefreq = url === '/' || url === '/blog/' ? 'daily' : 'weekly';
+  return `  <url>
+    <loc>${loc}</loc>
+    <changefreq>${changefreq}</changefreq>
+    <priority>${priority}</priority>
+  </url>`;
+}).join('\n');
+
+const postUrlsXml = posts.map(p => `  <url>
+    <loc>${esc(new URL(`/p/${p.id}.html`, origin).href)}</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>`).join('\n');
+
+const sitemapContent = `<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+${pageUrlsXml}
+${postUrlsXml}
+</urlset>`;
+
+await fs.writeFile(path.join(dist, 'sitemap.xml'), sitemapContent);
+await fs.writeFile(path.join(dist, 'robots.txt'), `User-agent: *
+Allow: /
+
+Sitemap: ${new URL('/sitemap.xml', origin).href}
+`);
 
 console.log(`Built ${manifest.pages.length} ministry/blog pages; preserved ${posts.length} article URLs.`);
