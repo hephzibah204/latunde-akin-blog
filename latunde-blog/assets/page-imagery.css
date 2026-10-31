@@ -69,6 +69,10 @@
   object-position: 82% center;
 }
 
+.intro-photo img[src*="hero-enhanced"] {
+  object-position: center top;
+}
+
 .intro-photo figcaption {
   position: absolute;
   bottom: var(--space-md);
