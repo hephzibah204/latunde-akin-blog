@@ -169,7 +169,7 @@ for (let i = 0; i < posts.length; i++) {
   const hasImg = p.images && p.images.length > 0;
   const imgUrl = hasImg ? `../${p.images[0].src}` : '../assets/logo.svg';
   const postUrl = `https://www.havecompassion.org/p/${p.id}.html`;
-  const absImgUrl = hasImg ? `https://www.havecompassion.org/${p.images[0].src}` : 'https://www.havecompassion.org/assets/og-article-default.png';
+  const absImgUrl = hasImg ? `https://www.havecompassion.org/${p.images[0].src}` : 'https://www.havecompassion.org/assets/og-article-default.jpg?v=2';
   const paragraphs = p.text.split('\n\n').filter(Boolean);
   const prevPost = i > 0 ? posts[i - 1] : null;
   const nextPost = i < posts.length - 1 ? posts[i + 1] : null;
@@ -184,6 +184,7 @@ for (let i = 0; i < posts.length; i++) {
   <meta name="author" content="Latunde Akin">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="${postUrl}">
+  <link rel="image_src" href="${absImgUrl}">
   <link rel="icon" type="image/svg+xml" href="../assets/hctm-mark.svg">
   <link rel="apple-touch-icon" href="../assets/apple-touch-icon.png">
   <link rel="manifest" href="../assets/site.webmanifest">
