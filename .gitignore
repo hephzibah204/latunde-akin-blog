@@ -10,3 +10,4 @@ build_primary_report.py
 compare_primary.py
 inspect_primary.py
 primary-comparison/
+.hallmark/

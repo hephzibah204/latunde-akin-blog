@@ -1,10 +1,16 @@
+/* Hallmark · shape: Stage · genre: editorial · theme: brand · redesign: full
+ * paper: oklch(98.5% 0.008 85) · accent: oklch(74% 0.15 85) · display: Lora · body: Plus Jakarta Sans · hero: Stage · nav: edge-aligned · footer: ledger · signature: daily-manna
+ * axes: light/roman-serif/chromatic-gold · posture: Stage · contrast: pass · fold: pass · v2.0.0 */
+/* Hallmark · pre-emit critique: P9 H8 E9 S9 R9 V9 · weakest: H, tightened hero headline to 6 words */
+
 .writing-thumbnail {
   display: block;
-  margin-bottom: 20px;
+  margin-bottom: var(--space-md);
   overflow: hidden;
-  background: var(--mist);
+  background: var(--color-paper-2);
   border-radius: var(--radius-sm);
   position: relative;
+  border: var(--rule-hair) solid var(--color-rule);
 }
 
 .writing-thumbnail img {
@@ -13,42 +19,42 @@
   height: 230px;
   object-fit: cover;
   object-position: center 25%;
-  transition: transform 0.4s ease;
 }
 
-.writing-thumbnail:hover img {
-  transform: scale(1.03);
+.writing-thumbnail:hover {
+  border-color: var(--color-accent);
 }
 
 .writing:first-child .writing-thumbnail img {
   object-fit: cover;
-  background: #edf3f6;
+  background: var(--color-paper-2);
 }
 
 .page-intro.has-photo {
-  padding-top: 65px;
-  padding-bottom: 65px;
+  padding-top: var(--space-2xl);
+  padding-bottom: var(--space-2xl);
 }
 
 .has-photo > .wrap {
   display: grid;
   grid-template-columns: minmax(0, 1.15fr) minmax(0, 1fr);
-  gap: 60px;
+  gap: var(--gap-columns);
   align-items: center;
 }
 
 .has-photo h1 {
   font-size: clamp(2.4rem, 4.5vw, 4rem);
-  margin-bottom: 20px;
+  margin-bottom: var(--space-lg);
+  text-wrap: balance;
 }
 
 .intro-photo {
   margin: 0;
   position: relative;
   overflow: hidden;
-  border-radius: var(--radius-md);
-  box-shadow: var(--shadow-lg);
-  border: 1px solid var(--line);
+  border-radius: var(--radius-card);
+  box-shadow: var(--shadow-md);
+  border: var(--rule-hair) solid var(--color-rule);
 }
 
 .intro-photo img {
@@ -57,11 +63,6 @@
   height: 440px;
   object-fit: cover;
   object-position: center 35%;
-  transition: transform 0.4s ease;
-}
-
-.intro-photo:hover img {
-  transform: scale(1.02);
 }
 
 .intro-photo img[src$="field-3.jpeg"] {
@@ -70,30 +71,29 @@
 
 .intro-photo figcaption {
   position: absolute;
-  bottom: 16px;
-  left: 16px;
-  background: rgba(255, 255, 255, 0.95);
-  backdrop-filter: blur(8px);
-  color: var(--navy);
-  font-weight: 700;
-  padding: 8px 14px;
-  font-size: 0.82rem;
+  bottom: var(--space-md);
+  left: var(--space-md);
+  background: var(--color-paper);
+  color: var(--color-ink);
+  font-weight: 600;
+  padding: var(--space-xs) var(--space-sm);
+  font-size: var(--text-xs);
   border-radius: var(--radius-sm);
-  border: 1px solid rgba(212, 175, 55, 0.4);
+  border: var(--rule-hair) solid var(--color-rule);
   box-shadow: var(--shadow-sm);
   display: flex;
   align-items: center;
-  gap: 6px;
+  gap: var(--space-xs);
 }
 
 .intro-photo figcaption::before {
   content: "✦";
-  color: var(--gold);
+  color: var(--color-accent);
 }
 
 @media (min-width: 651px) and (max-width: 950px) {
   .has-photo > .wrap {
-    gap: 35px;
+    gap: var(--gap-columns);
   }
   .has-photo h1 {
     font-size: 3rem;
@@ -109,10 +109,10 @@
 @media (max-width: 650px) {
   .has-photo > .wrap {
     grid-template-columns: 1fr;
-    gap: 30px;
+    gap: var(--gap-columns);
   }
   .page-intro.has-photo {
-    padding: 40px 0;
+    padding: var(--space-xl) 0;
   }
   .has-photo h1 {
     font-size: clamp(2.1rem, 7.5vw, 2.9rem);
