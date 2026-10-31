@@ -11,3 +11,5 @@ compare_primary.py
 inspect_primary.py
 primary-comparison/
 .hallmark/
+
+.vercel

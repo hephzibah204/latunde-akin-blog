@@ -199,7 +199,7 @@ for (let i = 0; i < posts.length; i++) {
   <meta property="og:locale" content="en_US">
   <meta property="og:image" content="${absImgUrl}">
   <meta property="og:image:secure_url" content="${absImgUrl}">
-  <meta property="og:image:type" content="${hasImg ? 'image/jpeg' : 'image/png'}">
+  <meta property="og:image:type" content="image/jpeg">
   <meta property="og:image:width" content="${hasImg ? '640' : '1200'}">
   <meta property="og:image:height" content="${hasImg ? '400' : '630'}">
   <meta property="og:image:alt" content="${escapeHtml(p.title)}">
