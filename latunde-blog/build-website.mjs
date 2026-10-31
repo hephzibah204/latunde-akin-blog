@@ -77,23 +77,67 @@ const svgCompass = `<svg width="28" height="28" viewBox="0 0 24 24" fill="none" 
 const svgChevronLeft = `<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="15 18 9 12 15 6"/></svg>`;
 const svgChevronRight = `<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="9 18 15 12 9 6"/></svg>`;
 
-const nav = [
-  ['/', 'Home'],
-  ['/about/', 'About'],
-  ['/missions/', 'Missions'],
-  ['/salvation/', 'Receive Jesus'],
-  ['/blog/', 'Blog'],
-  ['/scriptures/', 'Scriptures'],
-  ['/gallery/', 'Gallery'],
-  ['/prayer/', 'Prayer'],
-  ['/training/', 'Training'],
-  ['/support/', 'Support'],
-  ['/contact/', 'Contact']
+const svgChevronDown = `<svg class="dropdown-chevron" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="6 9 12 15 18 9"/></svg>`;
+
+const navGroups = [
+  { url: '/', label: 'Home' },
+  {
+    label: 'Ministry',
+    items: [
+      { url: '/about/', label: 'About HCTM', desc: 'Heart and mandate of the ministry' },
+      { url: '/missions/', label: 'Missions & Outreach', desc: 'Frontline missionary fields' },
+      { url: '/gallery/', label: 'Field Gallery', desc: 'Photographs from outreach' },
+      { url: '/training/', label: 'Discipleship Training', desc: 'Equipping believers to bear fruit' }
+    ]
+  },
+  {
+    label: 'Writings & Word',
+    items: [
+      { url: '/blog/', label: 'Blog & Writings', desc: 'All writings by Latunde Akin' },
+      { url: '/scriptures/', label: 'Scripture Bank', desc: 'Verses for soul winning and prayer' },
+      { url: '/salvation/', label: 'Receive Jesus', desc: 'Biblical salvation guide' }
+    ]
+  },
+  {
+    label: 'Prayer',
+    items: [
+      { url: '/prayer/', label: 'Prayer Community', desc: 'Stand with global intercessors' },
+      { url: '/prayer-request/', label: 'Submit Prayer Request', desc: 'Confidential prayer via WhatsApp' }
+    ]
+  },
+  {
+    label: 'Support & Contact',
+    items: [
+      { url: '/support/', label: 'Support Missionaries', desc: 'Practical succour and supplies' },
+      { url: '/contact/', label: 'Contact HCTM', desc: 'Get in touch with the team' }
+    ]
+  }
 ];
+
+const renderNav = currentRoute => navGroups.map(entry => {
+  if (entry.url) {
+    return `<a href="${entry.url}" ${currentRoute === entry.url ? 'aria-current="page"' : ''} class="nav-link">${entry.label}</a>`;
+  }
+  const isGroupActive = entry.items.some(item => item.url === currentRoute);
+  return `<div class="nav-dropdown" data-dropdown>
+    <button type="button" class="nav-dropdown-toggle ${isGroupActive ? 'is-active-parent' : ''}" aria-expanded="false" aria-haspopup="true">
+      <span>${entry.label}</span>
+      ${svgChevronDown}
+    </button>
+    <div class="dropdown-menu" role="menu">
+      ${entry.items.map(sub => `
+        <a href="${sub.url}" class="dropdown-item ${currentRoute === sub.url ? 'is-active' : ''}" role="menuitem">
+          <span class="dropdown-title">${sub.label}</span>
+          <span class="dropdown-desc">${sub.desc}</span>
+        </a>
+      `).join('')}
+    </div>
+  </div>`;
+}).join('');
 
 const scriptureBanner = `<div class="scripture-banner"><div class="wrap"><span class="scripture-verse">“And of some have compassion, making a difference: and others save with fear, pulling them out of the fire.”</span><span class="scripture-ref">JUDE 1:22, 23</span><a href="/salvation/" class="banner-cta">Receive Jesus Today</a></div></div>`;
 
-const header = route => `${scriptureBanner}<a class="skip" href="#main">Skip to content</a><header class="site-header"><div class="header-inner"><a class="brand" href="/" aria-label="HCTM home"><span class="brand-mark"><img src="/assets/hctm-mark.svg" alt="" width="44" height="44"></span><span>Have Compassion<small>on Them Missions</small></span></a><button class="menu-toggle" aria-expanded="false" aria-controls="site-nav">Menu</button><nav id="site-nav" aria-label="Main navigation">${nav.map(([url, label]) => `<a href="${url}" ${route === url ? 'aria-current="page"' : ''}>${label}</a>`).join('')}<a class="nav-cta" href="/prayer-request/">Submit Prayer</a></nav></div></header>`;
+const header = route => `${scriptureBanner}<a class="skip" href="#main">Skip to content</a><header class="site-header"><div class="header-inner"><a class="brand" href="/" aria-label="HCTM home"><span class="brand-mark"><img src="/assets/hctm-mark.svg" alt="" width="44" height="44"></span><span>Have Compassion<small>on Them Missions</small></span></a><button class="menu-toggle" aria-expanded="false" aria-controls="site-nav" aria-label="Toggle navigation menu"><span class="menu-icon" aria-hidden="true"><span class="bar bar-top"></span><span class="bar bar-mid"></span><span class="bar bar-bot"></span></span><span class="menu-label">Menu</span></button><nav id="site-nav" class="site-nav" aria-label="Main navigation"><div class="nav-items-grid">${renderNav(route)}</div><div class="nav-drawer-actions"><a class="button btn-nav-prayer" href="/prayer-request/">Submit Prayer Request</a><a class="button secondary btn-nav-salvation" href="/salvation/">Receive Jesus Today</a></div></nav></div></header>`;
 
 const footer = `<footer class="site-footer"><div class="wrap footer-grid"><div><div class="footer-brand"><img src="/assets/hctm-mark.svg" alt="" width="42" height="42"><h2>Have Compassion<br>on Them Missions</h2></div><p>Winning souls for Christ, restoring grassroots discipleship, and providing faithful prayer and practical succour for missionaries.</p></div><div><h3>Explore &amp; Grow</h3><a href="/about/">About HCTM</a><a href="/missions/">Missions &amp; Work</a><a href="/salvation/">Receive Jesus (Salvation Guide)</a><a href="/scriptures/">Topical Scripture Bank</a><a href="/blog/">Blog &amp; Writings Archive</a><a href="/gallery/">Mission Field Gallery</a><a href="/training/">Training &amp; Discipleship</a><a href="/support/">Support Missionaries</a></div><div><h3>Connect &amp; Pray</h3><a href="/prayer-request/">Submit a prayer request</a>${ext(whatsapp, 'WhatsApp prayer group', '')}${ext(telegram, 'Telegram prayer channel', '')}${ext(direct, 'Contact HCTM directly', '')}<a href="/privacy/">Privacy notice</a></div></div><div class="wrap footer-end"><div>© ${new Date().getFullYear()} Have Compassion on Them Missions</div><span>“And of some have compassion, making a difference.” (Jude 1:22)</span></div></footer>`;
 

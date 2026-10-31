@@ -8,18 +8,65 @@ if (oldPost && (location.pathname === '/' || location.pathname === '/index.html'
 
 // Mobile navigation menu toggle
 const menu = document.querySelector('.menu-toggle');
-menu?.addEventListener('click', () => {
-  const expanded = menu.getAttribute('aria-expanded') === 'true';
-  menu.setAttribute('aria-expanded', String(!expanded));
-  document.querySelector('#site-nav')?.classList.toggle('is-open', !expanded);
+const siteNav = document.querySelector('#site-nav');
+const menuLabel = document.querySelector('.menu-label');
+
+function toggleMobileNav(force) {
+  const willOpen = typeof force === 'boolean' ? force : menu?.getAttribute('aria-expanded') !== 'true';
+  menu?.setAttribute('aria-expanded', String(willOpen));
+  menu?.setAttribute('aria-label', willOpen ? 'Close navigation menu' : 'Open navigation menu');
+  if (menuLabel) menuLabel.textContent = willOpen ? 'Close' : 'Menu';
+  siteNav?.classList.toggle('is-open', willOpen);
+  document.body.classList.toggle('nav-open', willOpen);
+}
+
+menu?.addEventListener('click', () => toggleMobileNav());
+
+// Dropdown menu toggle handling
+document.querySelectorAll('.nav-dropdown').forEach(dropdown => {
+  const toggle = dropdown.querySelector('.nav-dropdown-toggle');
+  toggle?.addEventListener('click', event => {
+    event.stopPropagation();
+    const isOpen = dropdown.classList.contains('is-open');
+    document.querySelectorAll('.nav-dropdown.is-open').forEach(d => {
+      if (d !== dropdown) {
+        d.classList.remove('is-open');
+        d.querySelector('.nav-dropdown-toggle')?.setAttribute('aria-expanded', 'false');
+      }
+    });
+    dropdown.classList.toggle('is-open', !isOpen);
+    toggle.setAttribute('aria-expanded', String(!isOpen));
+  });
+});
+
+document.addEventListener('click', event => {
+  if (!event.target.closest('.nav-dropdown')) {
+    document.querySelectorAll('.nav-dropdown.is-open').forEach(d => {
+      d.classList.remove('is-open');
+      d.querySelector('.nav-dropdown-toggle')?.setAttribute('aria-expanded', 'false');
+    });
+  }
+});
+
+siteNav?.querySelectorAll('.nav-link, .dropdown-item, .nav-drawer-actions a').forEach(link => {
+  link.addEventListener('click', () => {
+    if (siteNav.classList.contains('is-open')) toggleMobileNav(false);
+    document.querySelectorAll('.nav-dropdown.is-open').forEach(d => {
+      d.classList.remove('is-open');
+      d.querySelector('.nav-dropdown-toggle')?.setAttribute('aria-expanded', 'false');
+    });
+  });
 });
 
 document.addEventListener('keydown', event => {
   if (event.key === 'Escape') {
-    if (menu?.getAttribute('aria-expanded') === 'true') {
-      menu.setAttribute('aria-expanded', 'false');
-      document.querySelector('#site-nav')?.classList.remove('is-open');
-      menu.focus();
+    document.querySelectorAll('.nav-dropdown.is-open').forEach(d => {
+      d.classList.remove('is-open');
+      d.querySelector('.nav-dropdown-toggle')?.setAttribute('aria-expanded', 'false');
+    });
+    if (siteNav?.classList.contains('is-open')) {
+      toggleMobileNav(false);
+      menu?.focus();
     }
     closeBibleModal();
   }
