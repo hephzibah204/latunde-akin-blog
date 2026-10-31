@@ -141,7 +141,7 @@ const header = route => `${scriptureBanner}<a class="skip" href="#main">Skip to 
 
 const footer = `<footer class="site-footer"><div class="wrap footer-grid"><div><div class="footer-brand"><img src="/assets/hctm-mark.svg" alt="" width="42" height="42"><h2>Have Compassion<br>on Them Missions</h2></div><p>Winning souls for Christ, restoring grassroots discipleship, and providing faithful prayer and practical succour for missionaries.</p></div><div><h3>Explore &amp; Grow</h3><a href="/about/">About HCTM</a><a href="/missions/">Missions &amp; Work</a><a href="/salvation/">Receive Jesus (Salvation Guide)</a><a href="/scriptures/">Topical Scripture Bank</a><a href="/blog/">Blog &amp; Writings Archive</a><a href="/gallery/">Mission Field Gallery</a><a href="/training/">Training &amp; Discipleship</a><a href="/support/">Support Missionaries</a></div><div><h3>Connect &amp; Pray</h3><a href="/prayer-request/">Submit a prayer request</a>${ext(whatsapp, 'WhatsApp prayer group', '')}${ext(telegram, 'Telegram prayer channel', '')}${ext(direct, 'Contact HCTM directly', '')}<a href="/privacy/">Privacy notice</a></div></div><div class="wrap footer-end"><div>© ${new Date().getFullYear()} Have Compassion on Them Missions</div><span>“And of some have compassion, making a difference.” (Jude 1:22)</span></div></footer>`;
 
-const SITE_URL = 'https://latundeakin.org';
+const SITE_URL = 'https://www.havecompassion.org';
 const DEFAULT_OG_IMAGE = `${SITE_URL}/assets/og-image.png`;
 const DEFAULT_OG_IMAGE_ALT = 'Have Compassion on Them Missions (HCTM) — Latunde Akin Archive';
 
@@ -774,7 +774,7 @@ for (const p of posts) {
 const manifest = { pages: [...pages.keys(), '/blog/'], postIds: posts.map(p => p.id) };
 await fs.writeFile(path.join(dist, 'site-manifest.json'), JSON.stringify(manifest, null, 2));
 
-const origin = process.env.SITE_ORIGIN || 'https://latundeakin.org';
+const origin = process.env.SITE_ORIGIN || 'https://www.havecompassion.org';
 const priorityMap = {
   '/': '1.0',
   '/salvation/': '0.9',

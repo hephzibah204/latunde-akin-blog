@@ -375,7 +375,7 @@ const siteOgHtml = `<!DOCTYPE html>
     <div class="card-footer">
       <div class="site-url">
         <span class="url-dot"></span>
-        latundeakin.org
+        havecompassion.org
       </div>
       <div>Writings • Field Reports • Daily Manna • Intercession</div>
     </div>
@@ -629,7 +629,7 @@ const articleOgHtml = `<!DOCTYPE html>
     <div class="card-footer">
       <div class="site-url">
         <span class="url-dot"></span>
-        latundeakin.org/blog/
+        havecompassion.org/blog/
       </div>
       <div>Have Compassion on Them Missions (HCTM)</div>
     </div>

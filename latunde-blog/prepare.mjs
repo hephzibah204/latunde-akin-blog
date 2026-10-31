@@ -168,8 +168,8 @@ for (let i = 0; i < posts.length; i++) {
   const excerpt = cleanExcerpt(p.text);
   const hasImg = p.images && p.images.length > 0;
   const imgUrl = hasImg ? `../${p.images[0].src}` : '../assets/logo.svg';
-  const postUrl = `https://latundeakin.org/p/${p.id}.html`;
-  const absImgUrl = hasImg ? `https://latundeakin.org/${p.images[0].src}` : 'https://latundeakin.org/assets/og-article-default.png';
+  const postUrl = `https://www.havecompassion.org/p/${p.id}.html`;
+  const absImgUrl = hasImg ? `https://www.havecompassion.org/${p.images[0].src}` : 'https://www.havecompassion.org/assets/og-article-default.png';
   const paragraphs = p.text.split('\n\n').filter(Boolean);
   const prevPost = i > 0 ? posts[i - 1] : null;
   const nextPost = i < posts.length - 1 ? posts[i + 1] : null;
@@ -231,15 +231,15 @@ for (let i = 0; i < posts.length; i++) {
       "@type": "Person",
       "name": "Latunde Akin",
       "jobTitle": "Missionary & Teacher",
-      "url": "https://latundeakin.org/about/"
+      "url": "https://www.havecompassion.org/about/"
     },
     "publisher": {
       "@type": "Organization",
       "name": "Have Compassion on Them Missions (HCTM)",
-      "url": "https://latundeakin.org/",
+      "url": "https://www.havecompassion.org/",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://latundeakin.org/assets/hctm-mark.svg"
+        "url": "https://www.havecompassion.org/assets/hctm-mark.svg"
       }
     }
   }
@@ -362,12 +362,12 @@ for (let i = 0; i < posts.length; i++) {
 const sitemapXml = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://latundeakin.org/</loc>
+    <loc>https://www.havecompassion.org/</loc>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 ${posts.map(p => `  <url>
-    <loc>https://latundeakin.org/p/${p.id}.html</loc>
+    <loc>https://www.havecompassion.org/p/${p.id}.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>`).join('\n')}
@@ -378,7 +378,7 @@ await fs.writeFile('dist/sitemap.xml', sitemapXml);
 const robotsTxt = `User-agent: *
 Allow: /
 
-Sitemap: https://latundeakin.org/sitemap.xml
+Sitemap: https://www.havecompassion.org/sitemap.xml
 `;
 await fs.writeFile('dist/robots.txt', robotsTxt);
 
